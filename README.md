@@ -1,2 +1,5 @@
 # Plan-EO
-Code repository for Plan-EO data pipeline.
+
+Plan-EO aims to improve child health outcomes in low- and middle-income countries by generating research-driven insights into the environmental and sociodemographic factors that influence the transmission of enteric diseases {Colston2024}. Accurate and accessible data are essential for the prediction of where interventions are needed, allowing research to generate insights that inform public health strategies. However, managing and integrating diverse datasets, ranging from geographic information to international health surveys, presents significant challenges.
+
+To address these challenges, our capstone team developed a robust and semi-automated data pipeline. This system collects and integrates data from multiple sources and formats, ensuring that researchers have access to well-structured, high-quality datasets. By streamlining these processes, our work improves data reliability, increases efficiency, and accelerates the delivery of actionable insights. By improving the research capacity of Plan-EO, we can have more effective evidence-based interventions to mitigate the global burden of enteric diseases in children.
