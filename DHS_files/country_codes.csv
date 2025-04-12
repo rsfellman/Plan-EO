@@ -1,0 +1,93 @@
+,DHS_CountryCode,CountryName,ISO3_CountryCode
+0,AF,Afghanistan,AFG
+1,AL,Albania,ALB
+2,AO,Angola,AGO
+3,AM,Armenia,ARM
+4,AZ,Azerbaijan,AZE
+5,BD,Bangladesh,BGD
+6,BJ,Benin,BEN
+7,BO,Bolivia,BOL
+8,BT,Botswana,BWA
+9,BR,Brazil,BRA
+10,BF,Burkina Faso,BFA
+11,BU,Burundi,BDI
+12,KH,Cambodia,KHM
+13,CM,Cameroon,CMR
+14,CV,Cape Verde,CPV
+15,CF,Central African Republic,CAF
+16,TD,Chad,TCD
+17,CO,Colombia,COL
+18,KM,Comoros,COM
+19,CG,Congo,COG
+20,CD,Congo Democratic Republic,COD
+21,CI,Cote d'Ivoire,CIV
+22,DR,Dominican Republic,DOM
+23,EC,Ecuador,ECU
+24,EG,Egypt,EGY
+25,ES,El Salvador,SLV
+26,EK,Equatorial Guinea,GNQ
+27,ER,Eritrea,ERI
+28,SZ,Eswatini,SWZ
+29,ET,Ethiopia,ETH
+30,GA,Gabon,GAB
+31,GM,Gambia,GMB
+32,GH,Ghana,GHA
+33,GU,Guatemala,GTM
+34,GN,Guinea,GIN
+35,GY,Guyana,GUY
+36,HT,Haiti,HTI
+37,HN,Honduras,HND
+38,IA,India,IND
+39,ID,Indonesia,IDN
+40,JO,Jordan,JOR
+41,KK,Kazakhstan,KAZ
+42,KE,Kenya,KEN
+43,KY,Kyrgyz Republic,KGZ
+44,LA,Lao People's Democratic Republic,LAO
+45,LS,Lesotho,LSO
+46,LB,Liberia,LBR
+47,MD,Madagascar,MDG
+48,MW,Malawi,MWI
+49,MV,Maldives,MDV
+50,ML,Mali,MLI
+51,MR,Mauritania,MRT
+52,MX,Mexico,MEX
+53,MB,Moldova,MDA
+54,MA,Morocco,MAR
+55,MZ,Mozambique,MOZ
+56,MM,Myanmar,MMR
+57,NM,Namibia,NAM
+58,NP,Nepal,NPL
+59,NC,Nicaragua,NIC
+60,NI,Niger,NER
+61,NG,Nigeria,NGA
+62,OS,Nigeria (Ondo State),
+63,PK,Pakistan,PAK
+64,PG,Papua New Guinea,PNG
+65,PY,Paraguay,PRY
+66,PE,Peru,PER
+67,PH,Philippines,PHL
+68,RW,Rwanda,RWA
+69,WS,Samoa,WSM
+70,ST,Sao Tome and Principe,STP
+71,SN,Senegal,SEN
+72,SL,Sierra Leone,SLE
+73,ZA,South Africa,ZAF
+74,LK,Sri Lanka,LKA
+75,SD,Sudan,SDN
+76,TJ,Tajikistan,TJK
+77,TZ,Tanzania,TZA
+78,TH,Thailand,THA
+79,TL,Timor-Leste,TLS
+80,TG,Togo,TGO
+81,TT,Trinidad and Tobago,TTO
+82,TN,Tunisia,TUN
+83,TR,Turkey,TUR
+84,TM,Turkmenistan,TKM
+85,UG,Uganda,UGA
+86,UA,Ukraine,UKR
+87,UZ,Uzbekistan,UZB
+88,VN,Vietnam,VNM
+89,YE,Yemen,YEM
+90,ZM,Zambia,ZMB
+91,ZW,Zimbabwe,ZWE

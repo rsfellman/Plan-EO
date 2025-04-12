@@ -1,0 +1,244 @@
+osm_id,population,source,place,is_in,name,name_ps,longitude,latitude,geom_type
+9407,N/A,N/A,N/A,N/A,Andorra,اندورا,1.5973329,42.5423797,relation
+14296,N/A,N/A,N/A,N/A,Slovensko,سلواکيا,19.6994497,48.672498,relation
+16239,N/A,N/A,N/A,N/A,Österreich,اتريش,13.3457608,47.6964118,relation
+17511,N/A,N/A,N/A,N/A,Deutschland - Österreich,N/A,11.6951078,48.0208648,relation
+21335,N/A,N/A,N/A,N/A,Magyarország,هنګري,19.505798,47.1611925,relation
+28699,3694608,N/A,N/A,N/A,საქართველო,ګرجستان,43.3105088,42.3207789,relation
+36989,453,N/A,N/A,N/A,Civitas Vaticana - Città del Vaticano,واټيکان ښار,12.4520766,41.9037936,relation
+49715,N/A,geoportal.gov.pl;PRG;Urząd Morski w Gdyni;Ustawa o obszarach morskich Rzeczypospolitej Polskiej i Administracji Morskiej;Act on maritime areas of the Republic of Poland and Maritime Administration;United Nations Convention on the Law of the Sea,N/A,N/A,Polska,پولنډ,19.107711,52.0190484,relation
+49898,N/A,N/A,N/A,N/A,ព្រះរាជាណាចក្រ​កម្ពុជា,کمبودیا,104.982527,12.0507592,relation
+49903,N/A,CIA World database II,N/A,N/A,ປະເທດລາວ,لاووس,103.8596618,18.2091734,relation
+49915,N/A,N/A,N/A,N/A,Việt Nam,N/A,108.5005611,15.5423885,relation
+50046,N/A,N/A,N/A,N/A,Danmark,ډېنمارک,11.6341948,56.2020482,relation
+50371,N/A,generated from SRTM,N/A,N/A,မြန်မာ,ميانمار,96.6714989,19.0369595,relation
+51239,N/A,N/A,N/A,N/A,Deutschland — Schweiz / Suisse / Svizerra,N/A,8.5698024,47.6704666,relation
+51477,N/A,N/A,N/A,N/A,Deutschland,آلمان,10.4541231,51.1846362,relation
+51684,10516707,N/A,N/A,N/A,Česko,چېک جمهوريت,15.4749142,49.8037544,relation
+51701,N/A,N/A,N/A,N/A,Schweiz/Suisse/Svizzera/Svizra,سويس,8.2241027,46.8132061,relation
+52411,N/A,N/A,N/A,N/A,België / Belgique / Belgien,بلجیم,4.3985053,50.5238815,relation
+52822,N/A,N/A,N/A,N/A,Sverige,سويډن,17.3855922,62.0985346,relation
+52939,N/A,N/A,N/A,N/A,Føroyar,N/A,-6.9721695,61.8663061,relation
+53292,2876591,N/A,N/A,N/A,Shqipëria,البانیا,20.02921,41.1507394,relation
+53293,N/A,N/A,N/A,N/A,Северна Македонија,د مقدونيې ولسمشريزه,21.7434767,41.6131912,relation
+53296,N/A,N/A,N/A,N/A,Crna Gora / Црна Гора,مانتېنېګرو,19.3862528,42.6217463,relation
+54224,N/A,N/A,N/A,N/A,Suomi / Finland,فېنلانډ,25.3349536,64.7732254,relation
+54624,33600,N/A,N/A,N/A,San Marino,سان مارینو,12.459696,43.942837,relation
+58974,4128047,N/A,N/A,N/A,Moldova,N/A,28.3900599,46.9796313,relation
+59065,9491823,N/A,N/A,N/A,Беларусь,بېلاروس,27.9705561,53.7174674,relation
+59470,N/A,N/A,N/A,N/A,Brasil,برازیل,-51.3060136,-14.2999238,relation
+60189,146150789,N/A,N/A,N/A,Россия,روسیه,-74.7863859,61.62186,relation
+60199,N/A,N/A,N/A,N/A,Україна,اوکراین,31.1824341,48.2821722,relation
+62149,N/A,N/A,N/A,N/A,United Kingdom,بريتانيا,-5.9618026,55.3675,relation
+62269,75049,landsat;Isle of Man Government aerial imagery (2001),N/A,N/A,Isle of Man,N/A,-4.5680673,54.1992144,relation
+62273,5123536,N/A,N/A,N/A,Éire / Ireland,د آيرلېنډ جمهوريت,-8.3358076,53.429,relation
+72594,N/A,N/A,N/A,N/A,Latvija,N/A,24.4212395,56.8801097,relation
+72596,N/A,N/A,N/A,N/A,Lietuva,لېتوانيا,23.7456182,55.1736053,relation
+79510,N/A,N/A,N/A,N/A,Eesti,اېسټونيا,24.7963122,58.7238331,relation
+80500,26473055,N/A,N/A,N/A,Australia,آسټراليا,120.2361595,-32.205415,relation
+82675,N/A,N/A,N/A,N/A,France - España,N/A,0.6918148,42.8559754,relation
+87565,49991300,N/A,N/A,N/A,South Africa,سویلي افریقا,27.3117083,-34.6519318,relation
+88210,N/A,N/A,N/A,N/A,Eswatini,سوازيلانډ,31.4628917,-26.5179105,relation
+89489,N/A,N/A,N/A,N/A,France - Italy (section sud),N/A,7.1731241,44.8125036,relation
+90124,N/A,N/A,N/A,N/A,France - Schweiz/Suisse/Svizzera/Svizra,N/A,6.7724751,46.7561346,relation
+90333,N/A,N/A,N/A,N/A,France - Deutschland,N/A,7.3002828,48.5334222,relation
+90340,N/A,N/A,N/A,N/A,France - Luxembourg / Luxemburg / Lëtzebuerg,N/A,6.0884895,49.4971199,relation
+90341,N/A,N/A,N/A,N/A,France - Belgique / België / Belgien,N/A,4.1820348,50.292986,relation
+90352,N/A,N/A,N/A,N/A,France - Monaco,N/A,7.4240994,43.7383386,relation
+90689,19064409,N/A,N/A,N/A,România,رومانیا,25.1537106,45.9421426,relation
+102666,N/A,N/A,N/A,N/A,Österreich - Schweiz,N/A,10.048203,46.9515376,relation
+102877,N/A,N/A,N/A,N/A,Österreich — Liechtenstein,N/A,9.5832315,47.1656768,relation
+108089,N/A,N/A,N/A,N/A,Ecuador,اېکوادور,-83.6998716,-1.5661675,relation
+114686,129900000,Bing,N/A,N/A,México,N/A,-102.546227,23.5499482,relation
+120027,N/A,N/A,N/A,N/A,Colombia,N/A,-74.4877364,5.9100745,relation
+126410,N/A,N/A,N/A,N/A,France - Andorra,N/A,1.6144285,42.5793173,relation
+148838,331449281,N/A,N/A,N/A,United States,د امریکا متحده آیالاتونه,40.0287143,28.4140588,relation
+161033,N/A,N/A,N/A,N/A,Монгол улс ᠮᠤᠩᠭᠤᠯ ᠤᠯᠤᠰ,مغولستان,103.8333966,46.8648138,relation
+167454,N/A,N/A,N/A,N/A,Chile,چېلي,-87.8774631,-37.1116916,relation
+171496,N/A,N/A,N/A,N/A,Rwanda,راونډا,29.8803849,-1.9435863,relation
+174737,85664944,N/A,N/A,N/A,Türkiye,تورکيه,35.1916472,39.0514487,relation
+178009,N/A,N/A,N/A,N/A,Кыргызстан,قرغزستان,74.7472658,41.2198212,relation
+184629,N/A,N/A,N/A,N/A,འབྲུགཡུལ་,بوتان,90.4357339,27.4744429,relation
+184633,N/A,N/A,N/A,N/A,नेपाल,نيپال,84.1293035,28.3973515,relation
+184640,172954319,N/A,N/A,N/A,বাংলাদেশ,بنګله دېش,90.3440555,23.5018976,relation
+184818,N/A,N/A,N/A,N/A,الأردن,اردن,37.0921488,31.278418,relation
+184840,17951639,N/A,N/A,N/A,سوريا,سوريه,38.9230161,34.8152198,relation
+184843,N/A,N/A,N/A,N/A,لبنان,لېبنان,35.7537833,33.8735886,relation
+186382,N/A,N/A,N/A,N/A,България,بلغاریا,25.6223434,42.7257955,relation
+192307,N/A,N/A,N/A,N/A,Ελλάς,يونان,24.3982818,38.2338876,relation
+192734,N/A,N/A,N/A,N/A,조선민주주의인민공화국,شمالي کوريا,127.5057554,40.2961472,relation
+192756,N/A,N/A,N/A,N/A,Algérie ⵍⵣⵣⴰⵢⴻⵔ الجزائر,الجزاير,1.6642145,28.1321763,relation
+192757,N/A,N/A,N/A,N/A,تونس,تونس,9.701047,33.9951331,relation
+192758,N/A,N/A,N/A,N/A,ليبيا,لېبيا,17.3840719,26.4272902,relation
+192763,N/A,N/A,N/A,N/A,موريتانيا,موریتاني,-11.0357152,21.0179665,relation
+192774,N/A,N/A,N/A,N/A,Gambia,ګامبيا,-15.4100779,13.4405735,relation
+192775,N/A,N/A,N/A,N/A,Sénégal,سېنېګال,-14.5479094,14.4661188,relation
+192776,N/A,N/A,N/A,N/A,Guiné-Bissau,N/A,-15.2661893,11.6688299,relation
+192777,N/A,N/A,N/A,N/A,Sierra Leone,سېرالیون,-11.8860109,8.3774865,relation
+192778,N/A,N/A,N/A,N/A,Guinée,N/A,-11.6029865,9.9331173,relation
+192779,N/A,N/A,N/A,N/A,Côte d’Ivoire,عاج ساحل,-5.5481755,7.4511587,relation
+192780,N/A,Open Cities Monrovia - HOT Field Survey,N/A,N/A,Liberia,لايبېريا,-9.4876997,6.3537579,relation
+192781,30792608,N/A,N/A,N/A,Ghana,ګانا,-0.9937459,7.8570543,relation
+192782,N/A,N/A,N/A,N/A,Togo,N/A,0.8323756,8.5330286,relation
+192783,N/A,N/A,N/A,N/A,Burkina Faso,بورکینا فاسو,-1.5521177,12.2472381,relation
+192784,N/A,N/A,N/A,N/A,Bénin,بېنين,2.3109062,9.2245362,relation
+192785,14517176,N/A,N/A,N/A,Mali,مالي,-3.9864504,17.5744475,relation
+192786,N/A,N/A,N/A,N/A,Niger,نایجېر,8.0828162,17.6053925,relation
+192787,N/A,N/A,N/A,N/A,Nigeria,نايجېريا,8.677473,8.9773704,relation
+192789,N/A,N/A,N/A,N/A,السودان,سوډان,30.4360078,15.455098,relation
+192790,N/A,N/A,N/A,N/A,Ködörösêse tî Bêafrîka / République centrafricaine,د منځنی افريقا ولسمشريزه,20.9406978,6.612159,relation
+192791,N/A,N/A,N/A,N/A,Guinea Ecuatorial,اېکواټوريال ګوينا,8.414328,1.1578902,relation
+192793,N/A,N/A,N/A,N/A,Gabon,ګابن,11.5146223,-0.9038097,relation
+192794,N/A,N/A,N/A,N/A,Congo,د کانګو جمهوريت,14.8436135,-0.7180165,relation
+192795,N/A,N/A,N/A,N/A,République démocratique du Congo,N/A,21.6723749,-4.0335162,relation
+192796,N/A,N/A,N/A,N/A,Uganda,N/A,32.2868705,1.3758793,relation
+192798,N/A,N/A,N/A,N/A,Kenya,کېنيا,37.9082195,-0.1397602,relation
+192799,N/A,N/A,N/A,N/A,Soomaaliya الصومال,سومالیا,46.3034748,5.1928576,relation
+192800,126527060,N/A,N/A,N/A,ኢትዮጵያ إثيوبيا,اېتوپیا,40.4899817,9.1458931,relation
+192801,N/A,N/A,N/A,N/A,Djibouti جيبوتي,جېبوتي,42.7146093,11.8536314,relation
+192830,N/A,N/A,N/A,N/A,Cameroun,کامرون,12.2866594,7.3675637,relation
+195266,N/A,N/A,N/A,N/A,Namibia,نېمبیا,18.3948838,-22.9664803,relation
+195267,N/A,N/A,N/A,N/A,Angola,آنګولا,17.7743076,-11.1925908,relation
+195269,N/A,N/A,N/A,N/A,Burundi,برونډي,29.9252811,-3.3894975,relation
+195270,59441988,maxar,N/A,N/A,Tanzania,N/A,34.9926922,-6.3733676,relation
+195271,N/A,N/A,N/A,N/A,Zambia,زېمبيا,27.8539555,-13.1755742,relation
+195272,N/A,N/A,N/A,N/A,Zimbabwe,زېمبابوې,29.1528251,-19.0169065,relation
+195273,N/A,N/A,N/A,N/A,Moçambique,موزمبيق,35.6333786,-18.6230788,relation
+195290,N/A,N/A,N/A,N/A,Malawi,مالاوي,34.295216,-13.248952,relation
+196240,35727181,maplibrary.org,N/A,N/A,Oʻzbekiston,اوزبکستان,64.606663,41.3861394,relation
+214626,9506000,N/A,N/A,N/A,Тоҷикистон,تاجيکستان,71.2436169,38.8581044,relation
+214665,20223218,N/A,N/A,N/A,Қазақстан,قزاقستان,66.9044258,48.0054301,relation
+214885,3871833,N/A,N/A,N/A,Hrvatska,کروواسيا,16.3288764,44.3658141,relation
+218657,N/A,N/A,N/A,N/A,Slovenija,سلووانیا,14.9861415,46.1490529,relation
+223026,N/A,N/A,N/A,N/A,Türkmenistan,ترکمنستان,59.4773625,38.9643808,relation
+252645,N/A,"wikipedia, 2019",N/A,N/A,Bolivia,بولېویا,-63.5490037,-16.283609,relation
+270009,N/A,N/A,N/A,N/A,Guernsey,N/A,-2.5355896,49.5800876,relation
+270056,1425671352,N/A,country,N/A,中国,چين,104.1375955,31.1129269,relation
+272644,N/A,N/A,N/A,N/A,Venezuela,N/A,-66.5618398,8.2816198,relation
+285454,N/A,N/A,N/A,N/A,British Virgin Islands,N/A,-64.5078453,18.5279556,relation
+286393,47327407,N/A,N/A,N/A,Argentina,ارجنټاین,-63.5989943,-38.4867139,relation
+287072,3286314,N/A,N/A,N/A,Uruguay,یوروګوای,-55.7851781,-32.9339395,relation
+287077,7012433,N/A,N/A,N/A,Paraguay / Paraguái,N/A,-58.4493342,-23.4470203,relation
+287082,N/A,N/A,N/A,N/A,Suriname,سورينام,-55.9656617,4.0236822,relation
+287083,N/A,N/A,N/A,N/A,Guyana,ګويانا,-58.9258496,4.887443,relation
+287666,6393824,N/A,N/A,N/A,Nicaragua,نیکاراګوا,-85.1862709,12.8988362,relation
+287667,N/A,N/A,N/A,N/A,Costa Rica,کوسټاریکا,-84.7659504,8.3593642,relation
+287668,N/A,N/A,N/A,N/A,Panamá,پاناما,-80.1051498,8.4248099,relation
+287670,N/A,N/A,N/A,N/A,Honduras,هندوراس,-85.7692304,15.3001852,relation
+287827,N/A,N/A,N/A,N/A,Belize,بېلیز,-88.2520457,17.1908214,relation
+288247,N/A,N/A,N/A,N/A,Perú,پيرو,-76.6438221,-10.1188645,relation
+295480,10344802,DGT - CAOP 2022,N/A,N/A,Portugal,پرتګال,-18.8733448,35.9912791,relation
+296961,3497000,N/A,N/A,N/A,ኤርትራ Eritrea إرتريا,اریتریا,39.8667684,15.2129068,relation
+299133,383726,N/A,N/A,N/A,Ísland,آيسلېنډ,-18.9090616,65.2194589,relation
+303427,N/A,N/A,N/A,N/A,افغانستان,افغانستان,67.7037327,33.9341804,relation
+304716,1428627663,N/A,N/A,N/A,India,هند,82.6750013,21.1138313,relation
+304751,270203917,N/A,N/A,N/A,Indonesia,اندونيزيا,117.8955784,-2.4670586,relation
+304934,N/A,N/A,N/A,N/A,العراق,عراق,43.9497047,33.2196174,relation
+304938,79926270,N/A,N/A,N/A,ایران,ایران,53.6825806,32.3088854,relation
+305092,30491000,N/A,N/A,N/A,اليمن,یمن,48.1735937,15.4542401,relation
+305095,N/A,N/A,N/A,N/A,قطر,قطر,51.6027555,25.4526592,relation
+305099,N/A,N/A,N/A,N/A,الكويت,کوېټ,47.7786823,29.3140852,relation
+305138,N/A,N/A,N/A,N/A,عمان,عمان,56.0272887,21.5838194,relation
+305142,N/A,N/A,N/A,N/A,Timor-Leste,N/A,125.7886763,-8.8628989,relation
+307573,241499431,N/A,N/A,N/A,پاکستان,پاکستان,68.9966232,30.2591523,relation
+307584,32175224,N/A,N/A,N/A,السعودية,سعودي عربستان,45.0619284,24.2221416,relation
+307756,N/A,N/A,N/A,N/A,대한민국,سوېلي کوريا,128.2597577,35.7640878,relation
+307763,N/A,N/A,N/A,N/A,الإمارات العربية المتحدة,عربي متحده امارات,54.0092586,24.3916716,relation
+307787,N/A,N/A,N/A,N/A,Κύπρος - Kıbrıs,N/A,33.4390382,35.1758113,relation
+307823,70739,https://www.dominica.gov.dm/cms/files/2011_census_report.pdf,N/A,N/A,Dominica,N/A,-61.359954,15.3973214,relation
+307828,10464474,N/A,N/A,N/A,República Dominicana,ډومنيکان جمهوريت,-70.0898891,19.281524,relation
+307829,N/A,N/A,N/A,N/A,Ayiti,هایتي,-73.4301039,19.0560221,relation
+307833,N/A,N/A,N/A,N/A,Cuba,N/A,-79.5434853,21.5546133,relation
+307866,N/A,N/A,N/A,N/A,Papua Niugini,N/A,150.2675757,-6.2064657,relation
+364066,N/A,N/A,N/A,N/A,Հայաստան,ارمنستان,45.0402241,40.0710619,relation
+364110,N/A,N/A,N/A,N/A,Azərbaycan,آزربایجان,47.9699628,40.178816,relation
+365307,N/A,N/A,N/A,N/A,Malta,N/A,14.3794153,35.9339573,relation
+365331,58983000,N/A,N/A,N/A,Italia,اېټاليا,12.7058702,41.1905551,relation
+367988,N/A,N/A,N/A,N/A,Jersey,N/A,-2.1976242,49.1654061,relation
+378734,N/A,N/A,N/A,N/A,البحرين,بحرین,50.596582,26.1111222,relation
+382313,N/A,N/A,country,N/A,日本,جاپان,138.4598582,32.9628929,relation
+443174,113757002,N/A,N/A,N/A,Pilipinas,فلېپين,120.4533876,12.8526307,relation
+447325,N/A,N/A,N/A,N/A,Madagasikara / Madagascar,مادغاسکر,46.8203692,-18.758455,relation
+449220,N/A,N/A,N/A,N/A,臺灣,تایوان,118.3070437,18.3819939,relation
+535774,N/A,N/A,N/A,N/A,Cabo Verde,N/A,-24.0139413,16.00687,relation
+535790,N/A,N/A,N/A,N/A,Comores Komori جزر القمر,قمرټاپوګان,43.8996386,-12.0739385,relation
+535828,N/A,N/A,N/A,N/A,Mauritius / Maurice,ماوریتوس,60.0487113,-15.4319244,relation
+535880,N/A,N/A,N/A,N/A,São Tomé e Príncipe,سایوتومه او پرنسیپ,6.9655601,0.8561232,relation
+536765,N/A,N/A,N/A,N/A,Sesel,سیشل,51.2484077,-6.9884629,relation
+536773,328536,N/A,N/A,N/A,ދިވެހިރާއްޖެ,N/A,73.1627575,3.2015655,relation
+536780,N/A,N/A,N/A,N/A,Singapore,سينګاپور,104.0691681,1.3214293,relation
+536807,N/A,N/A,N/A,N/A,Sri Lanka,سریلانکا,80.7515016,7.877,relation
+536899,N/A,N/A,N/A,N/A,Saint Kitts and Nevis,N/A,-62.711648,17.2548389,relation
+536900,69842,N/A,N/A,N/A,Antigua and Barbuda,N/A,-62.0012368,17.3514641,relation
+537257,N/A,N/A,N/A,N/A,Montserrat,N/A,-62.1931091,16.6811277,relation
+547469,N/A,N/A,archipelago,N/A,The Bahamas,N/A,-76.5739731,24.0897198,relation
+547479,N/A,N/A,N/A,N/A,Turks and Caicos Islands,N/A,-71.7721318,21.5592203,relation
+547511,N/A,N/A,N/A,N/A,Barbados,بارباډوس,-59.5354645,13.19,relation
+550725,N/A,N/A,N/A,N/A,Saint Vincent and the Grenadines,N/A,-61.2866632,12.9913296,relation
+550727,N/A,N/A,N/A,N/A,Grenada,N/A,-61.6083852,12.1928149,relation
+550728,N/A,N/A,N/A,N/A,Saint Lucia,N/A,-60.9748035,13.8892876,relation
+555017,N/A,N/A,N/A,N/A,Jamaica,N/A,-77.1661754,17.6577919,relation
+555717,N/A,N/A,N/A,N/A,Trinidad and Tobago,N/A,-61.1863204,10.7180239,relation
+556706,5158113,N/A,N/A,N/A,New Zealand / Aotearoa,نیوزیلنډ,-4.9940253,-40.9258495,relation
+571178,N/A,N/A,N/A,N/A,Kiribati,N/A,9.6640998,-3.373,relation
+571747,N/A,N/A,N/A,N/A,Viti,N/A,-1.7909982,-17.102407,relation
+571771,N/A,N/A,N/A,N/A,Ṃajeḷ,N/A,166.482571,9.646886,relation
+571802,N/A,N/A,N/A,N/A,Micronesia,د میکرونزي فدرال ټاپوګان,150.1859541,5.558307,relation
+571804,N/A,N/A,N/A,N/A,Naoero,ناورو,166.9348582,-0.528,relation
+571805,N/A,N/A,N/A,N/A,Belau,N/A,132.9244698,5.5008145,relation
+1124039,39050,N/A,N/A,N/A,Monaco,N/A,7.4710098,43.6342266,relation
+1155955,N/A,N/A,N/A,N/A,Liechtenstein,N/A,9.5536939,47.159505,relation
+1278736,32688,CIA World Databank II (+Yahoo images),N/A,N/A,Gibraltar,N/A,-5.3386582,36.1068963,relation
+1311341,N/A,N/A,N/A,N/A,España,اسپانیا,-6.900898,35.7134257,relation
+1428125,N/A,N/A,N/A,N/A,Canada,کاناډا,-96.6632582,62.5063863,relation
+1473946,N/A,N/A,N/A,N/A,ישראל,اسرائيل,35.0812614,31.3945056,relation
+1473947,112716599,N/A,N/A,N/A,مصر,مصر,30.8826314,26.9133795,relation
+1520612,6000000,N/A,N/A,N/A,El Salvador,اېلسلوادور,-88.9090255,13.7014252,relation
+1521463,17980803,N/A,N/A,N/A,Guatemala,ګواتمالا,-90.2891575,15.6900118,relation
+1550322,N/A,N/A,N/A,N/A,Österreich — Schweiz / Suisse / Svizzera,N/A,9.6024422,47.4038783,relation
+1558556,N/A,N/A,N/A,N/A,Niuē,N/A,-169.8621129,-19.0541612,relation
+1628284,N/A,https://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005,N/A,N/A,Deutschland - Luxembourg / Luxemburg / Lëtzebuerg,N/A,6.3215733,49.7996396,relation
+1656678,N/A,N/A,N/A,N/A,South Sudan جنوب السودان,سوېلي سوډان,29.6983875,7.8626845,relation
+1674592,N/A,N/A,N/A,N/A,Italia - Slovenija,N/A,13.6470624,46.0519443,relation
+1675252,N/A,N/A,N/A,N/A,Magyarország - Slovenija,N/A,16.35535,46.6762586,relation
+1675337,N/A,N/A,N/A,N/A,Hrvatska - Slovenija,N/A,14.990629,45.9882266,relation
+1741311,6605168,N/A,N/A,N/A,Србија,سربيا,20.9106517,44.2108652,relation
+1857436,N/A,wikipedia & aproximation,N/A,N/A,Solomon Islands,N/A,162.8577611,-9.0276106,relation
+1872673,N/A,N/A,N/A,N/A,Sāmoa,N/A,-172.1010547,-13.7576404,relation
+1889339,N/A,N/A,N/A,N/A,Botswana,بوتسوانا,24.6862677,-22.3425722,relation
+1964272,N/A,N/A,N/A,N/A,"Saint Helena, Ascension and Tristan da Cunha",N/A,-10.0230549,-24.13,relation
+1983628,N/A,N/A,N/A,N/A,South Georgia and the South Sandwich Islands,N/A,-34.1222152,-56.5100487,relation
+1993208,N/A,N/A,N/A,N/A,Bermuda,برمودا,-64.7671032,32.3191672,relation
+1993867,3500,N/A,N/A,N/A,British Indian Ocean Territory,N/A,71.8661519,-6.3399078,relation
+2067731,N/A,N/A,N/A,N/A,ประเทศไทย,تايلنډ,101.4903096,13.0388323,relation
+2088990,N/A,N/A,N/A,N/A,Kosova / Kosovo,N/A,20.9021105,42.5654857,relation
+2093234,N/A,N/A,N/A,N/A,Lesotho,N/A,28.2335431,-29.6243002,relation
+2103120,N/A,N/A,N/A,N/A,Brunei,برونای,114.1907437,5.274546,relation
+2108121,N/A,N/A,N/A,N/A,Malaysia,N/A,109.1032371,4.6169837,relation
+2171347,660809,N/A,N/A,N/A,Lëtzebuerg,لوګزامبورګ,6.1334744,49.8153157,relation
+2177161,N/A,N/A,N/A,N/A,Anguilla,N/A,-63.175872,18.4283324,relation
+2177246,234023,N/A,N/A,N/A,Vanuatu,N/A,168.3927537,-16.6670601,relation
+2177266,10000,N/A,N/A,N/A,Tuvalu,تووالو,-2.036275,-8.21545,relation
+2184073,57564,N/A,N/A,N/A,Kalaallit Nunaat,N/A,-42.0769588,71.6952795,relation
+2184233,18600,N/A,N/A,N/A,Kūki ʻĀirani,N/A,-161.6204085,-15.4374891,relation
+2185366,49035,N/A,N/A,N/A,Cayman Islands,N/A,-80.5712351,19.5097189,relation
+2185374,N/A,N/A,N/A,N/A,Falkland Islands,N/A,-59.569457,-51.9579887,relation
+2185375,N/A,N/A,archipelago,N/A,Pitcairn Islands,N/A,-127.7632508,-24.4935933,relation
+2186600,1411,N/A,N/A,N/A,Tokelau,N/A,-171.8507247,-8.9882954,relation
+2186665,N/A,N/A,N/A,N/A,Tonga,N/A,-176.4622838,-19.7645579,relation
+2202162,67852556,N/A,N/A,N/A,France,فرانسه,-0.0005052,0.5434276,relation
+2323309,N/A,N/A,N/A,N/A,Nederland,هالنډ,-31.5210445,32.7606975,relation
+2361304,N/A,N/A,N/A,N/A,Tchad تشاد,چاډ,18.73674,15.4459328,relation
+2528142,N/A,"combination of data from 1991 census & data after the war, for complete image",N/A,N/A,Bosna i Hercegovina / Босна и Херцеговина,بوسنيا او هېرزګوينا,17.6762372,43.9158624,relation
+2620918,N/A,N/A,N/A,N/A,Nederland — Belgique / België / Belgien,N/A,4.2794897,51.3128219,relation
+2978650,5562363,N/A,N/A,N/A,Norge,ناروې,12.5021417,13.1870088,relation
+3263728,N/A,N/A,N/A,N/A,Akrotiri and Dhekelia,N/A,33.349513,34.8182526,relation
+3630439,36828330,N/A,N/A,N/A,Maroc ⵍⵎⵖⵔⵉⴱ المغرب,مراکش,-9.1216321,28.6678006,relation
+5389302,N/A,N/A,N/A,N/A,France - Italy (section nord),N/A,6.9427496,45.8739775,relation
+5441968,N/A,N/A,N/A,N/A,República Árabe Saharaui Democrática الجمهورية العربية الصحراوية الديمقراطية,N/A,-12.9927065,24.1688389,relation
+16100722,N/A,N/A,N/A,N/A,France / Suriname border,N/A,-54.2326293,4.158087,relation
+17893356,N/A,N/A,N/A,N/A,Unknown,N/A,-58.126745,-33.0277167,relation
+17893357,N/A,N/A,islet,N/A,Isla Tres Cruces,N/A,-58.129511,-33.0315805,relation
+17893358,N/A,N/A,island,N/A,Isla Bassi,N/A,-58.1185823,-33.0095386,relation
+17893359,N/A,N/A,island,N/A,Isla Filomena Grande,N/A,-58.1012996,-32.9879732,relation
+17894046,N/A,N/A,islet,N/A,Isla Verde,N/A,-58.1980884,-27.2630639,relation

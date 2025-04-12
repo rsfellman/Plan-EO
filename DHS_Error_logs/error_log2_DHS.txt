@@ -1,0 +1,588 @@
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=IDOD4A.zip&Tp=1&Ctry_Code=ID&surv_id=221&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed IDOD4A.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=IDOD4A.zip&Tp=1&Ctry_Code=ID&surv_id=221&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=IDOD4AFL.zip&Tp=1&Ctry_Code=ID&surv_id=221&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed IDOD4AFL.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=IDOD4AFL.zip&Tp=1&Ctry_Code=ID&surv_id=221&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=IDOD4ASD.zip&Tp=1&Ctry_Code=ID&surv_id=221&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed IDOD4ASD.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=IDOD4ASD.zip&Tp=1&Ctry_Code=ID&surv_id=221&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=IDOD4ASV.zip&Tp=1&Ctry_Code=ID&surv_id=221&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed IDOD4ASV.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=IDOD4ASV.zip&Tp=1&Ctry_Code=ID&surv_id=221&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=IDOD5AFL.zip&Tp=1&Ctry_Code=ID&surv_id=335&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed IDOD5AFL.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=IDOD5AFL.zip&Tp=1&Ctry_Code=ID&surv_id=335&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=IDOD5ASD.zip&Tp=1&Ctry_Code=ID&surv_id=335&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed IDOD5ASD.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=IDOD5ASD.zip&Tp=1&Ctry_Code=ID&surv_id=335&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=IDOD5ASV.zip&Tp=1&Ctry_Code=ID&surv_id=335&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed IDOD5ASV.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=IDOD5ASV.zip&Tp=1&Ctry_Code=ID&surv_id=335&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=IDOD6C.zip&Tp=1&Ctry_Code=ID&surv_id=460&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed IDOD6C.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=IDOD6C.zip&Tp=1&Ctry_Code=ID&surv_id=460&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=IDOD6CFL.zip&Tp=1&Ctry_Code=ID&surv_id=460&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed IDOD6CFL.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=IDOD6CFL.zip&Tp=1&Ctry_Code=ID&surv_id=460&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=IDOD6CSD.zip&Tp=1&Ctry_Code=ID&surv_id=460&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed IDOD6CSD.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=IDOD6CSD.zip&Tp=1&Ctry_Code=ID&surv_id=460&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=IDOD6CSV.zip&Tp=1&Ctry_Code=ID&surv_id=460&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed IDOD6CSV.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=IDOD6CSV.zip&Tp=1&Ctry_Code=ID&surv_id=460&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=IDOD7AFL.zip&Tp=1&Ctry_Code=ID&surv_id=544&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed IDOD7AFL.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=IDOD7AFL.zip&Tp=1&Ctry_Code=ID&surv_id=544&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=IDOD7ASD.zip&Tp=1&Ctry_Code=ID&surv_id=544&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed IDOD7ASD.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=IDOD7ASD.zip&Tp=1&Ctry_Code=ID&surv_id=544&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=IDOD7ASV.zip&Tp=1&Ctry_Code=ID&surv_id=544&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed IDOD7ASV.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=IDOD7ASV.zip&Tp=1&Ctry_Code=ID&surv_id=544&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MWHH34FL.zip&Tp=1&Ctry_Code=MW&surv_id=84&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed MWHH34FL.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MWHH34FL.zip&Tp=1&Ctry_Code=MW&surv_id=84&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MWHH34SD.zip&Tp=1&Ctry_Code=MW&surv_id=84&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed MWHH34SD.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MWHH34SD.zip&Tp=1&Ctry_Code=MW&surv_id=84&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MWHH34SV.zip&Tp=1&Ctry_Code=MW&surv_id=84&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed MWHH34SV.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MWHH34SV.zip&Tp=1&Ctry_Code=MW&surv_id=84&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MWIQ34.zip&Tp=1&Ctry_Code=MW&surv_id=84&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed MWIQ34.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MWIQ34.zip&Tp=1&Ctry_Code=MW&surv_id=84&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MWIQ34FL.zip&Tp=1&Ctry_Code=MW&surv_id=84&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed MWIQ34FL.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MWIQ34FL.zip&Tp=1&Ctry_Code=MW&surv_id=84&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MWIQ34SD.zip&Tp=1&Ctry_Code=MW&surv_id=84&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed MWIQ34SD.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MWIQ34SD.zip&Tp=1&Ctry_Code=MW&surv_id=84&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MWIQ34SV.zip&Tp=1&Ctry_Code=MW&surv_id=84&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed MWIQ34SV.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MWIQ34SV.zip&Tp=1&Ctry_Code=MW&surv_id=84&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MWML34.zip&Tp=1&Ctry_Code=MW&surv_id=84&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed MWML34.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MWML34.zip&Tp=1&Ctry_Code=MW&surv_id=84&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MWML34FL.zip&Tp=1&Ctry_Code=MW&surv_id=84&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed MWML34FL.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MWML34FL.zip&Tp=1&Ctry_Code=MW&surv_id=84&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MWML34SD.zip&Tp=1&Ctry_Code=MW&surv_id=84&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed MWML34SD.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MWML34SD.zip&Tp=1&Ctry_Code=MW&surv_id=84&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MWML34SV.zip&Tp=1&Ctry_Code=MW&surv_id=84&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed MWML34SV.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MWML34SV.zip&Tp=1&Ctry_Code=MW&surv_id=84&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MLHR61.zip&Tp=1&Ctry_Code=ML&surv_id=387&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed MLHR61.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MLHR61.zip&Tp=1&Ctry_Code=ML&surv_id=387&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MLHR61FL.zip&Tp=1&Ctry_Code=ML&surv_id=387&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed MLHR61FL.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MLHR61FL.zip&Tp=1&Ctry_Code=ML&surv_id=387&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MLHR61SD.zip&Tp=1&Ctry_Code=ML&surv_id=387&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed MLHR61SD.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MLHR61SD.zip&Tp=1&Ctry_Code=ML&surv_id=387&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MLHR61SV.zip&Tp=1&Ctry_Code=ML&surv_id=387&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed MLHR61SV.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MLHR61SV.zip&Tp=1&Ctry_Code=ML&surv_id=387&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MLPR61FL.zip&Tp=1&Ctry_Code=ML&surv_id=387&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed MLPR61FL.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MLPR61FL.zip&Tp=1&Ctry_Code=ML&surv_id=387&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MLPR61SD.zip&Tp=1&Ctry_Code=ML&surv_id=387&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed MLPR61SD.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MLPR61SD.zip&Tp=1&Ctry_Code=ML&surv_id=387&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MLPR61SV.zip&Tp=1&Ctry_Code=ML&surv_id=387&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed MLPR61SV.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MLPR61SV.zip&Tp=1&Ctry_Code=ML&surv_id=387&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MAHH33FL.zip&Tp=1&Ctry_Code=MA&surv_id=75&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed MAHH33FL.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MAHH33FL.zip&Tp=1&Ctry_Code=MA&surv_id=75&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MAHH33SD.zip&Tp=1&Ctry_Code=MA&surv_id=75&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed MAHH33SD.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MAHH33SD.zip&Tp=1&Ctry_Code=MA&surv_id=75&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MAHH33SV.zip&Tp=1&Ctry_Code=MA&surv_id=75&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed MAHH33SV.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MAHH33SV.zip&Tp=1&Ctry_Code=MA&surv_id=75&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MAIQ33.zip&Tp=1&Ctry_Code=MA&surv_id=75&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed MAIQ33.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MAIQ33.zip&Tp=1&Ctry_Code=MA&surv_id=75&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MAIQ33FL.zip&Tp=1&Ctry_Code=MA&surv_id=75&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed MAIQ33FL.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MAIQ33FL.zip&Tp=1&Ctry_Code=MA&surv_id=75&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MAIQ33SD.zip&Tp=1&Ctry_Code=MA&surv_id=75&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed MAIQ33SD.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MAIQ33SD.zip&Tp=1&Ctry_Code=MA&surv_id=75&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MAIQ33SV.zip&Tp=1&Ctry_Code=MA&surv_id=75&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed MAIQ33SV.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MAIQ33SV.zip&Tp=1&Ctry_Code=MA&surv_id=75&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=NPOD01.zip&Tp=1&Ctry_Code=NP&surv_id=10&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed NPOD01.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=NPOD01.zip&Tp=1&Ctry_Code=NP&surv_id=10&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=NPOD01FL.zip&Tp=1&Ctry_Code=NP&surv_id=10&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed NPOD01FL.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=NPOD01FL.zip&Tp=1&Ctry_Code=NP&surv_id=10&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=NPOD01SD.zip&Tp=1&Ctry_Code=NP&surv_id=10&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed NPOD01SD.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=NPOD01SD.zip&Tp=1&Ctry_Code=NP&surv_id=10&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=NPOD01SV.zip&Tp=1&Ctry_Code=NP&surv_id=10&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed NPOD01SV.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=NPOD01SV.zip&Tp=1&Ctry_Code=NP&surv_id=10&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=OSBR01FL.zip&Tp=1&Ctry_Code=OS&surv_id=8&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed OSBR01FL.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=OSBR01FL.zip&Tp=1&Ctry_Code=OS&surv_id=8&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=OSBR01SD.zip&Tp=1&Ctry_Code=OS&surv_id=8&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed OSBR01SD.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=OSBR01SD.zip&Tp=1&Ctry_Code=OS&surv_id=8&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=OSBR01SV.zip&Tp=1&Ctry_Code=OS&surv_id=8&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed OSBR01SV.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=OSBR01SV.zip&Tp=1&Ctry_Code=OS&surv_id=8&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=OSHH01.zip&Tp=1&Ctry_Code=OS&surv_id=8&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed OSHH01.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=OSHH01.zip&Tp=1&Ctry_Code=OS&surv_id=8&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=OSHH01FL.zip&Tp=1&Ctry_Code=OS&surv_id=8&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed OSHH01FL.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=OSHH01FL.zip&Tp=1&Ctry_Code=OS&surv_id=8&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=OSHH01SD.zip&Tp=1&Ctry_Code=OS&surv_id=8&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed OSHH01SD.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=OSHH01SD.zip&Tp=1&Ctry_Code=OS&surv_id=8&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=OSHH01SV.zip&Tp=1&Ctry_Code=OS&surv_id=8&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed OSHH01SV.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=OSHH01SV.zip&Tp=1&Ctry_Code=OS&surv_id=8&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=OSHW01.zip&Tp=1&Ctry_Code=OS&surv_id=8&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed OSHW01.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=OSHW01.zip&Tp=1&Ctry_Code=OS&surv_id=8&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=OSHW01FL.zip&Tp=1&Ctry_Code=OS&surv_id=8&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed OSHW01FL.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=OSHW01FL.zip&Tp=1&Ctry_Code=OS&surv_id=8&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=OSHW01SD.zip&Tp=1&Ctry_Code=OS&surv_id=8&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed OSHW01SD.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=OSHW01SD.zip&Tp=1&Ctry_Code=OS&surv_id=8&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=OSHW01SV.zip&Tp=1&Ctry_Code=OS&surv_id=8&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed OSHW01SV.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=OSHW01SV.zip&Tp=1&Ctry_Code=OS&surv_id=8&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=OSIR01.zip&Tp=1&Ctry_Code=OS&surv_id=8&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed OSIR01.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=OSIR01.zip&Tp=1&Ctry_Code=OS&surv_id=8&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=OSIR01FL.zip&Tp=1&Ctry_Code=OS&surv_id=8&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed OSIR01FL.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=OSIR01FL.zip&Tp=1&Ctry_Code=OS&surv_id=8&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=OSIR01SD.zip&Tp=1&Ctry_Code=OS&surv_id=8&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed OSIR01SD.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=OSIR01SD.zip&Tp=1&Ctry_Code=OS&surv_id=8&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=OSIR01SV.zip&Tp=1&Ctry_Code=OS&surv_id=8&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed OSIR01SV.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=OSIR01SV.zip&Tp=1&Ctry_Code=OS&surv_id=8&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=OSKR01FL.zip&Tp=1&Ctry_Code=OS&surv_id=8&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed OSKR01FL.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=OSKR01FL.zip&Tp=1&Ctry_Code=OS&surv_id=8&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=OSKR01SD.zip&Tp=1&Ctry_Code=OS&surv_id=8&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed OSKR01SD.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=OSKR01SD.zip&Tp=1&Ctry_Code=OS&surv_id=8&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=OSKR01SV.zip&Tp=1&Ctry_Code=OS&surv_id=8&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed OSKR01SV.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=OSKR01SV.zip&Tp=1&Ctry_Code=OS&surv_id=8&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=PKHH7AFL.zip&Tp=1&Ctry_Code=PK&surv_id=552&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed PKHH7AFL.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=PKHH7AFL.zip&Tp=1&Ctry_Code=PK&surv_id=552&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=PKHH7ASD.zip&Tp=1&Ctry_Code=PK&surv_id=552&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed PKHH7ASD.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=PKHH7ASD.zip&Tp=1&Ctry_Code=PK&surv_id=552&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=PKHH7ASV.zip&Tp=1&Ctry_Code=PK&surv_id=552&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed PKHH7ASV.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=PKHH7ASV.zip&Tp=1&Ctry_Code=PK&surv_id=552&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=PKIQ7A.zip&Tp=1&Ctry_Code=PK&surv_id=552&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed PKIQ7A.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=PKIQ7A.zip&Tp=1&Ctry_Code=PK&surv_id=552&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=PKIQ7AFL.zip&Tp=1&Ctry_Code=PK&surv_id=552&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed PKIQ7AFL.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=PKIQ7AFL.zip&Tp=1&Ctry_Code=PK&surv_id=552&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=PKIQ7ASD.zip&Tp=1&Ctry_Code=PK&surv_id=552&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed PKIQ7ASD.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=PKIQ7ASD.zip&Tp=1&Ctry_Code=PK&surv_id=552&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=PKIQ7ASV.zip&Tp=1&Ctry_Code=PK&surv_id=552&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed PKIQ7ASV.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=PKIQ7ASV.zip&Tp=1&Ctry_Code=PK&surv_id=552&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=PKOD7AFL.zip&Tp=1&Ctry_Code=PK&surv_id=552&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed PKOD7AFL.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=PKOD7AFL.zip&Tp=1&Ctry_Code=PK&surv_id=552&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=PKOD7ASD.zip&Tp=1&Ctry_Code=PK&surv_id=552&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed PKOD7ASD.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=PKOD7ASD.zip&Tp=1&Ctry_Code=PK&surv_id=552&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=PKOD7ASV.zip&Tp=1&Ctry_Code=PK&surv_id=552&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed PKOD7ASV.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=PKOD7ASV.zip&Tp=1&Ctry_Code=PK&surv_id=552&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=PKSQ7A.zip&Tp=1&Ctry_Code=PK&surv_id=552&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed PKSQ7A.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=PKSQ7A.zip&Tp=1&Ctry_Code=PK&surv_id=552&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=PKSQ7AFL.zip&Tp=1&Ctry_Code=PK&surv_id=552&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed PKSQ7AFL.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=PKSQ7AFL.zip&Tp=1&Ctry_Code=PK&surv_id=552&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=PKSQ7ASD.zip&Tp=1&Ctry_Code=PK&surv_id=552&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed PKSQ7ASD.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=PKSQ7ASD.zip&Tp=1&Ctry_Code=PK&surv_id=552&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=PKSQ7ASV.zip&Tp=1&Ctry_Code=PK&surv_id=552&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed PKSQ7ASV.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=PKSQ7ASV.zip&Tp=1&Ctry_Code=PK&surv_id=552&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=PKVA7A.zip&Tp=1&Ctry_Code=PK&surv_id=552&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed PKVA7A.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=PKVA7A.zip&Tp=1&Ctry_Code=PK&surv_id=552&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=PKVA7AFL.zip&Tp=1&Ctry_Code=PK&surv_id=552&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed PKVA7AFL.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=PKVA7AFL.zip&Tp=1&Ctry_Code=PK&surv_id=552&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=PKVA7ASD.zip&Tp=1&Ctry_Code=PK&surv_id=552&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed PKVA7ASD.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=PKVA7ASD.zip&Tp=1&Ctry_Code=PK&surv_id=552&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=PKVA7ASV.zip&Tp=1&Ctry_Code=PK&surv_id=552&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed PKVA7ASV.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=PKVA7ASV.zip&Tp=1&Ctry_Code=PK&surv_id=552&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=RWHH6AFL.zip&Tp=1&Ctry_Code=RW&surv_id=422&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed RWHH6AFL.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=RWHH6AFL.zip&Tp=1&Ctry_Code=RW&surv_id=422&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=RWHH6ASD.zip&Tp=1&Ctry_Code=RW&surv_id=422&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed RWHH6ASD.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=RWHH6ASD.zip&Tp=1&Ctry_Code=RW&surv_id=422&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=RWHH6ASV.zip&Tp=1&Ctry_Code=RW&surv_id=422&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed RWHH6ASV.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=RWHH6ASV.zip&Tp=1&Ctry_Code=RW&surv_id=422&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=RWIQ6A.zip&Tp=1&Ctry_Code=RW&surv_id=422&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed RWIQ6A.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=RWIQ6A.zip&Tp=1&Ctry_Code=RW&surv_id=422&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=RWIQ6AFL.zip&Tp=1&Ctry_Code=RW&surv_id=422&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed RWIQ6AFL.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=RWIQ6AFL.zip&Tp=1&Ctry_Code=RW&surv_id=422&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=RWIQ6ASD.zip&Tp=1&Ctry_Code=RW&surv_id=422&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed RWIQ6ASD.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=RWIQ6ASD.zip&Tp=1&Ctry_Code=RW&surv_id=422&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=RWIQ6ASV.zip&Tp=1&Ctry_Code=RW&surv_id=422&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed RWIQ6ASV.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=RWIQ6ASV.zip&Tp=1&Ctry_Code=RW&surv_id=422&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=SNHH41.zip&Tp=1&Ctry_Code=SN&surv_id=166&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed SNHH41.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=SNHH41.zip&Tp=1&Ctry_Code=SN&surv_id=166&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=SNHH41FL.zip&Tp=1&Ctry_Code=SN&surv_id=166&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed SNHH41FL.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=SNHH41FL.zip&Tp=1&Ctry_Code=SN&surv_id=166&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=SNHH41SD.zip&Tp=1&Ctry_Code=SN&surv_id=166&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed SNHH41SD.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=SNHH41SD.zip&Tp=1&Ctry_Code=SN&surv_id=166&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=SNHH41SV.zip&Tp=1&Ctry_Code=SN&surv_id=166&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed SNHH41SV.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=SNHH41SV.zip&Tp=1&Ctry_Code=SN&surv_id=166&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=SNIQ41.zip&Tp=1&Ctry_Code=SN&surv_id=166&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed SNIQ41.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=SNIQ41.zip&Tp=1&Ctry_Code=SN&surv_id=166&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=SNIQ41FL.zip&Tp=1&Ctry_Code=SN&surv_id=166&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed SNIQ41FL.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=SNIQ41FL.zip&Tp=1&Ctry_Code=SN&surv_id=166&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=SNIQ41SD.zip&Tp=1&Ctry_Code=SN&surv_id=166&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed SNIQ41SD.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=SNIQ41SD.zip&Tp=1&Ctry_Code=SN&surv_id=166&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=SNIQ41SV.zip&Tp=1&Ctry_Code=SN&surv_id=166&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed SNIQ41SV.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=SNIQ41SV.zip&Tp=1&Ctry_Code=SN&surv_id=166&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=SNML41.zip&Tp=1&Ctry_Code=SN&surv_id=166&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed SNML41.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=SNML41.zip&Tp=1&Ctry_Code=SN&surv_id=166&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=SNML41FL.zip&Tp=1&Ctry_Code=SN&surv_id=166&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed SNML41FL.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=SNML41FL.zip&Tp=1&Ctry_Code=SN&surv_id=166&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=SNML41SD.zip&Tp=1&Ctry_Code=SN&surv_id=166&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed SNML41SD.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=SNML41SD.zip&Tp=1&Ctry_Code=SN&surv_id=166&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=SNML41SV.zip&Tp=1&Ctry_Code=SN&surv_id=166&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed SNML41SV.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=SNML41SV.zip&Tp=1&Ctry_Code=SN&surv_id=166&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TZHH31FL.zip&Tp=1&Ctry_Code=TZ&surv_id=67&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed TZHH31FL.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TZHH31FL.zip&Tp=1&Ctry_Code=TZ&surv_id=67&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TZHH31SD.zip&Tp=1&Ctry_Code=TZ&surv_id=67&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed TZHH31SD.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TZHH31SD.zip&Tp=1&Ctry_Code=TZ&surv_id=67&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TZHH31SV.zip&Tp=1&Ctry_Code=TZ&surv_id=67&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed TZHH31SV.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TZHH31SV.zip&Tp=1&Ctry_Code=TZ&surv_id=67&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TZIQ31.zip&Tp=1&Ctry_Code=TZ&surv_id=67&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed TZIQ31.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TZIQ31.zip&Tp=1&Ctry_Code=TZ&surv_id=67&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TZIQ31FL.zip&Tp=1&Ctry_Code=TZ&surv_id=67&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed TZIQ31FL.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TZIQ31FL.zip&Tp=1&Ctry_Code=TZ&surv_id=67&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TZIQ31SD.zip&Tp=1&Ctry_Code=TZ&surv_id=67&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed TZIQ31SD.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TZIQ31SD.zip&Tp=1&Ctry_Code=TZ&surv_id=67&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TZIQ31SV.zip&Tp=1&Ctry_Code=TZ&surv_id=67&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed TZIQ31SV.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TZIQ31SV.zip&Tp=1&Ctry_Code=TZ&surv_id=67&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TZML31.zip&Tp=1&Ctry_Code=TZ&surv_id=67&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed TZML31.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TZML31.zip&Tp=1&Ctry_Code=TZ&surv_id=67&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TZML31FL.zip&Tp=1&Ctry_Code=TZ&surv_id=67&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed TZML31FL.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TZML31FL.zip&Tp=1&Ctry_Code=TZ&surv_id=67&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TZML31SD.zip&Tp=1&Ctry_Code=TZ&surv_id=67&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed TZML31SD.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TZML31SD.zip&Tp=1&Ctry_Code=TZ&surv_id=67&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TZML31SV.zip&Tp=1&Ctry_Code=TZ&surv_id=67&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed TZML31SV.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TZML31SV.zip&Tp=1&Ctry_Code=TZ&surv_id=67&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TRBR71FL.zip&Tp=1&Ctry_Code=TR&surv_id=548&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed TRBR71FL.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TRBR71FL.zip&Tp=1&Ctry_Code=TR&surv_id=548&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TRBR71SD.zip&Tp=1&Ctry_Code=TR&surv_id=548&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed TRBR71SD.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TRBR71SD.zip&Tp=1&Ctry_Code=TR&surv_id=548&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TRBR71SV.zip&Tp=1&Ctry_Code=TR&surv_id=548&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed TRBR71SV.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TRBR71SV.zip&Tp=1&Ctry_Code=TR&surv_id=548&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TRHR71FL.zip&Tp=1&Ctry_Code=TR&surv_id=548&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed TRHR71FL.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TRHR71FL.zip&Tp=1&Ctry_Code=TR&surv_id=548&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TRHR71SD.zip&Tp=1&Ctry_Code=TR&surv_id=548&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed TRHR71SD.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TRHR71SD.zip&Tp=1&Ctry_Code=TR&surv_id=548&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TRHR71SV.zip&Tp=1&Ctry_Code=TR&surv_id=548&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed TRHR71SV.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TRHR71SV.zip&Tp=1&Ctry_Code=TR&surv_id=548&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TRIR71.zip&Tp=1&Ctry_Code=TR&surv_id=548&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed TRIR71.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TRIR71.zip&Tp=1&Ctry_Code=TR&surv_id=548&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TRIR71FL.zip&Tp=1&Ctry_Code=TR&surv_id=548&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed TRIR71FL.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TRIR71FL.zip&Tp=1&Ctry_Code=TR&surv_id=548&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TRIR71SD.zip&Tp=1&Ctry_Code=TR&surv_id=548&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed TRIR71SD.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TRIR71SD.zip&Tp=1&Ctry_Code=TR&surv_id=548&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TRIR71SV.zip&Tp=1&Ctry_Code=TR&surv_id=548&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed TRIR71SV.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TRIR71SV.zip&Tp=1&Ctry_Code=TR&surv_id=548&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TRKR71FL.zip&Tp=1&Ctry_Code=TR&surv_id=548&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed TRKR71FL.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TRKR71FL.zip&Tp=1&Ctry_Code=TR&surv_id=548&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TRKR71SD.zip&Tp=1&Ctry_Code=TR&surv_id=548&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed TRKR71SD.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TRKR71SD.zip&Tp=1&Ctry_Code=TR&surv_id=548&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TRKR71SV.zip&Tp=1&Ctry_Code=TR&surv_id=548&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed TRKR71SV.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TRKR71SV.zip&Tp=1&Ctry_Code=TR&surv_id=548&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TRPR71FL.zip&Tp=1&Ctry_Code=TR&surv_id=548&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed TRPR71FL.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TRPR71FL.zip&Tp=1&Ctry_Code=TR&surv_id=548&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TRPR71SD.zip&Tp=1&Ctry_Code=TR&surv_id=548&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed TRPR71SD.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TRPR71SD.zip&Tp=1&Ctry_Code=TR&surv_id=548&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TRPR71SV.zip&Tp=1&Ctry_Code=TR&surv_id=548&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed TRPR71SV.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TRPR71SV.zip&Tp=1&Ctry_Code=TR&surv_id=548&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UGHH3AFL.zip&Tp=1&Ctry_Code=UG&surv_id=133&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed UGHH3AFL.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UGHH3AFL.zip&Tp=1&Ctry_Code=UG&surv_id=133&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UGHH3ASD.zip&Tp=1&Ctry_Code=UG&surv_id=133&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed UGHH3ASD.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UGHH3ASD.zip&Tp=1&Ctry_Code=UG&surv_id=133&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UGHH3ASV.zip&Tp=1&Ctry_Code=UG&surv_id=133&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed UGHH3ASV.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UGHH3ASV.zip&Tp=1&Ctry_Code=UG&surv_id=133&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UGIQ3B.zip&Tp=1&Ctry_Code=UG&surv_id=133&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed UGIQ3B.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UGIQ3B.zip&Tp=1&Ctry_Code=UG&surv_id=133&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UGIQ3BFL.zip&Tp=1&Ctry_Code=UG&surv_id=133&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed UGIQ3BFL.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UGIQ3BFL.zip&Tp=1&Ctry_Code=UG&surv_id=133&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UGIQ3BSD.zip&Tp=1&Ctry_Code=UG&surv_id=133&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed UGIQ3BSD.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UGIQ3BSD.zip&Tp=1&Ctry_Code=UG&surv_id=133&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UGIQ3BSV.zip&Tp=1&Ctry_Code=UG&surv_id=133&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed UGIQ3BSV.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UGIQ3BSV.zip&Tp=1&Ctry_Code=UG&surv_id=133&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UGML3A.zip&Tp=1&Ctry_Code=UG&surv_id=133&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed UGML3A.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UGML3A.zip&Tp=1&Ctry_Code=UG&surv_id=133&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UGML3AFL.zip&Tp=1&Ctry_Code=UG&surv_id=133&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed UGML3AFL.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UGML3AFL.zip&Tp=1&Ctry_Code=UG&surv_id=133&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UGML3ASD.zip&Tp=1&Ctry_Code=UG&surv_id=133&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed UGML3ASD.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UGML3ASD.zip&Tp=1&Ctry_Code=UG&surv_id=133&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UGML3ASV.zip&Tp=1&Ctry_Code=UG&surv_id=133&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed UGML3ASV.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UGML3ASV.zip&Tp=1&Ctry_Code=UG&surv_id=133&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UZHH49FL.zip&Tp=1&Ctry_Code=UZ&surv_id=213&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed UZHH49FL.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UZHH49FL.zip&Tp=1&Ctry_Code=UZ&surv_id=213&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UZHH49SD.zip&Tp=1&Ctry_Code=UZ&surv_id=213&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed UZHH49SD.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UZHH49SD.zip&Tp=1&Ctry_Code=UZ&surv_id=213&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UZHH49SV.zip&Tp=1&Ctry_Code=UZ&surv_id=213&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed UZHH49SV.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UZHH49SV.zip&Tp=1&Ctry_Code=UZ&surv_id=213&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UZIQ49.zip&Tp=1&Ctry_Code=UZ&surv_id=213&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed UZIQ49.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UZIQ49.zip&Tp=1&Ctry_Code=UZ&surv_id=213&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UZIQ49FL.zip&Tp=1&Ctry_Code=UZ&surv_id=213&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed UZIQ49FL.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UZIQ49FL.zip&Tp=1&Ctry_Code=UZ&surv_id=213&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UZIQ49SD.zip&Tp=1&Ctry_Code=UZ&surv_id=213&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed UZIQ49SD.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UZIQ49SD.zip&Tp=1&Ctry_Code=UZ&surv_id=213&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UZIQ49SV.zip&Tp=1&Ctry_Code=UZ&surv_id=213&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed UZIQ49SV.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UZIQ49SV.zip&Tp=1&Ctry_Code=UZ&surv_id=213&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UZML49.zip&Tp=1&Ctry_Code=UZ&surv_id=213&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed UZML49.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UZML49.zip&Tp=1&Ctry_Code=UZ&surv_id=213&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UZML49FL.zip&Tp=1&Ctry_Code=UZ&surv_id=213&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed UZML49FL.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UZML49FL.zip&Tp=1&Ctry_Code=UZ&surv_id=213&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UZML49SD.zip&Tp=1&Ctry_Code=UZ&surv_id=213&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed UZML49SD.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UZML49SD.zip&Tp=1&Ctry_Code=UZ&surv_id=213&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UZML49SV.zip&Tp=1&Ctry_Code=UZ&surv_id=213&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed UZML49SV.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UZML49SV.zip&Tp=1&Ctry_Code=UZ&surv_id=213&dm=1&dmode=nm

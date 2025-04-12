@@ -1,0 +1,513 @@
+Processing Afghanistan (AF -> AFG)...
+Downloaded and extracted data for Afghanistan 2018 SPA
+Downloaded and extracted data for Afghanistan 2015 DHS
+Downloaded and extracted data for Afghanistan 2010 OTH
+Processing Albania (AL -> ALB)...
+Downloaded and extracted data for Albania 2017 DHS
+Downloaded and extracted data for Albania 2008 DHS
+Processing Angola (AO -> AGO)...
+Downloaded and extracted data for Angola 2023 DHS
+Downloaded and extracted data for Angola 2015 DHS
+Downloaded and extracted data for Angola 2011 MIS
+Downloaded and extracted data for Angola 2006 MIS
+Processing Armenia (AM -> ARM)...
+Downloaded and extracted data for Armenia 2016 DHS
+Downloaded and extracted data for Armenia 2010 DHS
+Downloaded and extracted data for Armenia 2005 DHS
+Downloaded and extracted data for Armenia 2000 DHS
+Processing Azerbaijan (AZ -> AZE)...
+Downloaded and extracted data for Azerbaijan 2006 DHS
+Processing Bangladesh (BD -> BGD)...
+Downloaded and extracted data for Bangladesh 2022 DHS
+Downloaded and extracted data for Bangladesh 2017 SPA
+Downloaded and extracted data for Bangladesh 2017 DHS
+Downloaded and extracted data for Bangladesh 2014 SPA
+Downloaded and extracted data for Bangladesh 2014 DHS
+Downloaded and extracted data for Bangladesh 2011 DHS
+Downloaded and extracted data for Bangladesh 2007 DHS
+Downloaded and extracted data for Bangladesh 2004 DHS
+Downloaded and extracted data for Bangladesh 2001 OTH
+Downloaded and extracted data for Bangladesh 2000 DHS
+Downloaded and extracted data for Bangladesh 1999 SPA
+Downloaded and extracted data for Bangladesh 1997 DHS
+Downloaded and extracted data for Bangladesh 1994 DHS
+Processing Benin (BJ -> BEN)...
+Downloaded and extracted data for Benin 2017 DHS
+Downloaded and extracted data for Benin 2012 DHS
+Downloaded and extracted data for Benin 2006 DHS
+Downloaded and extracted data for Benin 2001 DHS
+Downloaded and extracted data for Benin 1996 DHS
+Processing Bolivia (BO -> BOL)...
+Downloaded and extracted data for Bolivia 2008 DHS
+Downloaded and extracted data for Bolivia 2003 DHS
+Downloaded and extracted data for Bolivia 1998 DHS
+Downloaded and extracted data for Bolivia 1994 DHS
+Downloaded and extracted data for Bolivia 1989 DHS
+Processing Botswana (BT -> BWA)...
+Downloaded and extracted data for Botswana 1988 DHS
+Processing Brazil (BR -> BRA)...
+Downloaded and extracted data for Brazil 1996 DHS
+Downloaded and extracted data for Brazil 1991 DHS
+Downloaded and extracted data for Brazil 1986 DHS
+Processing Burkina Faso (BF -> BFA)...
+Downloaded and extracted data for Burkina Faso 2021 DHS
+Downloaded and extracted data for Burkina Faso 2017 MIS
+Downloaded and extracted data for Burkina Faso 2014 MIS
+Downloaded and extracted data for Burkina Faso 2010 DHS
+Downloaded and extracted data for Burkina Faso 2003 DHS
+Downloaded and extracted data for Burkina Faso 1999 DHS
+Downloaded and extracted data for Burkina Faso 1993 DHS
+Processing Burundi (BU -> BDI)...
+Downloaded and extracted data for Burundi 2016 DHS
+Downloaded and extracted data for Burundi 2012 MIS
+Downloaded and extracted data for Burundi 2010 DHS
+Downloaded and extracted data for Burundi 1987 DHS
+Processing Cambodia (KH -> KHM)...
+Downloaded and extracted data for Cambodia 2021 DHS
+Downloaded and extracted data for Cambodia 2014 DHS
+Downloaded and extracted data for Cambodia 2010 DHS
+Downloaded and extracted data for Cambodia 2005 DHS
+Downloaded and extracted data for Cambodia 2000 DHS
+Downloaded and extracted data for Cambodia 1998 OTH
+Processing Cameroon (CM -> CMR)...
+Downloaded and extracted data for Cameroon 2022 MIS
+Downloaded and extracted data for Cameroon 2018 DHS
+Downloaded and extracted data for Cameroon 2011 DHS
+Downloaded and extracted data for Cameroon 2004 DHS
+Downloaded and extracted data for Cameroon 1998 DHS
+Downloaded and extracted data for Cameroon 1991 DHS
+Processing Cape Verde (CV -> CPV)...
+Downloaded and extracted data for Cape Verde 2005 DHS
+Processing Central African Republic (CF -> CAF)...
+Downloaded and extracted data for CAR 1994 DHS
+Processing Chad (TD -> TCD)...
+Downloaded and extracted data for Chad 2014 DHS
+Downloaded and extracted data for Chad 2004 DHS
+Downloaded and extracted data for Chad 1997 DHS
+Processing Colombia (CO -> COL)...
+Downloaded and extracted data for Colombia 2015 DHS
+Downloaded and extracted data for Colombia 2010 DHS
+Downloaded and extracted data for Colombia 2005 DHS
+Downloaded and extracted data for Colombia 2000 DHS
+Downloaded and extracted data for Colombia 1995 DHS
+Downloaded and extracted data for Colombia 1990 DHS
+Downloaded and extracted data for Colombia 1986 DHS
+Processing Comoros (KM -> COM)...
+Downloaded and extracted data for Comoros 2012 DHS
+Downloaded and extracted data for Comoros 1996 DHS
+Processing Congo (CG -> COG)...
+Downloaded and extracted data for Congo 2011 DHS
+Downloaded and extracted data for Congo 2009 AIS
+Downloaded and extracted data for Congo 2005 DHS
+Processing Congo Democratic Republic (CD -> COD)...
+Downloaded and extracted data for Congo Democratic Republic 2023 DHS
+Downloaded and extracted data for Congo Democratic Republic 2018 SPA
+Downloaded and extracted data for Congo Democratic Republic 2013 DHS
+Downloaded and extracted data for Congo Democratic Republic 2007 DHS
+Processing Cote d'Ivoire (CI -> CIV)...
+Downloaded and extracted data for Cote d'Ivoire 2021 DHS
+Downloaded and extracted data for Cote d'Ivoire 2012 DHS
+Downloaded and extracted data for Cote d'Ivoire 2005 AIS
+Downloaded and extracted data for Cote d'Ivoire 1998 DHS
+Downloaded and extracted data for Cote d'Ivoire 1994 DHS
+Processing Dominican Republic (DR -> DOM)...
+Downloaded and extracted data for Dominican Republic 2013 DHS
+Downloaded and extracted data for Dominican Republic 2007 DHS
+Downloaded and extracted data for Dominican Republic 2007 DHS
+Downloaded and extracted data for Dominican Republic 2002 DHS
+Downloaded and extracted data for Dominican Republic 1999 DHS
+Downloaded and extracted data for Dominican Republic 1996 DHS
+Downloaded and extracted data for Dominican Republic 1991 DHS
+Downloaded and extracted data for Dominican Republic 1986 OTH
+Downloaded and extracted data for Dominican Republic 1986 DHS
+Processing Ecuador (EC -> ECU)...
+Downloaded and extracted data for Ecuador 1987 DHS
+Processing Egypt (EG -> EGY)...
+Downloaded and extracted data for Egypt 2014 DHS
+Downloaded and extracted data for Egypt 2008 DHS
+Downloaded and extracted data for Egypt 2005 DHS
+Downloaded and extracted data for Egypt 2003 DHS
+Downloaded and extracted data for Egypt 2000 DHS
+Downloaded and extracted data for Egypt 1998 DHS
+Downloaded and extracted data for Egypt 1997 OTH
+Downloaded and extracted data for Egypt 1997 DHS
+Downloaded and extracted data for Egypt 1995 DHS
+Downloaded and extracted data for Egypt 1992 DHS
+Downloaded and extracted data for Egypt 1988 DHS
+Processing El Salvador (ES -> SLV)...
+Downloaded and extracted data for El Salvador 1985 DHS
+Processing Equatorial Guinea (EK -> GNQ)...
+Downloaded and extracted data for Equatorial Guinea 2011 DHS
+Processing Eritrea (ER -> ERI)...
+Downloaded and extracted data for Eritrea 2002 DHS
+Downloaded and extracted data for Eritrea 1995 DHS
+Processing Eswatini (SZ -> SWZ)...
+Downloaded and extracted data for Swaziland 2006 DHS
+Processing Ethiopia (ET -> ETH)...
+Downloaded and extracted data for Ethiopia 2021 SPA
+Downloaded and extracted data for Ethiopia 2019 DHS
+Downloaded and extracted data for Ethiopia 2016 DHS
+Downloaded and extracted data for Ethiopia 2011 DHS
+Downloaded and extracted data for Ethiopia 2005 DHS
+Downloaded and extracted data for Ethiopia 2000 DHS
+Processing Gabon (GA -> GAB)...
+Downloaded and extracted data for Gabon 2019 DHS
+Downloaded and extracted data for Gabon 2012 DHS
+Downloaded and extracted data for Gabon 2000 DHS
+Processing Gambia (GM -> GMB)...
+Downloaded and extracted data for The Gambia 2019 DHS
+Downloaded and extracted data for The Gambia 2013 DHS
+Processing Ghana (GH -> GHA)...
+Downloaded and extracted data for Ghana 2022 DHS
+Downloaded and extracted data for Ghana 2019 MIS
+Downloaded and extracted data for Ghana 2017 MHS
+Downloaded and extracted data for Ghana 2016 MIS
+Downloaded and extracted data for Ghana 2014 DHS
+Downloaded and extracted data for Ghana 2008 DHS
+Downloaded and extracted data for Ghana 2007 OTH
+Downloaded and extracted data for Ghana 2006 OTH
+Downloaded and extracted data for Ghana 2003 DHS
+Downloaded and extracted data for Ghana 2002 SPA
+Downloaded and extracted data for Ghana 1998 DHS
+Downloaded and extracted data for Ghana 1993 DHS
+Downloaded and extracted data for Ghana 1988 DHS
+Processing Guatemala (GU -> GTM)...
+Downloaded and extracted data for Guatemala 2015 DHS
+Downloaded and extracted data for Guatemala 1999 DHS
+Downloaded and extracted data for Guatemala 1995 DHS
+Downloaded and extracted data for Guatemala 1987 DHS
+Processing Guinea (GN -> GIN)...
+Downloaded and extracted data for Guinea 2021 MIS
+Downloaded and extracted data for Guinea 2018 DHS
+Downloaded and extracted data for Guinea 2012 DHS
+Downloaded and extracted data for Guinea 2005 DHS
+Downloaded and extracted data for Guinea 1999 DHS
+Downloaded and extracted data for Guinea 1992 DHS
+Processing Guyana (GY -> GUY)...
+Downloaded and extracted data for Guyana 2009 DHS
+Downloaded and extracted data for Guyana 2005 AIS
+Processing Haiti (HT -> HTI)...
+Downloaded and extracted data for Haiti 2017 SPA
+Downloaded and extracted data for Haiti 2016 DHS
+Downloaded and extracted data for Haiti 2013 SPA
+Downloaded and extracted data for Haiti 2012 DHS
+Downloaded and extracted data for Haiti 2006 DHS
+Downloaded and extracted data for Haiti 2000 DHS
+Downloaded and extracted data for Haiti 1994 DHS
+Processing Honduras (HN -> HND)...
+Downloaded and extracted data for Honduras 2011 DHS
+Downloaded and extracted data for Honduras 2005 DHS
+Processing India (IA -> IND)...
+Downloaded and extracted data for India 2020 DHS
+Downloaded and extracted data for India 2015 DHS
+Downloaded and extracted data for India 2006 DHS
+Downloaded and extracted data for India 1999 DHS
+Downloaded and extracted data for India 1993 DHS
+Processing Indonesia (ID -> IDN)...
+Downloaded and extracted data for Indonesia 2017 DHS
+Downloaded and extracted data for Indonesia 2012 OTH
+Downloaded and extracted data for Indonesia 2012 DHS
+Downloaded and extracted data for Indonesia 2007 OTH
+Downloaded and extracted data for Indonesia 2007 DHS
+Downloaded and extracted data for Indonesia 2003 DHS
+Downloaded and extracted data for Indonesia 2002 OTH
+Downloaded and extracted data for Indonesia 1997 DHS
+Downloaded and extracted data for Indonesia 1994 DHS
+Downloaded and extracted data for Indonesia 1991 DHS
+Downloaded and extracted data for Indonesia 1987 DHS
+Processing Jordan (JO -> JOR)...
+Downloaded and extracted data for Jordan 2023 DHS
+Downloaded and extracted data for Jordan 2017 DHS
+Downloaded and extracted data for Jordan 2012 DHS
+Downloaded and extracted data for Jordan 2009 DHS
+Downloaded and extracted data for Jordan 2007 DHS
+Downloaded and extracted data for Jordan 2002 DHS
+Downloaded and extracted data for Jordan 1997 DHS
+Downloaded and extracted data for Jordan 1990 DHS
+Processing Kazakhstan (KK -> KAZ)...
+Downloaded and extracted data for Kazakhstan 1999 DHS
+Downloaded and extracted data for Kazakhstan 1995 DHS
+Processing Kenya (KE -> KEN)...
+Downloaded and extracted data for Kenya 2022 DHS
+Downloaded and extracted data for Kenya 2020 MIS
+Downloaded and extracted data for Kenya 2015 MIS
+Downloaded and extracted data for Kenya 2014 DHS
+Downloaded and extracted data for Kenya 2010 SPA
+Downloaded and extracted data for Kenya 2010 MIS
+Downloaded and extracted data for Kenya 2008 DHS
+Downloaded and extracted data for Kenya 2003 DHS
+Downloaded and extracted data for Kenya 1998 DHS
+Downloaded and extracted data for Kenya 1993 DHS
+Downloaded and extracted data for Kenya 1989 DHS
+Processing Kyrgyz Republic (KY -> KGZ)...
+Downloaded and extracted data for Kyrgyz Republic 2012 DHS
+Downloaded and extracted data for Kyrgyz Republic 1997 DHS
+Processing Lao People's Democratic Republic (LA -> LAO)...
+Processing Lesotho (LS -> LSO)...
+Downloaded and extracted data for Lesotho 2023 DHS
+Downloaded and extracted data for Lesotho 2014 DHS
+Downloaded and extracted data for Lesotho 2009 DHS
+Downloaded and extracted data for Lesotho 2004 DHS
+Processing Liberia (LB -> LBR)...
+Downloaded and extracted data for Liberia 2022 MIS
+Downloaded and extracted data for Liberia 2019 DHS
+Downloaded and extracted data for Liberia 2016 MIS
+Downloaded and extracted data for Liberia 2013 DHS
+Downloaded and extracted data for Liberia 2011 MIS
+Downloaded and extracted data for Liberia 2009 MIS
+Downloaded and extracted data for Liberia 2007 DHS
+Downloaded and extracted data for Liberia 1986 DHS
+Processing Madagascar (MD -> MDG)...
+Downloaded and extracted data for Madagascar 2021 DHS
+Downloaded and extracted data for Madagascar 2016 MIS
+Downloaded and extracted data for Madagascar 2013 MIS
+Downloaded and extracted data for Madagascar 2011 MIS
+Downloaded and extracted data for Madagascar 2008 DHS
+Downloaded and extracted data for Madagascar 2004 DHS
+Downloaded and extracted data for Madagascar 1997 DHS
+Downloaded and extracted data for Madagascar 1992 DHS
+Processing Malawi (MW -> MWI)...
+Downloaded and extracted data for Malawi 2017 MIS
+Downloaded and extracted data for Malawi 2015 DHS
+Downloaded and extracted data for Malawi 2014 MIS
+Downloaded and extracted data for Malawi 2012 MIS
+Downloaded and extracted data for Malawi 2010 DHS
+Downloaded and extracted data for Malawi 2004 DHS
+Downloaded and extracted data for Malawi 2000 DHS
+Downloaded and extracted data for Malawi 1996 OTH
+Downloaded and extracted data for Malawi 1992 DHS
+Processing Maldives (MV -> MDV)...
+Downloaded and extracted data for Maldives 2016 DHS
+Downloaded and extracted data for Maldives 2009 DHS
+Processing Mali (ML -> MLI)...
+Downloaded and extracted data for Mali 2023 DHS
+Downloaded and extracted data for Mali 2021 MIS
+Downloaded and extracted data for Mali 2018 DHS
+Downloaded and extracted data for Mali 2015 MIS
+Downloaded and extracted data for Mali 2012 DHS
+Downloaded and extracted data for Mali 2010 OTH
+Downloaded and extracted data for Mali 2006 DHS
+Downloaded and extracted data for Mali 2001 DHS
+Downloaded and extracted data for Mali 1996 DHS
+Downloaded and extracted data for Mali 1987 DHS
+Processing Mauritania (MR -> MRT)...
+Downloaded and extracted data for Mauritania 2020 DHS
+Downloaded and extracted data for Mauritania 2003 OTH
+Downloaded and extracted data for Mauritania 2000 DHS
+Processing Mexico (MX -> MEX)...
+Downloaded and extracted data for Mexico 1987 DHS
+Processing Moldova (MB -> MDA)...
+Downloaded and extracted data for Moldova 2005 DHS
+Processing Morocco (MA -> MAR)...
+Downloaded and extracted data for Morocco 2003 DHS
+Downloaded and extracted data for Morocco 1995 DHS
+Downloaded and extracted data for Morocco 1992 DHS
+Downloaded and extracted data for Morocco 1987 DHS
+Processing Mozambique (MZ -> MOZ)...
+Downloaded and extracted data for Mozambique 2022 DHS
+Downloaded and extracted data for Mozambique 2018 MIS
+Downloaded and extracted data for Mozambique 2015 AIS
+Downloaded and extracted data for Mozambique 2011 DHS
+Downloaded and extracted data for Mozambique 2009 AIS
+Downloaded and extracted data for Mozambique 2003 DHS
+Downloaded and extracted data for Mozambique 1997 DHS
+Processing Myanmar (MM -> MMR)...
+Downloaded and extracted data for Myanmar 2016 DHS
+Processing Namibia (NM -> NAM)...
+Downloaded and extracted data for Namibia 2013 DHS
+Downloaded and extracted data for Namibia 2009 SPA
+Downloaded and extracted data for Namibia 2006 DHS
+Downloaded and extracted data for Namibia 2000 DHS
+Downloaded and extracted data for Namibia 1992 DHS
+Processing Nepal (NP -> NPL)...
+Downloaded and extracted data for Nepal 2022 DHS
+Downloaded and extracted data for Nepal 2021 SPA
+Downloaded and extracted data for Nepal 2016 DHS
+Downloaded and extracted data for Nepal 2015 SPA
+Downloaded and extracted data for Nepal 2011 DHS
+Downloaded and extracted data for Nepal 2006 DHS
+Downloaded and extracted data for Nepal 2001 DHS
+Downloaded and extracted data for Nepal 1996 DHS
+Downloaded and extracted data for Nepal 1987 OTH
+Processing Nicaragua (NC -> NIC)...
+Downloaded and extracted data for Nicaragua 2001 DHS
+Downloaded and extracted data for Nicaragua 1998 DHS
+Processing Niger (NI -> NER)...
+Downloaded and extracted data for Niger 2021 MIS
+Downloaded and extracted data for Niger 2012 DHS
+Downloaded and extracted data for Niger 2006 DHS
+Downloaded and extracted data for Niger 1998 DHS
+Downloaded and extracted data for Niger 1992 DHS
+Processing Nigeria (NG -> NGA)...
+Downloaded and extracted data for Nigeria 2021 MIS
+Downloaded and extracted data for Nigeria 2018 DHS
+Downloaded and extracted data for Nigeria 2015 MIS
+Downloaded and extracted data for Nigeria 2013 DHS
+Downloaded and extracted data for Nigeria 2010 MIS
+Downloaded and extracted data for Nigeria 2008 DHS
+Downloaded and extracted data for Nigeria 2003 DHS
+Downloaded and extracted data for Nigeria 1999 DHS
+Downloaded and extracted data for Nigeria 1990 DHS
+Processing Nigeria (Ondo State) (OS -> nan)...
+Downloaded and extracted data for Nigeria (Ondo State) 1986 OTH
+Processing Pakistan (PK -> PAK)...
+Downloaded and extracted data for Pakistan 2017 DHS
+Downloaded and extracted data for Pakistan 2012 DHS
+Downloaded and extracted data for Pakistan 2006 DHS
+Downloaded and extracted data for Pakistan 1991 DHS
+Processing Papua New Guinea (PG -> PNG)...
+Downloaded and extracted data for Papua New Guinea 2017 DHS
+Processing Paraguay (PY -> PRY)...
+Downloaded and extracted data for Paraguay 1990 DHS
+Processing Peru (PE -> PER)...
+Downloaded and extracted data for Peru 2012 DHS
+Downloaded and extracted data for Peru 2011 DHS
+Downloaded and extracted data for Peru 2010 DHS
+Downloaded and extracted data for Peru 2009 DHS
+Downloaded and extracted data for Peru 2007 DHS
+Downloaded and extracted data for Peru 2004 DHS
+Downloaded and extracted data for Peru 2000 DHS
+Downloaded and extracted data for Peru 1996 DHS
+Downloaded and extracted data for Peru 1992 DHS
+Downloaded and extracted data for Peru 1986 OTH
+Downloaded and extracted data for Peru 1986 DHS
+Processing Philippines (PH -> PHL)...
+Downloaded and extracted data for Philippines 2022 DHS
+Downloaded and extracted data for Philippines 2017 DHS
+Downloaded and extracted data for Philippines 2013 DHS
+Downloaded and extracted data for Philippines 2008 DHS
+Downloaded and extracted data for Philippines 2003 DHS
+Downloaded and extracted data for Philippines 1998 DHS
+Downloaded and extracted data for Philippines 1993 OTH
+Downloaded and extracted data for Philippines 1993 DHS
+Processing Rwanda (RW -> RWA)...
+Downloaded and extracted data for Rwanda 2023 MIS
+Downloaded and extracted data for Rwanda 2019 DHS
+Downloaded and extracted data for Rwanda 2015 DHS
+Downloaded and extracted data for Rwanda 2013 MIS
+Downloaded and extracted data for Rwanda 2011 OTH
+Downloaded and extracted data for Rwanda 2010 DHS
+Downloaded and extracted data for Rwanda 2008 DHS
+Downloaded and extracted data for Rwanda 2005 DHS
+Downloaded and extracted data for Rwanda 2000 DHS
+Downloaded and extracted data for Rwanda 1992 DHS
+Processing Samoa (WS -> WSM)...
+Downloaded and extracted data for Samoa 2009 DHS
+Processing Sao Tome and Principe (ST -> STP)...
+Downloaded and extracted data for Sao Tome and Principe 2008 DHS
+Processing Senegal (SN -> SEN)...
+Downloaded and extracted data for Senegal 2023 DHS
+Downloaded and extracted data for Senegal 2020 MIS
+Downloaded and extracted data for Senegal 2019 SPA
+Downloaded and extracted data for Senegal 2019 DHS
+Downloaded and extracted data for Senegal 2018 SPA
+Downloaded and extracted data for Senegal 2018 DHS
+Downloaded and extracted data for Senegal 2017 SPA
+Downloaded and extracted data for Senegal 2017 DHS
+Downloaded and extracted data for Senegal 2016 DHS
+Downloaded and extracted data for Senegal 2015 DHS
+Downloaded and extracted data for Senegal 2014 SPA
+Downloaded and extracted data for Senegal 2014 DHS
+Downloaded and extracted data for Senegal 2012 SPA
+Downloaded and extracted data for Senegal 2012 DHS
+Downloaded and extracted data for Senegal 2010 DHS
+Downloaded and extracted data for Senegal 2008 MIS
+Downloaded and extracted data for Senegal 2006 MIS
+Downloaded and extracted data for Senegal 2005 DHS
+Downloaded and extracted data for Senegal 1999 DHS
+Downloaded and extracted data for Senegal 1997 DHS
+Downloaded and extracted data for Senegal 1993 DHS
+Downloaded and extracted data for Senegal 1986 DHS
+Processing Sierra Leone (SL -> SLE)...
+Downloaded and extracted data for Sierra Leone 2019 DHS
+Downloaded and extracted data for Sierra Leone 2013 MIS
+Downloaded and extracted data for Sierra Leone 2013 DHS
+Downloaded and extracted data for Sierra Leone 2008 DHS
+Processing South Africa (ZA -> ZAF)...
+Downloaded and extracted data for South Africa 2016 DHS
+Downloaded and extracted data for South Africa 2003 DHS
+Downloaded and extracted data for South Africa 1998 DHS
+Processing Sri Lanka (LK -> LKA)...
+Downloaded and extracted data for Sri Lanka 1987 DHS
+Processing Sudan (SD -> SDN)...
+Downloaded and extracted data for Sudan 1990 DHS
+Processing Tajikistan (TJ -> TJK)...
+Downloaded and extracted data for Tajikistan 2023 DHS
+Downloaded and extracted data for Tajikistan 2017 DHS
+Downloaded and extracted data for Tajikistan 2012 DHS
+Processing Tanzania (TZ -> TZA)...
+Downloaded and extracted data for Tanzania 2022 DHS
+Downloaded and extracted data for Tanzania 2017 MIS
+Downloaded and extracted data for Tanzania 2015 DHS
+Downloaded and extracted data for Tanzania 2014 SPA
+Downloaded and extracted data for Tanzania 2012 AIS
+Downloaded and extracted data for Tanzania 2010 DHS
+Downloaded and extracted data for Tanzania 2007 AIS
+Downloaded and extracted data for Tanzania 2004 DHS
+Downloaded and extracted data for Tanzania 2003 AIS
+Downloaded and extracted data for Tanzania 1999 DHS
+Downloaded and extracted data for Tanzania 1996 DHS
+Downloaded and extracted data for Tanzania 1995 OTH
+Downloaded and extracted data for Tanzania 1994 OTH
+Downloaded and extracted data for Tanzania 1992 DHS
+Processing Thailand (TH -> THA)...
+Downloaded and extracted data for Thailand 1987 DHS
+Processing Timor-Leste (TL -> TLS)...
+Downloaded and extracted data for Timor-Leste 2016 DHS
+Downloaded and extracted data for Timor-Leste 2009 DHS
+Processing Togo (TG -> TGO)...
+Downloaded and extracted data for Togo 2017 MIS
+Downloaded and extracted data for Togo 2013 DHS
+Downloaded and extracted data for Togo 1998 DHS
+Downloaded and extracted data for Togo 1988 DHS
+Processing Trinidad and Tobago (TT -> TTO)...
+Downloaded and extracted data for Trinidad and Tobago 1987 DHS
+Processing Tunisia (TN -> TUN)...
+Downloaded and extracted data for Tunisia 1988 DHS
+Processing Turkey (TR -> TUR)...
+Downloaded and extracted data for Turkey 2003 DHS
+Downloaded and extracted data for Turkey 1998 DHS
+Downloaded and extracted data for Turkey 1993 DHS
+Processing Turkmenistan (TM -> TKM)...
+Downloaded and extracted data for Turkmenistan 2000 DHS
+Processing Uganda (UG -> UGA)...
+Downloaded and extracted data for Uganda 2018 MIS
+Downloaded and extracted data for Uganda 2016 DHS
+Downloaded and extracted data for Uganda 2014 MIS
+Downloaded and extracted data for Uganda 2011 DHS
+Downloaded and extracted data for Uganda 2011 AIS
+Downloaded and extracted data for Uganda 2009 MIS
+Downloaded and extracted data for Uganda 2006 DHS
+Downloaded and extracted data for Uganda 2004 AIS
+Downloaded and extracted data for Uganda 2000 DHS
+Downloaded and extracted data for Uganda 1995 OTH
+Downloaded and extracted data for Uganda 1995 DHS
+Downloaded and extracted data for Uganda 1988 DHS
+Processing Ukraine (UA -> UKR)...
+Downloaded and extracted data for Ukraine 2007 DHS
+Processing Uzbekistan (UZ -> UZB)...
+Downloaded and extracted data for Uzbekistan 2002 OTH
+Downloaded and extracted data for Uzbekistan 1996 DHS
+Processing Vietnam (VN -> VNM)...
+Downloaded and extracted data for Vietnam 2005 AIS
+Downloaded and extracted data for Vietnam 2002 DHS
+Downloaded and extracted data for Vietnam 1997 DHS
+Processing Yemen (YE -> YEM)...
+Downloaded and extracted data for Yemen 2013 DHS
+Downloaded and extracted data for Yemen 1997 DHS
+Downloaded and extracted data for Yemen 1991 DHS
+Processing Zambia (ZM -> ZMB)...
+Downloaded and extracted data for Zambia 2018 DHS
+Downloaded and extracted data for Zambia 2013 DHS
+Downloaded and extracted data for Zambia 2007 DHS
+Downloaded and extracted data for Zambia 2002 DHS
+Downloaded and extracted data for Zambia 1996 DHS
+Downloaded and extracted data for Zambia 1992 DHS
+Processing Zimbabwe (ZW -> ZWE)...
+Downloaded and extracted data for Zimbabwe 2015 DHS
+Downloaded and extracted data for Zimbabwe 2010 DHS
+Downloaded and extracted data for Zimbabwe 2005 DHS
+Downloaded and extracted data for Zimbabwe 1999 DHS
+Downloaded and extracted data for Zimbabwe 1994 DHS
+Downloaded and extracted data for Zimbabwe 1988 DHS
+Scraping complete.
