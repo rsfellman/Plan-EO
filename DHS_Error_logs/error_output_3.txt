@@ -1,0 +1,980 @@
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=DRHR5ADT.zip&Tp=1&Ctry_Code=DR&surv_id=331&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed DRHR5ADT.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=DRHR5ADT.zip&Tp=1&Ctry_Code=DR&surv_id=331&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=DRHR6ADT.zip&Tp=1&Ctry_Code=DR&surv_id=490&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed DRHR6ADT.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=DRHR6ADT.zip&Tp=1&Ctry_Code=DR&surv_id=490&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=DRIR5ADT.zip&Tp=1&Ctry_Code=DR&surv_id=331&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed DRIR5ADT.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=DRIR5ADT.zip&Tp=1&Ctry_Code=DR&surv_id=331&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=DRIR6ADT.zip&Tp=1&Ctry_Code=DR&surv_id=490&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed DRIR6ADT.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=DRIR6ADT.zip&Tp=1&Ctry_Code=DR&surv_id=490&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=DRKR5ADT.zip&Tp=1&Ctry_Code=DR&surv_id=331&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed DRKR5ADT.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=DRKR5ADT.zip&Tp=1&Ctry_Code=DR&surv_id=331&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=DRKR6ADT.zip&Tp=1&Ctry_Code=DR&surv_id=490&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed DRKR6ADT.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=DRKR6ADT.zip&Tp=1&Ctry_Code=DR&surv_id=490&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=APHR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=APHR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=APIR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=APIR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=APKR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=APKR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=ARHR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=ARHR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=ARIR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=ARIR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=ARKR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=ARKR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=ASHR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=ASHR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=ASIR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=ASIR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=ASKR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=ASKR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=BHHR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=BHHR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=BHIR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=BHIR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=BHKR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=BHKR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=DLHR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=DLHR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=DLIR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=DLIR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=DLKR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=DLKR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=GJHR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=GJHR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=GJIR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=GJIR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=GJKR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=GJKR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=GOHR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=GOHR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=GOIR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=GOIR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=GOKR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=GOKR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=HPHR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=HPHR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=HPIR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=HPIR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=HPKR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=HPKR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=HRHR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=HRHR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=HRIR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=HRIR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=HRKR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=HRKR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=JMHR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=JMHR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=JMIR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=JMIR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=JMKR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=JMKR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=KAHR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=KAHR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=KAIR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=KAIR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=KAKR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=KAKR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MGHR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MGHR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MGIR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MGIR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MGKR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MGKR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MHHR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MHHR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MHIR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MHIR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MHKR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MHKR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MNHR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MNHR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MNIR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MNIR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MNKR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MNKR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MPHR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MPHR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MPIR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MPIR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MPKR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MPKR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=NAHR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=NAHR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=NAIR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=NAIR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=NAKR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=NAKR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=ORHR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=ORHR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=ORIR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=ORIR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=ORKR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=ORKR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=PJHR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=PJHR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=PJIR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=PJIR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=PJKR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=PJKR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=RJHR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=RJHR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=RJIR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=RJIR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=RJKR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=RJKR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=SKHR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=SKHR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=SKIR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=SKIR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=SKKR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=SKKR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UPHR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UPHR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UPIR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UPIR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UPKR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UPKR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=WBHR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=WBHR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=WBIR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=WBIR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=WBKR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=WBKR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MLHR61DT.zip&Tp=1&Ctry_Code=ML&surv_id=387&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: MLHR61DT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=OSIR01DT.zip&Tp=1&Ctry_Code=OS&surv_id=8&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: OSIR01DT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=OSKR01DT.zip&Tp=1&Ctry_Code=OS&surv_id=8&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: OSKR01DT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TRHR71DT.zip&Tp=1&Ctry_Code=TR&surv_id=548&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: TRHR71DT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TRIR71DT.zip&Tp=1&Ctry_Code=TR&surv_id=548&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: TRIR71DT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TRKR71DT.zip&Tp=1&Ctry_Code=TR&surv_id=548&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: TRKR71DT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=DRGE6AFL.zip&Tp=2&Ctry_Code=DR&surv_id=490&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed DRGE6AFL.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=DRGE6AFL.zip&Tp=2&Ctry_Code=DR&surv_id=490&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=HTGE6AFLSR.zip&Tp=2&Ctry_Code=HT&surv_id=442&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: HTGE6AFLSR.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=HTGE7BFLSR.zip&Tp=2&Ctry_Code=HT&surv_id=532&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: HTGE7BFLSR.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=KEGE6AFLSR.zip&Tp=2&Ctry_Code=KE&surv_id=347&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: KEGE6AFLSR.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MWGE6IFLSR.zip&Tp=2&Ctry_Code=MW&surv_id=424&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: MWGE6IFLSR.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MLGE63FL.zip&Tp=2&Ctry_Code=ML&surv_id=387&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: MLGE63FL.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=NMGE6AFLSR.zip&Tp=2&Ctry_Code=NM&surv_id=281&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: NMGE6AFLSR.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=NPGE71FLSR.zip&Tp=2&Ctry_Code=NP&surv_id=400&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: NPGE71FLSR.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=NPGE8AFLSR.zip&Tp=2&Ctry_Code=NP&surv_id=561&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: NPGE8AFLSR.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=SNGE6IFLSR.zip&Tp=2&Ctry_Code=SN&surv_id=444&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: SNGE6IFLSR.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=SNGE71FLSR.zip&Tp=2&Ctry_Code=SN&surv_id=458&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: SNGE71FLSR.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=SNGE7AFLSR.zip&Tp=2&Ctry_Code=SN&surv_id=496&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: SNGE7AFLSR.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=SNGE7IFLSR.zip&Tp=2&Ctry_Code=SN&surv_id=513&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: SNGE7IFLSR.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=SNGE7RFLSR.zip&Tp=2&Ctry_Code=SN&surv_id=535&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: SNGE7RFLSR.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TZGE71FLSR.zip&Tp=2&Ctry_Code=TZ&surv_id=401&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: TZGE71FLSR.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UZGE42FL.zip&Tp=2&Ctry_Code=UZ&surv_id=213&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: UZGE42FL.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=DRBR5ADT.zip&Tp=1&Ctry_Code=DR&surv_id=331&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed DRBR5ADT.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=DRBR5ADT.zip&Tp=1&Ctry_Code=DR&surv_id=331&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=DRBR6ADT.zip&Tp=1&Ctry_Code=DR&surv_id=490&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed DRBR6ADT.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=DRBR6ADT.zip&Tp=1&Ctry_Code=DR&surv_id=490&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=DRCR5ADT.zip&Tp=1&Ctry_Code=DR&surv_id=331&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed DRCR5ADT.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=DRCR5ADT.zip&Tp=1&Ctry_Code=DR&surv_id=331&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=DRCR6ADT.zip&Tp=1&Ctry_Code=DR&surv_id=490&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed DRCR6ADT.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=DRCR6ADT.zip&Tp=1&Ctry_Code=DR&surv_id=490&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=DRMR5ADT.zip&Tp=1&Ctry_Code=DR&surv_id=331&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed DRMR5ADT.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=DRMR5ADT.zip&Tp=1&Ctry_Code=DR&surv_id=331&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=DRMR6ADT.zip&Tp=1&Ctry_Code=DR&surv_id=490&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed DRMR6ADT.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=DRMR6ADT.zip&Tp=1&Ctry_Code=DR&surv_id=490&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=DRPR5ADT.zip&Tp=1&Ctry_Code=DR&surv_id=331&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed DRPR5ADT.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=DRPR5ADT.zip&Tp=1&Ctry_Code=DR&surv_id=331&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=DRPR6ADT.zip&Tp=1&Ctry_Code=DR&surv_id=490&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed DRPR6ADT.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=DRPR6ADT.zip&Tp=1&Ctry_Code=DR&surv_id=490&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=APBR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=APBR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=APHH21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=APHH21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=APHW42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=APHW42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=APIQ21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=APIQ21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=APVR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=APVR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=ARBR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=ARBR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=ARHH21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=ARHH21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=ARHW42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=ARHW42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=ARIQ21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=ARIQ21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=ARVR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=ARVR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=ASBR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=ASBR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=ASHH21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=ASHH21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=ASHW42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=ASHW42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=ASIQ21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=ASIQ21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=ASVR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=ASVR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=BHBR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=BHBR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=BHHH21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=BHHH21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=BHHW42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=BHHW42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=BHIQ21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=BHIQ21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=BHVR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=BHVR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=DLBR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=DLBR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=DLHH21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=DLHH21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=DLHW42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=DLHW42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=DLIQ21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=DLIQ21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=DLVR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=DLVR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=GJBR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=GJBR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=GJHH21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=GJHH21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=GJHW42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=GJHW42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=GJIQ21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=GJIQ21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=GJVR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=GJVR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=GOBR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=GOBR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=GOHH21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=GOHH21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=GOHW42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=GOHW42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=GOIQ21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=GOIQ21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=GOVR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=GOVR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=HPBR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=HPBR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=HPHH21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=HPHH21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=HPHW42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=HPHW42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=HPIQ21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=HPIQ21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=HPVR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=HPVR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=HRBR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=HRBR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=HRHH21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=HRHH21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=HRHW42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=HRHW42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=HRIQ21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=HRIQ21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=HRVR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=HRVR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=JMBR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=JMBR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=JMHH21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=JMHH21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=JMHW42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=JMHW42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=JMIQ21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=JMIQ21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=JMVR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=JMVR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=KABR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=KABR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=KAHH21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=KAHH21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=KAHW42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=KAHW42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=KAIQ21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=KAIQ21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=KAVR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=KAVR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MGBR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MGBR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MGHH21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MGHH21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MGHW42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MGHW42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MGIQ21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MGIQ21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MGVR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MGVR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MHBR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MHBR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MHHH21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MHHH21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MHHW42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MHHW42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MHIQ21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MHIQ21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MHVR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MHVR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MNBR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MNBR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MNHH21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MNHH21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MNHW42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MNHW42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MNIQ21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MNIQ21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MNVR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MNVR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MPBR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MPBR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MPHH21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MPHH21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MPHW42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MPHW42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MPIQ21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MPIQ21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MPVR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MPVR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=NABR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=NABR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=NAHH21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=NAHH21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=NAHW42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=NAHW42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=NAIQ21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=NAIQ21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=NAVR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=NAVR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=ORBR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=ORBR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=ORHH21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=ORHH21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=ORHW42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=ORHW42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=ORIQ21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=ORIQ21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=ORVR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=ORVR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=PJBR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=PJBR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=PJHH21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=PJHH21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=PJHW42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=PJHW42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=PJIQ21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=PJIQ21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=PJVR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=PJVR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=RJBR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=RJBR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=RJHH21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=RJHH21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=RJHW42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=RJHW42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=RJIQ21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=RJIQ21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=RJVR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=RJVR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=SKBR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=SKBR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=SKHW42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=SKHW42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=SKVR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=SKVR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UPBR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UPBR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UPHH21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UPHH21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UPHW42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UPHW42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UPIQ21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UPIQ21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UPVR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UPVR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=WBBR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=WBBR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=WBHH21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=WBHH21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=WBHW42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=WBHW42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=WBIQ21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=WBIQ21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=WBVR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Error processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=WBVR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm: single positional indexer is out-of-bounds
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=IDOD4ADT.zip&Tp=1&Ctry_Code=ID&surv_id=221&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: IDOD4ADT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=IDOD5ADT.zip&Tp=1&Ctry_Code=ID&surv_id=335&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: IDOD5ADT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=IDOD6CDT.zip&Tp=1&Ctry_Code=ID&surv_id=460&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: IDOD6CDT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=IDOD7ADT.zip&Tp=1&Ctry_Code=ID&surv_id=544&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: IDOD7ADT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MWHH34DT.zip&Tp=1&Ctry_Code=MW&surv_id=84&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: MWHH34DT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MWIQ34DT.zip&Tp=1&Ctry_Code=MW&surv_id=84&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: MWIQ34DT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MWML34DT.zip&Tp=1&Ctry_Code=MW&surv_id=84&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: MWML34DT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MLPR61DT.zip&Tp=1&Ctry_Code=ML&surv_id=387&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: MLPR61DT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MAHH33DT.zip&Tp=1&Ctry_Code=MA&surv_id=75&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: MAHH33DT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MAIQ33DT.zip&Tp=1&Ctry_Code=MA&surv_id=75&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: MAIQ33DT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=NPOD01DT.zip&Tp=1&Ctry_Code=NP&surv_id=10&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: NPOD01DT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=OSBR01DT.zip&Tp=1&Ctry_Code=OS&surv_id=8&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: OSBR01DT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=OSHH01DT.zip&Tp=1&Ctry_Code=OS&surv_id=8&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: OSHH01DT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=OSHW01DT.zip&Tp=1&Ctry_Code=OS&surv_id=8&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: OSHW01DT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=PKHH7ADT.zip&Tp=1&Ctry_Code=PK&surv_id=552&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: PKHH7ADT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=PKIQ7ADT.zip&Tp=1&Ctry_Code=PK&surv_id=552&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: PKIQ7ADT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=PKOD7ADT.zip&Tp=1&Ctry_Code=PK&surv_id=552&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: PKOD7ADT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=PKSQ7ADT.zip&Tp=1&Ctry_Code=PK&surv_id=552&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: PKSQ7ADT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=PKVA7ADT.zip&Tp=1&Ctry_Code=PK&surv_id=552&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: PKVA7ADT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=RWHH6ADT.zip&Tp=1&Ctry_Code=RW&surv_id=422&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: RWHH6ADT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=RWIQ6ADT.zip&Tp=1&Ctry_Code=RW&surv_id=422&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: RWIQ6ADT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=SNHH41DT.zip&Tp=1&Ctry_Code=SN&surv_id=166&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: SNHH41DT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=SNIQ41DT.zip&Tp=1&Ctry_Code=SN&surv_id=166&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: SNIQ41DT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=SNML41DT.zip&Tp=1&Ctry_Code=SN&surv_id=166&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: SNML41DT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TZHH31DT.zip&Tp=1&Ctry_Code=TZ&surv_id=67&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: TZHH31DT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TZIQ31DT.zip&Tp=1&Ctry_Code=TZ&surv_id=67&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: TZIQ31DT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TZML31DT.zip&Tp=1&Ctry_Code=TZ&surv_id=67&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: TZML31DT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TRBR71DT.zip&Tp=1&Ctry_Code=TR&surv_id=548&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: TRBR71DT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TRPR71DT.zip&Tp=1&Ctry_Code=TR&surv_id=548&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: TRPR71DT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UGHH3ADT.zip&Tp=1&Ctry_Code=UG&surv_id=133&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: UGHH3ADT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UGIQ3BDT.zip&Tp=1&Ctry_Code=UG&surv_id=133&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: UGIQ3BDT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UGML3ADT.zip&Tp=1&Ctry_Code=UG&surv_id=133&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: UGML3ADT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UZHH49DT.zip&Tp=1&Ctry_Code=UZ&surv_id=213&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: UZHH49DT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UZIQ49DT.zip&Tp=1&Ctry_Code=UZ&surv_id=213&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: UZIQ49DT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UZML49DT.zip&Tp=1&Ctry_Code=UZ&surv_id=213&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: UZML49DT.zip

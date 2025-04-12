@@ -1,0 +1,256 @@
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=NAHR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed NAHR42DT.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=NAHR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=NAIR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed NAIR42DT.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=NAIR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=NAKR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed NAKR42DT.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=NAKR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MLHR61DT.zip&Tp=1&Ctry_Code=ML&surv_id=387&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: MLHR61DT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=OSIR01DT.zip&Tp=1&Ctry_Code=OS&surv_id=8&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: OSIR01DT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=OSKR01DT.zip&Tp=1&Ctry_Code=OS&surv_id=8&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: OSKR01DT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TRHR71DT.zip&Tp=1&Ctry_Code=TR&surv_id=548&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: TRHR71DT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TRIR71DT.zip&Tp=1&Ctry_Code=TR&surv_id=548&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: TRIR71DT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TRKR71DT.zip&Tp=1&Ctry_Code=TR&surv_id=548&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: TRKR71DT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=HTGE6AFLSR.zip&Tp=2&Ctry_Code=HT&surv_id=442&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: HTGE6AFLSR.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=HTGE7BFLSR.zip&Tp=2&Ctry_Code=HT&surv_id=532&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: HTGE7BFLSR.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=KEGE6AFLSR.zip&Tp=2&Ctry_Code=KE&surv_id=347&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: KEGE6AFLSR.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MWGE6IFLSR.zip&Tp=2&Ctry_Code=MW&surv_id=424&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: MWGE6IFLSR.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MLGE63FL.zip&Tp=2&Ctry_Code=ML&surv_id=387&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: MLGE63FL.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=NMGE6AFLSR.zip&Tp=2&Ctry_Code=NM&surv_id=281&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: NMGE6AFLSR.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=NPGE71FLSR.zip&Tp=2&Ctry_Code=NP&surv_id=400&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: NPGE71FLSR.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=NPGE8AFLSR.zip&Tp=2&Ctry_Code=NP&surv_id=561&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: NPGE8AFLSR.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=SNGE6IFLSR.zip&Tp=2&Ctry_Code=SN&surv_id=444&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: SNGE6IFLSR.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=SNGE71FLSR.zip&Tp=2&Ctry_Code=SN&surv_id=458&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: SNGE71FLSR.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=SNGE7AFLSR.zip&Tp=2&Ctry_Code=SN&surv_id=496&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: SNGE7AFLSR.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=SNGE7IFLSR.zip&Tp=2&Ctry_Code=SN&surv_id=513&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: SNGE7IFLSR.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=SNGE7RFLSR.zip&Tp=2&Ctry_Code=SN&surv_id=535&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: SNGE7RFLSR.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TZGE71FLSR.zip&Tp=2&Ctry_Code=TZ&surv_id=401&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: TZGE71FLSR.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UZGE42FL.zip&Tp=2&Ctry_Code=UZ&surv_id=213&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: UZGE42FL.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=NABR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed NABR42DT.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=NABR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=NAHH21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed NAHH21DT.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=NAHH21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=NAHW42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed NAHW42DT.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=NAHW42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=NAIQ21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed NAIQ21DT.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=NAIQ21DT.zip&Tp=1&Ctry_Code=IA&surv_id=50&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=NAVR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+Successfully processed NAVR42DT.zip file from: https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=NAVR42DT.zip&Tp=1&Ctry_Code=IA&surv_id=156&dm=1&dmode=nm
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=IDOD4ADT.zip&Tp=1&Ctry_Code=ID&surv_id=221&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: IDOD4ADT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=IDOD5ADT.zip&Tp=1&Ctry_Code=ID&surv_id=335&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: IDOD5ADT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=IDOD6CDT.zip&Tp=1&Ctry_Code=ID&surv_id=460&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: IDOD6CDT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=IDOD7ADT.zip&Tp=1&Ctry_Code=ID&surv_id=544&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: IDOD7ADT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MWHH34DT.zip&Tp=1&Ctry_Code=MW&surv_id=84&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: MWHH34DT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MWIQ34DT.zip&Tp=1&Ctry_Code=MW&surv_id=84&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: MWIQ34DT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MWML34DT.zip&Tp=1&Ctry_Code=MW&surv_id=84&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: MWML34DT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MLPR61DT.zip&Tp=1&Ctry_Code=ML&surv_id=387&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: MLPR61DT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MAHH33DT.zip&Tp=1&Ctry_Code=MA&surv_id=75&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: MAHH33DT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=MAIQ33DT.zip&Tp=1&Ctry_Code=MA&surv_id=75&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: MAIQ33DT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=NPOD01DT.zip&Tp=1&Ctry_Code=NP&surv_id=10&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: NPOD01DT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=OSBR01DT.zip&Tp=1&Ctry_Code=OS&surv_id=8&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: OSBR01DT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=OSHH01DT.zip&Tp=1&Ctry_Code=OS&surv_id=8&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: OSHH01DT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=OSHW01DT.zip&Tp=1&Ctry_Code=OS&surv_id=8&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: OSHW01DT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=PKHH7ADT.zip&Tp=1&Ctry_Code=PK&surv_id=552&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: PKHH7ADT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=PKIQ7ADT.zip&Tp=1&Ctry_Code=PK&surv_id=552&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: PKIQ7ADT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=PKOD7ADT.zip&Tp=1&Ctry_Code=PK&surv_id=552&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: PKOD7ADT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=PKSQ7ADT.zip&Tp=1&Ctry_Code=PK&surv_id=552&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: PKSQ7ADT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=PKVA7ADT.zip&Tp=1&Ctry_Code=PK&surv_id=552&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: PKVA7ADT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=RWHH6ADT.zip&Tp=1&Ctry_Code=RW&surv_id=422&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: RWHH6ADT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=RWIQ6ADT.zip&Tp=1&Ctry_Code=RW&surv_id=422&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: RWIQ6ADT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=SNHH41DT.zip&Tp=1&Ctry_Code=SN&surv_id=166&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: SNHH41DT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=SNIQ41DT.zip&Tp=1&Ctry_Code=SN&surv_id=166&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: SNIQ41DT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=SNML41DT.zip&Tp=1&Ctry_Code=SN&surv_id=166&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: SNML41DT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TZHH31DT.zip&Tp=1&Ctry_Code=TZ&surv_id=67&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: TZHH31DT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TZIQ31DT.zip&Tp=1&Ctry_Code=TZ&surv_id=67&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: TZIQ31DT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TZML31DT.zip&Tp=1&Ctry_Code=TZ&surv_id=67&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: TZML31DT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TRBR71DT.zip&Tp=1&Ctry_Code=TR&surv_id=548&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: TRBR71DT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=TRPR71DT.zip&Tp=1&Ctry_Code=TR&surv_id=548&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: TRPR71DT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UGHH3ADT.zip&Tp=1&Ctry_Code=UG&surv_id=133&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: UGHH3ADT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UGIQ3BDT.zip&Tp=1&Ctry_Code=UG&surv_id=133&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: UGIQ3BDT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UGML3ADT.zip&Tp=1&Ctry_Code=UG&surv_id=133&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: UGML3ADT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UZHH49DT.zip&Tp=1&Ctry_Code=UZ&surv_id=213&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: UZHH49DT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UZIQ49DT.zip&Tp=1&Ctry_Code=UZ&surv_id=213&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: UZIQ49DT.zip
+processing https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=UZML49DT.zip&Tp=1&Ctry_Code=UZ&surv_id=213&dm=1&dmode=nm
+Response status code: 200
+Successfull request to server
+survey ID not found for file: UZML49DT.zip
