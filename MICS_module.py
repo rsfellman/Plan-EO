@@ -12,6 +12,16 @@ import rapidfuzz
 
 # country names vary between datasets so we need to standardize them
 def standardize_country(name):
+    '''
+    get standardized country name from pycountry
+
+    parameters:
+        name(str): unstandardized country name
+    
+    returns:
+        standardized name or None (str)
+    '''
+
     try:
         return pycountry.countries.lookup(name).name
     except LookupError:
@@ -101,6 +111,22 @@ def process_mics_metadata(mics_metadata_path, country_codes_path='ISO3_country_c
 
 # Helper function to recursively extract files from nested zip files
 def extract_nested_zip(zip_path, extract_to):
+    """
+    Recursively extracts files from nested zip files and flattens the directory structure.
+
+    Parameters:
+        zip_path (str): Path to the zip file to be extracted.
+        extract_to (str): Directory where the extracted files will be saved.
+
+    Functionality:
+        - Extracts the contents of the given zip file.
+        - Detects and extracts any nested zip files recursively.
+        - Moves all extracted files to the root of the `extract_to` directory, flattening the structure.
+        - Removes empty subdirectories and deletes processed zip files.
+
+    Notes:
+        - If a subdirectory cannot be removed (e.g., due to hidden files), a warning is printed.
+    """
     with zipfile.ZipFile(zip_path, 'r') as zip_ref:
         zip_ref.extractall(extract_to)
         for root, _, files in os.walk(extract_to):
@@ -139,6 +165,7 @@ def normalize(text):
 
 # function to standardize country names and give error if not standardizable
 def standardize_country_name(name):
+
     try:
         return pycountry.countries.lookup(name).name
     except LookupError:
@@ -146,6 +173,20 @@ def standardize_country_name(name):
 
 
 def parse_file_name(zip_file):
+    """
+    Extracts the year and country name from a zip file name.
+
+    Parameters:
+        zip_file (str): Name of the zip file.
+
+    Returns:
+        tuple: A tuple containing:
+            - name (str): The cleaned file name without the ".zip" extension.
+            - year (str): The extracted year or "XXXX" if no year is found.
+            - country_part (str): The extracted country name.
+            - year_from_filename (bool): True if the year was found in the file name, False otherwise.
+    """
+
     #extract year from zip file name
     name = zip_file.replace(".zip", '')
     name = (name.replace("_", " "))
@@ -178,6 +219,19 @@ def parse_file_name(zip_file):
 
 
 def parse_edge_cases(country_part, name):
+    """
+    Handles special cases for country names with territories or additional information.
+
+    Parameters:
+        country_part (str): The extracted country name from the file name.
+        name (str): The full file name for additional context.
+
+    Returns:
+        tuple: A tuple containing:
+            - country_part (str): The standardized country name.
+            - extra_info (str or None): Additional information about the country (e.g., territory or state), or None if not applicable.
+    """
+
     #deal with countries with territory not in parentheses
     if "thailand" in country_part.lower():
         country_part = "thailand"
@@ -219,6 +273,7 @@ def extract_and_save_zipped_files(file_extraction_log, zip_file_path, mics_metad
     Extracts nested zip files and saves them in a folder with a specific naming convention.
 
     Parameters:
+        file_extraction_log(str): path to file where log messages will be saved
         zip_dir (str): Path to the directory or zip file containing the zip files.
         mics_metadata (pd.DataFrame): DataFrame containing metadata with ISO3 codes and years.
         survey_round (int): The survey round number to filter metadata.
@@ -502,6 +557,40 @@ def extract_and_save_zipped_files(file_extraction_log, zip_file_path, mics_metad
 
 
 def parse_log_to_df(log_file_path):
+    """
+    Parses a log file and converts its contents into a structured DataFrame.
+
+    This function reads a log file line by line, extracts relevant information from each line,
+    and organizes it into a DataFrame. It is designed to handle logs generated during the 
+    processing of MICS (Multiple Indicator Cluster Surveys) datasets, capturing details such as 
+    file names, country names, metadata, available years, and errors.
+
+    Parameters:
+        log_file_path (str): The path to the log file to be parsed.
+
+    Returns:
+        pd.DataFrame: A DataFrame containing the parsed log information with the following columns:
+            - zip_file: The name of the zip file being processed.
+            - normalized_country: The normalized country name extracted from the log.
+            - standardized_country: The standardized country name after matching with metadata.
+            - metadata_row: The metadata row associated with the country.
+            - extracted_country: The country name extracted from the file.
+            - metadata_rows_found: The number of metadata rows found for the country.
+            - available_years: The years available for the dataset, extracted from the log.
+            - unzipping_to: The directory where the zip file was extracted.
+            - saved_to: The directory where the processed files were saved.
+            - success: A boolean indicating whether the processing was successful.
+            - failure_reason: A description of the reason for failure, if applicable.
+            - manual_check_advised: Notes indicating if manual intervention is required.
+
+    Notes:
+        - The function handles various log messages, including warnings, errors, and informational messages.
+        - If multiple years are found in the log, they are extracted and stored in the `available_years` column.
+        - If an error occurs during processing, the `failure_reason` column is populated, and `success` is set to False.
+        - The `manual_check_advised` column is used to flag cases where manual review is recommended.
+
+    """
+
     with open(log_file_path, 'r') as file:
         lines = file.readlines()
 
