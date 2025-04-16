@@ -34,13 +34,22 @@ def process_mics_metadata(mics_metadata_path, country_codes_path='ISO3_country_c
     Processes the MICS surveys catalogue file and outputs a cleaned DataFrame.
 
     Parameters:
-        mics_file (str): Path to the MICS surveys catalogue CSV file.
-        country_codes_file (str): Path to the country codes CSV file.
-        meta_dict (dict): Dictionary to map country names to standardized names.
-        country_codes_dict (dict): Dictionary to map country codes to standardized names.
+        mics_metadata_path (str): Path to the MICS surveys catalogue CSV file.
+        country_codes_path (str): Path to the country codes CSV file.
+    
+    meta_dict (dict): Dictionary to map country names to standardized names.
+    country_codes_dict (dict): Dictionary to map country codes to standardized names.
 
     Returns:
-        pd.DataFrame: Processed DataFrame with standardized country names that can be used for sorting data.
+        pd.DataFrame: A cleaned and merged DataFrame with the following columns:
+            - round: The MICS round (e.g., "MICS6").
+            - round_num: The numeric representation of the MICS round (e.g., 6).
+            - country_x: The original country name from the MICS metadata.
+            - country_code: The ISO3 country code.
+            - year: The year of the survey.
+            - save_name: The standardized country name used for saving files.
+            - standardized: The standardized country name for merging and sorting.
+
     """
 
     meta_dict = {
@@ -127,6 +136,7 @@ def extract_nested_zip(zip_path, extract_to):
     Notes:
         - If a subdirectory cannot be removed (e.g., due to hidden files), a warning is printed.
     """
+
     with zipfile.ZipFile(zip_path, 'r') as zip_ref:
         zip_ref.extractall(extract_to)
         for root, _, files in os.walk(extract_to):
@@ -158,6 +168,7 @@ def extract_nested_zip(zip_path, extract_to):
                     print(f"Warning: Could not remove directory {root}. Details: {e}")
 
 
+
 #function to normalize text
 def normalize(text):
     return unidecode.unidecode(re.sub(r'\W+', ' ', text)).strip().lower()
@@ -165,7 +176,6 @@ def normalize(text):
 
 # function to standardize country names and give error if not standardizable
 def standardize_country_name(name):
-
     try:
         return pycountry.countries.lookup(name).name
     except LookupError:
@@ -231,7 +241,7 @@ def parse_edge_cases(country_part, name):
             - country_part (str): The standardized country name.
             - extra_info (str or None): Additional information about the country (e.g., territory or state), or None if not applicable.
     """
-
+    extra_info = None
     #deal with countries with territory not in parentheses
     if "thailand" in country_part.lower():
         country_part = "thailand"
@@ -247,14 +257,14 @@ def parse_edge_cases(country_part, name):
         #set country_part to pakistan
         country_part = "pakistan"
         #get state information
-        state_match = re.search(r"\((.*?)\)", country_part)  # Check for parentheses
+        state_match = re.search(r"\((.*?)\)", name)  # Check for parentheses
         if state_match:
             extra_info = state_match.group(1).strip()
         else:
             # Look for state names outside parentheses
             state_keywords = ["punjab", "sindh", "balochistan", "khyber pakhtunkhwa"]
             for state in state_keywords:
-                if state.lower() in country_part.lower():
+                if state.lower() in name.lower():
                     extra_info = state
                     break
             else:
@@ -263,6 +273,37 @@ def parse_edge_cases(country_part, name):
    
 
     return country_part, extra_info
+
+def get_available_unclaimed_year(available_years, iso3_code, country_folder_path, survey_round):
+    """
+    Given available years and the folder path, return the highest year that doesn't already exist.
+
+    Parameters:
+        available_years (list): List of year strings, e.g., ['2023', '2017-2018']
+        iso3_code (str): Country ISO3 code
+        country_folder_path (str): Base path for this country's survey folder
+        survey_round (int): The survey round, e.g., 6
+
+    Returns:
+        str or None: A usable year string, or None if all years are taken
+    """
+
+    # Flatten and sort all parts
+    possible_years = []
+    for y in available_years:
+        for part in str(y).split('-'):
+            if part.isdigit():
+                possible_years.append(int(part))
+
+    # Sort years descending so we try most recent first
+    for year in sorted(possible_years, reverse=True):
+        alt_survey_folder_name = f"{iso3_code}{year}MC{survey_round}"
+        alt_survey_folder_path = os.path.join(country_folder_path, "03_Survey_data", alt_survey_folder_name)
+        if not os.path.exists(alt_survey_folder_path):
+            return str(year)
+
+    return None
+
 
 
 # function to extract and sort files
@@ -335,26 +376,43 @@ def extract_and_save_zipped_files(file_extraction_log, zip_file_path, mics_metad
     # step 3: iterate over all the zip files in the temporary directory
     for zip_file in os.listdir(temp_dir):
         if zip_file.endswith('.zip'):
-
-            logger.info(f"Processing file: {zip_file}")
             
+            logger.info(f"Processing file: {zip_file}")
+            extra_info = None
+
+
             try:
 
                 parse = parse_file_name(zip_file)
                 name, year, country_part, year_from_filename = parse
 
-                #deal with countries with territories not in parentheses
-                if "thailand" in country_part.lower() or "pakistan" in country_part.lower():
-                    edge_case = parse_edge_cases(country_part, name)
-                    country_part, extra_info = edge_case
-                else:
-                    # Extract extra information in parentheses (if present)
-                    extra_info_match = re.search(r"\((.*?)\)", country_part)
-                    extra_info = extra_info_match.group(1).strip() if extra_info_match else None
+                #Extract extra information in parentheses (if present)
+                extra_info_match = re.search(r"\((.*?)\)", country_part)
+                extra_info = extra_info_match.group(1).strip() if extra_info_match else None
 
-                #skip territory level data
+                #deal with countries with territories not in parentheses
+                #if "thailand" in country_part.lower() or "pakistan" in country_part.lower():
+                 #   edge_case = parse_edge_cases(country_part, name)
+                  #  country_part, extra_info = edge_case
+                #else:
+                    #Extract extra information in parentheses (if present)
+                 #   extra_info_match = re.search(r"\((.*?)\)", country_part)
+                  #
+                  #   extra_info = extra_info_match.group(1).strip() if extra_info_match else None
+                # Step 1: Extract extra info from the original filename (before any cleaning)
+                extra_info_match = re.search(r"\((.*?)\)", name)
+                extra_info = extra_info_match.group(1).strip() if extra_info_match else None
+
+                # Step 2: Parse known edge cases that may override or add extra info
+                country_part, edge_info = parse_edge_cases(country_part, name)
+
+                # Step 3: If the edge case parser returned something, override
+                if edge_info:
+                    extra_info = edge_info
+
+                # Step 4: Skip any file with extra_info
                 if extra_info:
-                    logger.info("territory")
+                    logger.info(f"territory: {extra_info}")
                     continue
 
                 #remove any extra information in parentheses
@@ -434,7 +492,12 @@ def extract_and_save_zipped_files(file_extraction_log, zip_file_path, mics_metad
                     
                 # deal with years like 2021-2022
                 if '-' in year:
-                    year = year.split('-')[0]
+                    parts = year.split('-')
+                    # Use the second part only if it’s 4 digits
+                    if re.fullmatch(r'\d{4}', parts[1]):
+                        year = parts[1]
+                    else:
+                        year = parts[0]  # fallback to first partyear = year.split('-')[1]
 
                 
                 logger.info(f"Extracted country: {country}")
@@ -504,13 +567,11 @@ def extract_and_save_zipped_files(file_extraction_log, zip_file_path, mics_metad
                         available_years = metadata_row['year'].unique()
                         if len(available_years) > 1:
                             try:
-                                other_year = min(
-                                    int(part)
-                                    for y in available_years
-                                    for part in str(y).split('-')
-                                    if part.isdigit()
-                                )
-                                alt_year = str(other_year)
+                                alt_year = get_available_unclaimed_year(available_years, iso3_code, country_folder_path, survey_round)
+                                if not alt_year:
+                                    logger.warning(f"Alternative paths for {available_years} all exist. Skipping.")
+                                    continue
+                                
                                 if '-' in alt_year:
                                     alt_year = alt_year.split('-')[0]
 
@@ -551,6 +612,7 @@ def extract_and_save_zipped_files(file_extraction_log, zip_file_path, mics_metad
     #clean up temporary directory
     if 'temp_dir' in locals() and os.path.exists(temp_dir):
         shutil.rmtree(temp_dir)
+
 
 
 #function to parse error logs
@@ -708,4 +770,5 @@ def parse_log_to_df(log_file_path):
     return df[expected_cols]
 
 
-
+if __name__ == "__main__":
+    import sys

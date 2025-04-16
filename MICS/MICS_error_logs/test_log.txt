@@ -1,0 +1,556 @@
+Unzipping outer container: MICS/MICS_zip/MICS_Datasets (6).zip
+Processing file: Pakistan Sindh MICS6 Datasets.zip
+territory: sindh
+Processing file: Pakistan (Balochistan) MICS6 Datasets.zip
+territory: Balochistan
+Processing file: Bangladesh MICS6 SPSS Datasets.zip
+Normalized country name: bangladesh
+Standardized country name: Bangladesh
+Metadata row for Bangladesh: Bangladesh
+Extracted country: Bangladesh
+Found metadata rows: 1
+Available years in metadata: ['2019']
+Unexpected error while processing Bangladesh MICS6 SPSS Datasets.zip: [Errno 2] No such file or directory: '../individual_country_data/BGD_Bangladesh'
+Processing file: Dominican Republic MICS6 Datasets.zip
+Normalized country name: dominican republic
+Standardized country name: Dominican Republic
+Metadata row for Dominican Republic: Dominican Republic
+Extracted country: Dominican Republic
+Found metadata rows: 1
+Available years in metadata: ['2019']
+Unzipping Dominican Republic MICS6 Datasets.zip to DOM2019MC6...
+Extracted and saved files for Dominican Republic MICS6 Datasets.zip to ../individual_country_data/DOM_Dominican_Republic/03_Survey_data/DOM2019MC6.
+Processing file: Viet Nam MICS6 Datasets.zip
+Normalized country name: viet nam
+Standardized country name: Viet Nam
+Metadata row for Viet Nam: Vietnam
+Extracted country: Viet Nam
+Found metadata rows: 1
+Available years in metadata: ['2020-2021']
+Unzipping Viet Nam MICS6 Datasets.zip to VNM2021MC6...
+Extracted and saved files for Viet Nam MICS6 Datasets.zip to ../individual_country_data/VNM_Vietnam/03_Survey_data/VNM2021MC6.
+Processing file: Serbia MICS6 Datasets.zip
+Normalized country name: serbia
+Standardized country name: Serbia
+Metadata row for Serbia: Serbia
+Extracted country: Serbia
+Found metadata rows: 2
+Available years in metadata: ['2019']
+Unzipping Serbia MICS6 Datasets.zip to SRB2019MC6...
+Extracted and saved files for Serbia MICS6 Datasets.zip to ../individual_country_data/SRB_Serbia/03_Survey_data/SRB2019MC6.
+Processing file: Kiribati MICS6 Datasets.zip
+Normalized country name: kiribati
+Standardized country name: Kiribati
+Metadata row for Kiribati: Kiribati
+Extracted country: Kiribati
+Found metadata rows: 1
+Available years in metadata: ['2018-2019']
+Unzipping Kiribati MICS6 Datasets.zip to KIR2019MC6...
+Extracted and saved files for Kiribati MICS6 Datasets.zip to ../individual_country_data/KIR_Kiribati/03_Survey_data/KIR2019MC6.
+Processing file: Guyana MICS6 Datasets.zip
+Normalized country name: guyana
+Standardized country name: Guyana
+Metadata row for Guyana: Guyana
+Extracted country: Guyana
+Found metadata rows: 1
+Available years in metadata: ['2019-2020']
+Unzipping Guyana MICS6 Datasets.zip to GUY2020MC6...
+Extracted and saved files for Guyana MICS6 Datasets.zip to ../individual_country_data/GUY_Guyana/03_Survey_data/GUY2020MC6.
+Processing file: Lao PDR MICS6 2023 Datasets.zip
+Normalized country name: lao pdr
+Standardized country name: Lao People's Democratic Republic
+Metadata row for Lao People's Democratic Republic: Laos
+Extracted country: Lao People's Democratic Republic
+Found metadata rows: 2
+Available years in metadata: ['2023' '2017']
+Unzipping Lao PDR MICS6 2023 Datasets.zip to LAO2023MC6...
+Extracted and saved files for Lao PDR MICS6 2023 Datasets.zip to ../individual_country_data/LAO_Laos/03_Survey_data/LAO2023MC6.
+Processing file: Iraq MICS6 Datasets.zip
+Normalized country name: iraq
+Standardized country name: Iraq
+Metadata row for Iraq: Iraq
+Extracted country: Iraq
+Found metadata rows: 1
+Available years in metadata: ['2018']
+Unzipping Iraq MICS6 Datasets.zip to IRQ2018MC6...
+Extracted and saved files for Iraq MICS6 Datasets.zip to ../individual_country_data/IRQ_Iraq/03_Survey_data/IRQ2018MC6.
+Processing file: Kyrgyzstan MICS6 2023 Datasets.zip
+Normalized country name: kyrgyzstan
+Standardized country name: Kyrgyzstan
+Metadata row for Kyrgyzstan: Kyrgyzstan
+Extracted country: Kyrgyzstan
+Found metadata rows: 2
+Available years in metadata: ['2023' '2018']
+Unzipping Kyrgyzstan MICS6 2023 Datasets.zip to KGZ2023MC6...
+Extracted and saved files for Kyrgyzstan MICS6 2023 Datasets.zip to ../individual_country_data/KGZ_Kyrgyzstan/03_Survey_data/KGZ2023MC6.
+Processing file: Montenegro (Roma Settlements) MICS6 Datasets.zip
+territory: Roma Settlements
+Processing file: Tuvalu MICS6 Datasets.zip
+Normalized country name: tuvalu
+Standardized country name: Tuvalu
+Metadata row for Tuvalu: Tuvalu
+Extracted country: Tuvalu
+Found metadata rows: 1
+Available years in metadata: ['2019-2020']
+Unzipping Tuvalu MICS6 Datasets.zip to TUV2020MC6...
+Extracted and saved files for Tuvalu MICS6 Datasets.zip to ../individual_country_data/TUV_Tuvalu/03_Survey_data/TUV2020MC6.
+Processing file: Vanuatu MICS6 Datasets.zip
+Normalized country name: vanuatu
+Standardized country name: Vanuatu
+Metadata row for Vanuatu: Vanuatu
+Extracted country: Vanuatu
+Found metadata rows: 1
+Available years in metadata: ['2023']
+Unzipping Vanuatu MICS6 Datasets.zip to VUT2023MC6...
+Extracted and saved files for Vanuatu MICS6 Datasets.zip to ../individual_country_data/VUT_Vanuatu/03_Survey_data/VUT2023MC6.
+Processing file: Chad MICS6 Datasets.zip
+Normalized country name: chad
+Standardized country name: Chad
+Metadata row for Chad: Chad
+Extracted country: Chad
+Found metadata rows: 1
+Available years in metadata: ['2019']
+Unzipping Chad MICS6 Datasets.zip to TCD2019MC6...
+Extracted and saved files for Chad MICS6 Datasets.zip to ../individual_country_data/TCD_Chad/03_Survey_data/TCD2019MC6.
+Processing file: Tunisia MICS6 2023 Datasets.zip
+Normalized country name: tunisia
+Standardized country name: Tunisia
+Metadata row for Tunisia: Tunisia
+Extracted country: Tunisia
+Found metadata rows: 2
+Available years in metadata: ['2023' '2018']
+Unzipping Tunisia MICS6 2023 Datasets.zip to TUN2023MC6...
+Extracted and saved files for Tunisia MICS6 2023 Datasets.zip to ../individual_country_data/TUN_Tunisia/03_Survey_data/TUN2023MC6.
+Processing file: Afghanistan MICS6 Datasets.zip
+Normalized country name: afghanistan
+Standardized country name: Afghanistan
+Metadata row for Afghanistan: Afghanistan
+Extracted country: Afghanistan
+Found metadata rows: 1
+Available years in metadata: ['2022-2023']
+Unzipping Afghanistan MICS6 Datasets.zip to AFG2023MC6...
+Extracted and saved files for Afghanistan MICS6 Datasets.zip to ../individual_country_data/AFG_Afghanistan/03_Survey_data/AFG2023MC6.
+Processing file: Thailand MICS6 2022 Datasets.zip
+Normalized country name: thailand
+Standardized country name: Thailand
+Metadata row for Thailand: Thailand
+Extracted country: Thailand
+Found metadata rows: 2
+Available years in metadata: ['2022' '2019']
+Unzipping Thailand MICS6 2022 Datasets.zip to THA2022MC6...
+Extracted and saved files for Thailand MICS6 2022 Datasets.zip to ../individual_country_data/THA_Thailand/03_Survey_data/THA2022MC6.
+Processing file: The Gambia MICS6 Datasets.zip
+Normalized country name: the gambia
+Standardized country name: Gambia
+Metadata row for Gambia: Gambia
+Extracted country: Gambia
+Found metadata rows: 1
+Available years in metadata: ['2018']
+Unzipping The Gambia MICS6 Datasets.zip to GMB2018MC6...
+Extracted and saved files for The Gambia MICS6 Datasets.zip to ../individual_country_data/GMB_Gambia/03_Survey_data/GMB2018MC6.
+Processing file: Zimbabwe MICS6 SPSS Datasets.zip
+Normalized country name: zimbabwe
+Standardized country name: Zimbabwe
+Metadata row for Zimbabwe: Zimbabwe
+Extracted country: Zimbabwe
+Found metadata rows: 1
+Available years in metadata: ['2019']
+Unzipping Zimbabwe MICS6 SPSS Datasets.zip to ZWE2019MC6...
+Extracted and saved files for Zimbabwe MICS6 SPSS Datasets.zip to ../individual_country_data/ZWE_Zimbabwe/03_Survey_data/ZWE2019MC6.
+Processing file: Uzbekistan MICS6 Datasets.zip
+Normalized country name: uzbekistan
+Standardized country name: Uzbekistan
+Metadata row for Uzbekistan: Uzbekistan
+Extracted country: Uzbekistan
+Found metadata rows: 1
+Available years in metadata: ['2021-2022']
+Unzipping Uzbekistan MICS6 Datasets.zip to UZB2022MC6...
+Extracted and saved files for Uzbekistan MICS6 Datasets.zip to ../individual_country_data/UZB_Uzbekistan/03_Survey_data/UZB2022MC6.
+Processing file: Malawi MICS6 SPSS.zip
+Normalized country name: malawi
+Standardized country name: Malawi
+Metadata row for Malawi: Malawi
+Extracted country: Malawi
+Found metadata rows: 1
+Available years in metadata: ['2019-2020']
+Unzipping Malawi MICS6 SPSS.zip to MWI2020MC6...
+Extracted and saved files for Malawi MICS6 SPSS.zip to ../individual_country_data/MWI_Malawi/03_Survey_data/MWI2020MC6.
+Processing file: Benin MICS6 Datasets.zip
+Normalized country name: benin
+Standardized country name: Benin
+Metadata row for Benin: Benin
+Extracted country: Benin
+Found metadata rows: 1
+Available years in metadata: ['2021-2022']
+Unzipping Benin MICS6 Datasets.zip to BEN2022MC6...
+Extracted and saved files for Benin MICS6 Datasets.zip to ../individual_country_data/BEN_Benin/03_Survey_data/BEN2022MC6.
+Processing file: Lesotho_MICS6_datasets.zip
+Normalized country name: lesotho
+Standardized country name: Lesotho
+Metadata row for Lesotho: Lesotho
+Extracted country: Lesotho
+Found metadata rows: 1
+Available years in metadata: ['2018']
+Unzipping Lesotho_MICS6_datasets.zip to LSO2018MC6...
+Extracted and saved files for Lesotho_MICS6_datasets.zip to ../individual_country_data/LSO_Lesotho/03_Survey_data/LSO2018MC6.
+Processing file: Togo MICS6 SPSS Datasets.zip
+Normalized country name: togo
+Standardized country name: Togo
+Metadata row for Togo: Togo
+Extracted country: Togo
+Found metadata rows: 1
+Available years in metadata: ['2017']
+Unzipping Togo MICS6 SPSS Datasets.zip to TGO2017MC6...
+Extracted and saved files for Togo MICS6 SPSS Datasets.zip to ../individual_country_data/TGO_Togo/03_Survey_data/TGO2017MC6.
+Processing file: Algeria MICS6 Datasets.zip
+Normalized country name: algeria
+Standardized country name: Algeria
+Metadata row for Algeria: Algeria
+Extracted country: Algeria
+Found metadata rows: 1
+Available years in metadata: ['2018-2019']
+Unzipping Algeria MICS6 Datasets.zip to DZA2019MC6...
+Extracted and saved files for Algeria MICS6 Datasets.zip to ../individual_country_data/DZA_Algeria/03_Survey_data/DZA2019MC6.
+Processing file: Nigeria MICS6 Datasets.zip
+Normalized country name: nigeria
+Standardized country name: Nigeria
+Metadata row for Nigeria: Nigeria
+Extracted country: Nigeria
+Found metadata rows: 1
+Available years in metadata: ['2021']
+Unzipping Nigeria MICS6 Datasets.zip to NGA2021MC6...
+Extracted and saved files for Nigeria MICS6 Datasets.zip to ../individual_country_data/NGA_Nigeria/03_Survey_data/NGA2021MC6.
+Processing file: Tunisia MICS6 Datasets.zip
+Normalized country name: tunisia
+Standardized country name: Tunisia
+Metadata row for Tunisia: Tunisia
+Extracted country: Tunisia
+Found metadata rows: 2
+Available years in metadata: ['2023' '2018']
+Unzipping Tunisia MICS6 Datasets.zip to TUN2018MC6...
+Extracted and saved files for Tunisia MICS6 Datasets.zip to ../individual_country_data/TUN_Tunisia/03_Survey_data/TUN2018MC6.
+Processing file: Guinea Bissau MICS6 Datasets.zip
+Normalized country name: guinea bissau
+Standardized country name: Guinea-Bissau
+Metadata row for Guinea-Bissau: Guinea-Bissau
+Extracted country: Guinea-Bissau
+Found metadata rows: 1
+Available years in metadata: ['2018-2019']
+Unzipping Guinea Bissau MICS6 Datasets.zip to GNB2019MC6...
+Extracted and saved files for Guinea Bissau MICS6 Datasets.zip to ../individual_country_data/GNB_Guinea-Bissau/03_Survey_data/GNB2019MC6.
+Processing file: Thailand MICS6 and Thailand Selected 17 Provinces MICS6 Datasets.zip
+Normalized country name: thailand
+Standardized country name: Thailand
+Metadata row for Thailand: Thailand
+Extracted country: Thailand
+Found metadata rows: 2
+Available years in metadata: ['2022' '2019']
+Unzipping Thailand MICS6 and Thailand Selected 17 Provinces MICS6 Datasets.zip to THA2019MC6...
+Unexpected error while processing Thailand MICS6 and Thailand Selected 17 Provinces MICS6 Datasets.zip: Destination path '../individual_country_data/THA_Thailand/03_Survey_data/THA2019MC6/hh.sav' already exists
+Processing file: State of Palestine MICS6 Datasets.zip
+Normalized country name: state of palestine
+Standardized country name: error
+Matched Palestine directly in save_name: Palestine
+Extracted country: error
+Found metadata rows: 1
+Available years in metadata: ['2019-2020']
+Unzipping State of Palestine MICS6 Datasets.zip to PSE2020MC6...
+Extracted and saved files for State of Palestine MICS6 Datasets.zip to ../individual_country_data/PSE_Palestine/03_Survey_data/PSE2020MC6.
+Processing file: Belarus MICS6 Datasets.zip
+Normalized country name: belarus
+Standardized country name: Belarus
+Metadata row for Belarus: Belarus
+Extracted country: Belarus
+Found metadata rows: 1
+Available years in metadata: ['2019']
+Unzipping Belarus MICS6 Datasets.zip to BLR2019MC6...
+Extracted and saved files for Belarus MICS6 Datasets.zip to ../individual_country_data/BLR_Belarus/03_Survey_data/BLR2019MC6.
+Processing file: Costa Rica MICS6 Datasets.zip
+Normalized country name: costa rica
+Standardized country name: Costa Rica
+Metadata row for Costa Rica: Costa Rica
+Extracted country: Costa Rica
+Found metadata rows: 1
+Available years in metadata: ['2018']
+Unzipping Costa Rica MICS6 Datasets.zip to CRI2018MC6...
+Extracted and saved files for Costa Rica MICS6 Datasets.zip to ../individual_country_data/CRI_Costa_Rica/03_Survey_data/CRI2018MC6.
+Processing file: Lao PDR MICS6 Datasets.zip
+Normalized country name: lao pdr
+Standardized country name: Lao People's Democratic Republic
+Metadata row for Lao People's Democratic Republic: Laos
+Extracted country: Lao People's Democratic Republic
+Found metadata rows: 2
+Available years in metadata: ['2023' '2017']
+Unzipping Lao PDR MICS6 Datasets.zip to LAO2017MC6...
+Extracted and saved files for Lao PDR MICS6 Datasets.zip to ../individual_country_data/LAO_Laos/03_Survey_data/LAO2017MC6.
+Processing file: MICS6 Samoa Datasets.zip
+Normalized country name: samoa
+Standardized country name: Samoa
+Metadata row for Samoa: Samoa
+Extracted country: Samoa
+Found metadata rows: 1
+Available years in metadata: ['2019-2020']
+Unzipping MICS6 Samoa Datasets.zip to WSM2020MC6...
+Extracted and saved files for MICS6 Samoa Datasets.zip to ../individual_country_data/WSM_Samoa/03_Survey_data/WSM2020MC6.
+Processing file: Yemen MICS6 Datasets.zip
+Normalized country name: yemen
+Standardized country name: Yemen
+Metadata row for Yemen: Yemen
+Extracted country: Yemen
+Found metadata rows: 1
+Available years in metadata: ['2022-2023']
+Unzipping Yemen MICS6 Datasets.zip to YEM2023MC6...
+Extracted and saved files for Yemen MICS6 Datasets.zip to ../individual_country_data/YEM_Yemen/03_Survey_data/YEM2023MC6.
+Processing file: Honduras MICS6 Datasets.zip
+Normalized country name: honduras
+Standardized country name: Honduras
+Metadata row for Honduras: Honduras
+Extracted country: Honduras
+Found metadata rows: 1
+Available years in metadata: ['2019']
+Unzipping Honduras MICS6 Datasets.zip to HND2019MC6...
+Extracted and saved files for Honduras MICS6 Datasets.zip to ../individual_country_data/HND_Honduras/03_Survey_data/HND2019MC6.
+Processing file: Republic of North Macedonia (Roma Settlements) MICS6 Datasets.zip
+territory: Roma Settlements
+Processing file: Republic of North Macedonia MICS6 Datasets.zip
+Normalized country name: republic of north macedonia
+Standardized country name: North Macedonia
+Metadata row for North Macedonia: North Macedonia
+Extracted country: North Macedonia
+Found metadata rows: 2
+Available years in metadata: ['2018-2019']
+Unzipping Republic of North Macedonia MICS6 Datasets.zip to MKD2019MC6...
+Extracted and saved files for Republic of North Macedonia MICS6 Datasets.zip to ../individual_country_data/MKD_North_Macedonia/03_Survey_data/MKD2019MC6.
+Processing file: Cuba MICS6 Datasets.zip
+Normalized country name: cuba
+Standardized country name: Cuba
+Metadata row for Cuba: Cuba
+Extracted country: Cuba
+Found metadata rows: 1
+Available years in metadata: ['2019']
+Unzipping Cuba MICS6 Datasets.zip to CUB2019MC6...
+Extracted and saved files for Cuba MICS6 Datasets.zip to ../individual_country_data/CUB_Cuba/03_Survey_data/CUB2019MC6.
+Processing file: Fiji MICS6 Datasets.zip
+Normalized country name: fiji
+Standardized country name: Fiji
+Metadata row for Fiji: Fiji
+Extracted country: Fiji
+Found metadata rows: 1
+Available years in metadata: ['2021']
+Unzipping Fiji MICS6 Datasets.zip to FJI2021MC6...
+Extracted and saved files for Fiji MICS6 Datasets.zip to ../individual_country_data/FJI_Fiji/03_Survey_data/FJI2021MC6.
+Processing file: Kosovo (UNSCR 1244) (Roma, Ashkali and Egyptian Communities) MICS6 Datasets.zip
+territory: UNSCR 1244
+Processing file: Sao Tome and Principe MICS6 Datasets.zip
+Normalized country name: sao tome and principe
+Standardized country name: Sao Tome and Principe
+Metadata row for Sao Tome and Principe: Sao Tome and Principe
+Extracted country: Sao Tome and Principe
+Found metadata rows: 1
+Available years in metadata: ['2019']
+Unzipping Sao Tome and Principe MICS6 Datasets.zip to STP2019MC6...
+Extracted and saved files for Sao Tome and Principe MICS6 Datasets.zip to ../individual_country_data/STP_Sao_Tome_and_Principe/03_Survey_data/STP2019MC6.
+Processing file: Montenegro MICS6 Datasets.zip
+Normalized country name: montenegro
+Standardized country name: Montenegro
+Metadata row for Montenegro: Montenegro
+Extracted country: Montenegro
+Found metadata rows: 2
+Available years in metadata: ['2018']
+Unzipping Montenegro MICS6 Datasets.zip to MNE2018MC6...
+Extracted and saved files for Montenegro MICS6 Datasets.zip to ../individual_country_data/MNE_Montenegro/03_Survey_data/MNE2018MC6.
+Processing file: Comoros MICS6 Datasets.zip
+Normalized country name: comoros
+Standardized country name: Comoros
+Metadata row for Comoros: Comoros
+Extracted country: Comoros
+Found metadata rows: 1
+Available years in metadata: ['2022']
+Unzipping Comoros MICS6 Datasets.zip to COM2022MC6...
+Extracted and saved files for Comoros MICS6 Datasets.zip to ../individual_country_data/COM_Comoros/03_Survey_data/COM2022MC6.
+Processing file: Ghana MICS6 SPSS Datasets.zip
+Normalized country name: ghana
+Standardized country name: Ghana
+Metadata row for Ghana: Ghana
+Extracted country: Ghana
+Found metadata rows: 1
+Available years in metadata: ['2017-2018']
+Unzipping Ghana MICS6 SPSS Datasets.zip to GHA2018MC6...
+Extracted and saved files for Ghana MICS6 SPSS Datasets.zip to ../individual_country_data/GHA_Ghana/03_Survey_data/GHA2018MC6.
+Processing file: Jamaica MICS6 Datasets.zip
+Normalized country name: jamaica
+Standardized country name: Jamaica
+Metadata row for Jamaica: Jamaica
+Extracted country: Jamaica
+Found metadata rows: 1
+Available years in metadata: ['2022']
+Unzipping Jamaica MICS6 Datasets.zip to JAM2022MC6...
+Extracted and saved files for Jamaica MICS6 Datasets.zip to ../individual_country_data/JAM_Jamaica/03_Survey_data/JAM2022MC6.
+Processing file: Georgia MICS6 SPSS Datasets.zip
+Normalized country name: georgia
+Standardized country name: Georgia
+Metadata row for Georgia: Georgia
+Extracted country: Georgia
+Found metadata rows: 1
+Available years in metadata: ['2018']
+Unzipping Georgia MICS6 SPSS Datasets.zip to GEO2018MC6...
+Extracted and saved files for Georgia MICS6 SPSS Datasets.zip to ../individual_country_data/GEO_Georgia/03_Survey_data/GEO2018MC6.
+Processing file: Pakistan Khyber Pakhtunkhwa MICS6 Datasets.zip
+territory: khyber pakhtunkhwa
+Processing file: Tonga MICS6 Datasets.zip
+Normalized country name: tonga
+Standardized country name: Tonga
+Metadata row for Tonga: Tonga
+Extracted country: Tonga
+Found metadata rows: 1
+Available years in metadata: ['2019']
+Unzipping Tonga MICS6 Datasets.zip to TON2019MC6...
+Extracted and saved files for Tonga MICS6 Datasets.zip to ../individual_country_data/TON_Tonga/03_Survey_data/TON2019MC6.
+Processing file: Eswatini MICS6 Datasets.zip
+Normalized country name: eswatini
+Standardized country name: Eswatini
+Metadata row for Eswatini: Eswatini
+Extracted country: Eswatini
+Found metadata rows: 1
+Available years in metadata: ['2021-2022']
+Unzipping Eswatini MICS6 Datasets.zip to SWZ2022MC6...
+Extracted and saved files for Eswatini MICS6 Datasets.zip to ../individual_country_data/SWZ_Eswatini/03_Survey_data/SWZ2022MC6.
+Processing file: Sierra Leone MICS6 Datasets.zip
+Normalized country name: sierra leone
+Standardized country name: Sierra Leone
+Metadata row for Sierra Leone: Sierra Leone
+Extracted country: Sierra Leone
+Found metadata rows: 1
+Available years in metadata: ['2017']
+Unzipping Sierra Leone MICS6 Datasets.zip to SLE2017MC6...
+Extracted and saved files for Sierra Leone MICS6 Datasets.zip to ../individual_country_data/SLE_Sierra_Leone/03_Survey_data/SLE2017MC6.
+Processing file: Kyrgyz Republic MICS6 Datasets.zip
+Normalized country name: kyrgyz republic
+Standardized country name: Kyrgyzstan
+Metadata row for Kyrgyzstan: Kyrgyzstan
+Extracted country: Kyrgyzstan
+Found metadata rows: 2
+Available years in metadata: ['2023' '2018']
+Unzipping Kyrgyz Republic MICS6 Datasets.zip to KGZ2018MC6...
+Extracted and saved files for Kyrgyz Republic MICS6 Datasets.zip to ../individual_country_data/KGZ_Kyrgyzstan/03_Survey_data/KGZ2018MC6.
+Processing file: Turks and Caicos Islands MICS6 Datasets.zip
+Normalized country name: turks and caicos islands
+Standardized country name: Turks and Caicos Islands
+Metadata row for Turks and Caicos Islands: Turks and Caicos Islands
+Extracted country: Turks and Caicos Islands
+Found metadata rows: 1
+Available years in metadata: ['2019-2020']
+Unzipping Turks and Caicos Islands MICS6 Datasets.zip to TCA2020MC6...
+Extracted and saved files for Turks and Caicos Islands MICS6 Datasets.zip to ../individual_country_data/TCA_Turks_and_Caicos_Islands/03_Survey_data/TCA2020MC6.
+Processing file: Serbia (Roma Settlements) MICS6 Datasets.zip
+territory: Roma Settlements
+Processing file: Argentina MICS6 Datasets.zip
+Normalized country name: argentina
+Standardized country name: Argentina
+Metadata row for Argentina: Argentina
+Extracted country: Argentina
+Found metadata rows: 1
+Available years in metadata: ['2019-2020']
+Unzipping Argentina MICS6 Datasets.zip to ARG2020MC6...
+Extracted and saved files for Argentina MICS6 Datasets.zip to ../individual_country_data/ARG_Argentina/03_Survey_data/ARG2020MC6.
+Processing file: Central African Republic MICS6 Datasets.zip
+Normalized country name: central african republic
+Standardized country name: Central African Republic
+Metadata row for Central African Republic: Central African Republic
+Extracted country: Central African Republic
+Found metadata rows: 1
+Available years in metadata: ['2018-2019']
+Unzipping Central African Republic MICS6 Datasets.zip to CAF2019MC6...
+Extracted and saved files for Central African Republic MICS6 Datasets.zip to ../individual_country_data/CAF_Central_African_Republic/03_Survey_data/CAF2019MC6.
+Processing file: Turkmenistan MICS6 SPSS Datasets.zip
+Normalized country name: turkmenistan
+Standardized country name: Turkmenistan
+Metadata row for Turkmenistan: Turkmenistan
+Extracted country: Turkmenistan
+Found metadata rows: 1
+Available years in metadata: ['2019']
+Unzipping Turkmenistan MICS6 SPSS Datasets.zip to TKM2019MC6...
+Extracted and saved files for Turkmenistan MICS6 SPSS Datasets.zip to ../individual_country_data/TKM_Turkmenistan/03_Survey_data/TKM2019MC6.
+Processing file: Nauru MICS6 2023 Datasets.zip
+Normalized country name: nauru
+Standardized country name: Nauru
+Metadata row for Nauru: Nauru
+Extracted country: Nauru
+Found metadata rows: 1
+Available years in metadata: ['2023']
+Unzipping Nauru MICS6 2023 Datasets.zip to NRU2023MC6...
+Extracted and saved files for Nauru MICS6 2023 Datasets.zip to ../individual_country_data/NRU_Nauru/03_Survey_data/NRU2023MC6.
+Processing file: DRCongo MICS6 SPSS Datafiles.zip
+Normalized country name: drcongo
+Standardized country name: error
+Matched Democratic Republic of Congo directly in save_name: Democratic Republic of Congo
+Extracted country: error
+Found metadata rows: 1
+Available years in metadata: ['2017-2018']
+Unzipping DRCongo MICS6 SPSS Datafiles.zip to COD2018MC6...
+Extracted and saved files for DRCongo MICS6 SPSS Datafiles.zip to ../individual_country_data/COD_Democratic_Republic_of_Congo/03_Survey_data/COD2018MC6.
+Processing file: Mongolia MICS 2018 SPSS Datasets.zip
+Normalized country name: mongolia
+Standardized country name: Mongolia
+Metadata row for Mongolia: Mongolia
+Extracted country: Mongolia
+Found metadata rows: 1
+Available years in metadata: ['2018']
+Unzipping Mongolia MICS 2018 SPSS Datasets.zip to MNG2018MC6...
+Extracted and saved files for Mongolia MICS 2018 SPSS Datasets.zip to ../individual_country_data/MNG_Mongolia/03_Survey_data/MNG2018MC6.
+Processing file: Suriname MICS6 SPSS Datafiles.zip
+Normalized country name: suriname
+Standardized country name: Suriname
+Metadata row for Suriname: Suriname
+Extracted country: Suriname
+Found metadata rows: 1
+Available years in metadata: ['2018']
+Unzipping Suriname MICS6 SPSS Datafiles.zip to SUR2018MC6...
+Extracted and saved files for Suriname MICS6 SPSS Datafiles.zip to ../individual_country_data/SUR_Suriname/03_Survey_data/SUR2018MC6.
+Processing file: Trinidad and Tobago MICS6 Datasets.zip
+Normalized country name: trinidad and tobago
+Standardized country name: Trinidad and Tobago
+Metadata row for Trinidad and Tobago: Trinidad and Tobago
+Extracted country: Trinidad and Tobago
+Found metadata rows: 1
+Available years in metadata: ['2022']
+Unzipping Trinidad and Tobago MICS6 Datasets.zip to TTO2022MC6...
+Extracted and saved files for Trinidad and Tobago MICS6 Datasets.zip to ../individual_country_data/TTO_Trinidad_and_Tobago/03_Survey_data/TTO2022MC6.
+Processing file: Madagascar MICS6 datasets.zip
+Normalized country name: madagascar
+Standardized country name: Madagascar
+Metadata row for Madagascar: Madagascar
+Extracted country: Madagascar
+Found metadata rows: 1
+Available years in metadata: ['2018']
+Unzipping Madagascar MICS6 datasets.zip to MDG2018MC6...
+Extracted and saved files for Madagascar MICS6 datasets.zip to ../individual_country_data/MDG_Madagascar/03_Survey_data/MDG2018MC6.
+Processing file: Azerbaijan MICS6 2023 Datasets.zip
+Normalized country name: azerbaijan
+Standardized country name: Azerbaijan
+Metadata row for Azerbaijan: Azerbaijan
+Extracted country: Azerbaijan
+Found metadata rows: 1
+Available years in metadata: ['2023']
+Unzipping Azerbaijan MICS6 2023 Datasets.zip to AZE2023MC6...
+Extracted and saved files for Azerbaijan MICS6 2023 Datasets.zip to ../individual_country_data/AZE_Azerbaijan/03_Survey_data/AZE2023MC6.
+Processing file: Nepal MICS6 Datasets.zip
+Normalized country name: nepal
+Standardized country name: Nepal
+Metadata row for Nepal: Nepal
+Extracted country: Nepal
+Found metadata rows: 1
+Available years in metadata: ['2019']
+Unzipping Nepal MICS6 Datasets.zip to NPL2019MC6...
+Extracted and saved files for Nepal MICS6 Datasets.zip to ../individual_country_data/NPL_Nepal/03_Survey_data/NPL2019MC6.
+Processing file: Pakistan Punjab MICS6 Datasets.zip
+territory: punjab
+Processing file: Kosovo under UNSC res. 1244 MICS6 Datasets.zip
+Normalized country name: kosovo under unsc res 1244
+Standardized country name: error
+Matched Kosovo directly in save_name: Kosovo
+Extracted country: error
+Found metadata rows: 2
+Available years in metadata: ['2019-2020']
+Unzipping Kosovo under UNSC res. 1244 MICS6 Datasets.zip to XKX2020MC6...
+Extracted and saved files for Kosovo under UNSC res. 1244 MICS6 Datasets.zip to ../individual_country_data/XKX_Kosovo/03_Survey_data/XKX2020MC6.
