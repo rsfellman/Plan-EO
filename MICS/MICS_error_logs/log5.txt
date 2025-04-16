@@ -1,0 +1,337 @@
+Unzipping outer container: MICS/MICS_zip/MICS_Datasets (5).zip
+Processing file: Dominican Republic_MICS5_Datasets.zip
+Normalized country name: dominican republic
+Standardized country name: Dominican Republic
+Metadata row for Dominican Republic: Dominican Republic
+Extracted country: Dominican Republic
+Found metadata rows: 1
+Available years in metadata: ['2014']
+Unzipping Dominican Republic_MICS5_Datasets.zip to DOM2014MC5...
+Extracted and saved files for Dominican Republic_MICS5_Datasets.zip to ../Individual_country_data/DOM_Dominican_Republic/03_Survey_data/DOM2014MC5.
+Processing file: Pakistan (Punjab)_MICS5_Datasets.zip
+territory: Punjab
+Processing file: Congo_MICS5_Datasets.zip
+Normalized country name: congo
+Standardized country name: Congo
+Metadata row for Congo: Congo
+Extracted country: Congo
+Found metadata rows: 1
+Available years in metadata: ['2014-2015']
+Unzipping Congo_MICS5_Datasets.zip to COG2015MC5...
+Extracted and saved files for Congo_MICS5_Datasets.zip to ../Individual_country_data/COG_Congo/03_Survey_data/COG2015MC5.
+Processing file: Mongolia_MICS5_Datasets.zip
+Normalized country name: mongolia
+Standardized country name: Mongolia
+Metadata row for Mongolia: Mongolia
+Extracted country: Mongolia
+Found metadata rows: 3
+Available years in metadata: ['2016' '2013-2014']
+Unzipping Mongolia_MICS5_Datasets.zip to MNG2016MC5...
+Extracted and saved files for Mongolia_MICS5_Datasets.zip to ../Individual_country_data/MNG_Mongolia/03_Survey_data/MNG2016MC5.
+Processing file: Egypt (Sub-national) 2013-14 MICS_Datasets.zip
+territory: Sub-national
+Processing file: Kyrgyzstan 2014 MICS_Datasets.zip
+Normalized country name: kyrgyzstan
+Standardized country name: Kyrgyzstan
+Metadata row for Kyrgyzstan: Kyrgyzstan
+Extracted country: Kyrgyzstan
+Found metadata rows: 1
+Available years in metadata: ['2014']
+Unzipping Kyrgyzstan 2014 MICS_Datasets.zip to KGZ2014MC5...
+Extracted and saved files for Kyrgyzstan 2014 MICS_Datasets.zip to ../Individual_country_data/KGZ_Kyrgyzstan/03_Survey_data/KGZ2014MC5.
+Processing file: Serbia 2014 MICS_Datasets.zip
+Normalized country name: serbia
+Standardized country name: Serbia
+Metadata row for Serbia: Serbia
+Extracted country: Serbia
+Found metadata rows: 2
+Available years in metadata: ['2014']
+Unzipping Serbia 2014 MICS_Datasets.zip to SRB2014MC5...
+Extracted and saved files for Serbia 2014 MICS_Datasets.zip to ../Individual_country_data/SRB_Serbia/03_Survey_data/SRB2014MC5.
+Processing file: Senegal (Dakar)_MICS5_Datasets.zip
+territory: Dakar
+Processing file: Guinea Bissau_MICS5_Datasets.zip
+Normalized country name: guinea bissau
+Standardized country name: Guinea-Bissau
+Metadata row for Guinea-Bissau: Guinea-Bissau
+Extracted country: Guinea-Bissau
+Found metadata rows: 1
+Available years in metadata: ['2014']
+Unzipping Guinea Bissau_MICS5_Datasets.zip to GNB2014MC5...
+Extracted and saved files for Guinea Bissau_MICS5_Datasets.zip to ../Individual_country_data/GNB_Guinea-Bissau/03_Survey_data/GNB2014MC5.
+Processing file: Bangladesh 2012-13 MICS_Datasets.zip
+Normalized country name: bangladesh
+Standardized country name: Bangladesh
+Metadata row for Bangladesh: Bangladesh
+Extracted country: Bangladesh
+Found metadata rows: 1
+Available years in metadata: ['2012-2013']
+Unzipping Bangladesh 2012-13 MICS_Datasets.zip to BGD2012MC5...
+Extracted and saved files for Bangladesh 2012-13 MICS_Datasets.zip to ../Individual_country_data/BGD_Bangladesh/03_Survey_data/BGD2012MC5.
+Processing file: Kazakhstan_MICS5_Datasets.zip
+Normalized country name: kazakhstan
+Standardized country name: Kazakhstan
+Metadata row for Kazakhstan: Kazakhstan
+Extracted country: Kazakhstan
+Found metadata rows: 1
+Available years in metadata: ['2015']
+Unzipping Kazakhstan_MICS5_Datasets.zip to KAZ2015MC5...
+Extracted and saved files for Kazakhstan_MICS5_Datasets.zip to ../Individual_country_data/KAZ_Kazakhstan/03_Survey_data/KAZ2015MC5.
+Processing file: Pakistan (Gilgit Baltistan)_MICS5_Datasets.zip
+territory: Gilgit Baltistan
+Processing file: Serbia (Roma Settlements) 2014 MICS_Datasets.zip
+territory: Roma Settlements
+Processing file: Mongolia (Nalaikh District)_MICS5_Datasets.zip
+territory: Nalaikh District
+Processing file: Nepal 2014 MICS_Datasets.zip
+Normalized country name: nepal
+Standardized country name: Nepal
+Metadata row for Nepal: Nepal
+Extracted country: Nepal
+Found metadata rows: 1
+Available years in metadata: ['2014']
+Unzipping Nepal 2014 MICS_Datasets.zip to NPL2014MC5...
+Extracted and saved files for Nepal 2014 MICS_Datasets.zip to ../Individual_country_data/NPL_Nepal/03_Survey_data/NPL2014MC5.
+Processing file: Mauritania_MICS5_Datasets.zip
+Normalized country name: mauritania
+Standardized country name: Mauritania
+Metadata row for Mauritania: Mauritania
+Extracted country: Mauritania
+Found metadata rows: 1
+Available years in metadata: ['2015']
+Unzipping Mauritania_MICS5_Datasets.zip to MRT2015MC5...
+Extracted and saved files for Mauritania_MICS5_Datasets.zip to ../Individual_country_data/MRT_Mauritania/03_Survey_data/MRT2015MC5.
+Processing file: Turkmenistan_MICS5_Datasets.zip
+Normalized country name: turkmenistan
+Standardized country name: Turkmenistan
+Metadata row for Turkmenistan: Turkmenistan
+Extracted country: Turkmenistan
+Found metadata rows: 1
+Available years in metadata: ['2015-2016']
+Unzipping Turkmenistan_MICS5_Datasets.zip to TKM2016MC5...
+Extracted and saved files for Turkmenistan_MICS5_Datasets.zip to ../Individual_country_data/TKM_Turkmenistan/03_Survey_data/TKM2016MC5.
+Processing file: Belize_MICS5_Datasets.zip
+Normalized country name: belize
+Standardized country name: Belize
+Metadata row for Belize: Belize
+Extracted country: Belize
+Found metadata rows: 1
+Available years in metadata: ['2015-2016']
+Unzipping Belize_MICS5_Datasets.zip to BLZ2016MC5...
+Extracted and saved files for Belize_MICS5_Datasets.zip to ../Individual_country_data/BLZ_Belize/03_Survey_data/BLZ2016MC5.
+Processing file: Swaziland_MICS5_Datasets.zip
+Normalized country name: swaziland
+Standardized country name: Eswatini
+Metadata row for Eswatini: Eswatini
+Extracted country: Eswatini
+Found metadata rows: 1
+Available years in metadata: ['2014']
+Unzipping Swaziland_MICS5_Datasets.zip to SWZ2014MC5...
+Extracted and saved files for Swaziland_MICS5_Datasets.zip to ../Individual_country_data/SWZ_Eswatini/03_Survey_data/SWZ2014MC5.
+Processing file: El Salvador_MICS5_Datasets.zip
+Normalized country name: el salvador
+Standardized country name: El Salvador
+Metadata row for El Salvador: El Salvador
+Extracted country: El Salvador
+Found metadata rows: 1
+Available years in metadata: ['2014']
+Unzipping El Salvador_MICS5_Datasets.zip to SLV2014MC5...
+Extracted and saved files for El Salvador_MICS5_Datasets.zip to ../Individual_country_data/SLV_El_Salvador/03_Survey_data/SLV2014MC5.
+Processing file: Kosovo under UNSC res. 1244 MICS5 Datasets.zip
+Normalized country name: kosovo under unsc res 1244
+Standardized country name: error
+Matched Kosovo directly in save_name: Kosovo
+Extracted country: error
+Found metadata rows: 2
+Available years in metadata: ['2013-2014']
+Unzipping Kosovo under UNSC res. 1244 MICS5 Datasets.zip to XKX2014MC5...
+Extracted and saved files for Kosovo under UNSC res. 1244 MICS5 Datasets.zip to ../Individual_country_data/XKX_Kosovo/03_Survey_data/XKX2014MC5.
+Processing file: Guyana_MICS 2014_Datasets.zip
+Normalized country name: guyana
+Standardized country name: Guyana
+Metadata row for Guyana: Guyana
+Extracted country: Guyana
+Found metadata rows: 1
+Available years in metadata: ['2014']
+Unzipping Guyana_MICS 2014_Datasets.zip to GUY2014MC5...
+Extracted and saved files for Guyana_MICS 2014_Datasets.zip to ../Individual_country_data/GUY_Guyana/03_Survey_data/GUY2014MC5.
+Processing file: Sudan_MICS5_Datasets.zip
+Normalized country name: sudan
+Standardized country name: Sudan
+Metadata row for Sudan: Sudan
+Extracted country: Sudan
+Found metadata rows: 1
+Available years in metadata: ['2014']
+Unzipping Sudan_MICS5_Datasets.zip to SDN2014MC5...
+Extracted and saved files for Sudan_MICS5_Datasets.zip to ../Individual_country_data/SDN_Sudan/03_Survey_data/SDN2014MC5.
+Processing file: Thailand MICS5 and Thailand Selected 14 Provinces MICS5 Datasets.zip
+Normalized country name: thailand
+Standardized country name: Thailand
+Metadata row for Thailand: Thailand
+Extracted country: Thailand
+Found metadata rows: 2
+Available years in metadata: ['2015-2016']
+Unzipping Thailand MICS5 and Thailand Selected 14 Provinces MICS5 Datasets.zip to THA2016MC5...
+Extracted and saved files for Thailand MICS5 and Thailand Selected 14 Provinces MICS5 Datasets.zip to ../Individual_country_data/THA_Thailand/03_Survey_data/THA2016MC5.
+Processing file: Zimbabwe 2014 MICS_Datasets.zip
+Normalized country name: zimbabwe
+Standardized country name: Zimbabwe
+Metadata row for Zimbabwe: Zimbabwe
+Extracted country: Zimbabwe
+Found metadata rows: 1
+Available years in metadata: ['2014']
+Unzipping Zimbabwe 2014 MICS_Datasets.zip to ZWE2014MC5...
+Extracted and saved files for Zimbabwe 2014 MICS_Datasets.zip to ../Individual_country_data/ZWE_Zimbabwe/03_Survey_data/ZWE2014MC5.
+Processing file: Cuba 2014 MICS_Datasets.zip
+Normalized country name: cuba
+Standardized country name: Cuba
+Metadata row for Cuba: Cuba
+Extracted country: Cuba
+Found metadata rows: 1
+Available years in metadata: ['2014']
+Unzipping Cuba 2014 MICS_Datasets.zip to CUB2014MC5...
+Extracted and saved files for Cuba 2014 MICS_Datasets.zip to ../Individual_country_data/CUB_Cuba/03_Survey_data/CUB2014MC5.
+Processing file: Kenya (Bungoma County) 2013-14 MICS_Datasets.zip
+territory: Bungoma County
+Processing file: Pakistan_(Khyber_Pakhtunkhwa)_MICS5_Datasets.zip
+territory: Khyber Pakhtunkhwa
+Processing file: Mali_MICS5_Datasets.zip
+Normalized country name: mali
+Standardized country name: Mali
+Metadata row for Mali: Mali
+Extracted country: Mali
+Found metadata rows: 1
+Available years in metadata: ['2015']
+Unzipping Mali_MICS5_Datasets.zip to MLI2015MC5...
+Extracted and saved files for Mali_MICS5_Datasets.zip to ../Individual_country_data/MLI_Mali/03_Survey_data/MLI2015MC5.
+Processing file: Malawi 2013-14 MICS_Datasets.zip
+Normalized country name: malawi
+Standardized country name: Malawi
+Metadata row for Malawi: Malawi
+Extracted country: Malawi
+Found metadata rows: 1
+Available years in metadata: ['2013-2014']
+Unzipping Malawi 2013-14 MICS_Datasets.zip to MWI2013MC5...
+Extracted and saved files for Malawi 2013-14 MICS_Datasets.zip to ../Individual_country_data/MWI_Malawi/03_Survey_data/MWI2013MC5.
+Processing file: Montenegro 2013 MICS_Datasets.zip
+Normalized country name: montenegro
+Standardized country name: Montenegro
+Metadata row for Montenegro: Montenegro
+Extracted country: Montenegro
+Found metadata rows: 2
+Available years in metadata: ['2013']
+Unzipping Montenegro 2013 MICS_Datasets.zip to MNE2013MC5...
+Extracted and saved files for Montenegro 2013 MICS_Datasets.zip to ../Individual_country_data/MNE_Montenegro/03_Survey_data/MNE2013MC5.
+Processing file: Panama 2013 MICS_Datasets.zip
+Normalized country name: panama
+Standardized country name: Panama
+Metadata row for Panama: Panama
+Extracted country: Panama
+Found metadata rows: 1
+Available years in metadata: ['2013']
+Unzipping Panama 2013 MICS_Datasets.zip to PAN2013MC5...
+Extracted and saved files for Panama 2013 MICS_Datasets.zip to ../Individual_country_data/PAN_Panama/03_Survey_data/PAN2013MC5.
+Processing file: Mongolia (Khuvsgul Aimag)_MICS5_Datasets.zip
+territory: Khuvsgul Aimag
+Processing file: Benin_MICS5_Datasets.zip
+Normalized country name: benin
+Standardized country name: Benin
+Metadata row for Benin: Benin
+Extracted country: Benin
+Found metadata rows: 1
+Available years in metadata: ['2014']
+Unzipping Benin_MICS5_Datasets.zip to BEN2014MC5...
+Extracted and saved files for Benin_MICS5_Datasets.zip to ../Individual_country_data/BEN_Benin/03_Survey_data/BEN2014MC5.
+Processing file: Kosovo (UNSCR 1244) (Roma, Ashkali, and Egyptian Communities) 2013-14 MICS_Datasets.zip
+territory: UNSCR 1244
+Processing file: Pakistan (Sindh)_MICS5_Datasets.zip
+territory: Sindh
+Processing file: Cameroon_MICS5_Datasets.zip
+Normalized country name: cameroon
+Standardized country name: Cameroon
+Metadata row for Cameroon: Cameroon
+Extracted country: Cameroon
+Found metadata rows: 1
+Available years in metadata: ['2014']
+Unzipping Cameroon_MICS5_Datasets.zip to CMR2014MC5...
+Extracted and saved files for Cameroon_MICS5_Datasets.zip to ../Individual_country_data/CMR_Cameroon/03_Survey_data/CMR2014MC5.
+Processing file: Thailand Bangkok_MICS5_Datasets.zip
+territory: Bangkok
+Processing file: Mexico_MICS5_Datasets.zip
+Normalized country name: mexico
+Standardized country name: Mexico
+Metadata row for Mexico: Mexico
+Extracted country: Mexico
+Found metadata rows: 1
+Available years in metadata: ['2015']
+Unzipping Mexico_MICS5_Datasets.zip to MEX2015MC5...
+Extracted and saved files for Mexico_MICS5_Datasets.zip to ../Individual_country_data/MEX_Mexico/03_Survey_data/MEX2015MC5.
+Processing file: Guinea_MICS5_Datasets.zip
+Normalized country name: guinea
+Standardized country name: Guinea
+Metadata row for Guinea: Guinea
+Extracted country: Guinea
+Found metadata rows: 1
+Available years in metadata: ['2016']
+Unzipping Guinea_MICS5_Datasets.zip to GIN2016MC5...
+Extracted and saved files for Guinea_MICS5_Datasets.zip to ../Individual_country_data/GIN_Guinea/03_Survey_data/GIN2016MC5.
+Processing file: Sao Tome and Principe 2014 MICS_Datasets.zip
+Normalized country name: sao tome and principe
+Standardized country name: Sao Tome and Principe
+Metadata row for Sao Tome and Principe: Sao Tome and Principe
+Extracted country: Sao Tome and Principe
+Found metadata rows: 1
+Available years in metadata: ['2014']
+Unzipping Sao Tome and Principe 2014 MICS_Datasets.zip to STP2014MC5...
+Extracted and saved files for Sao Tome and Principe 2014 MICS_Datasets.zip to ../Individual_country_data/STP_Sao_Tome_and_Principe/03_Survey_data/STP2014MC5.
+Processing file: Kenya (Kakamega County) 2013-14 MICS_Datasets.zip
+territory: Kakamega County
+Processing file: Montenegro (Roma Settlements) 2013 MICS_Datasets.zip
+territory: Roma Settlements
+Processing file: Viet Nam 2013-14 MICS_Datasets.zip
+Normalized country name: viet nam
+Standardized country name: Viet Nam
+Metadata row for Viet Nam: Vietnam
+Extracted country: Viet Nam
+Found metadata rows: 1
+Available years in metadata: ['2013-2014']
+Unzipping Viet Nam 2013-14 MICS_Datasets.zip to VNM2013MC5...
+Extracted and saved files for Viet Nam 2013-14 MICS_Datasets.zip to ../Individual_country_data/VNM_Vietnam/03_Survey_data/VNM2013MC5.
+Processing file: Paraguay_MICS5_Datasets.zip
+Normalized country name: paraguay
+Standardized country name: Paraguay
+Metadata row for Paraguay: Paraguay
+Extracted country: Paraguay
+Found metadata rows: 1
+Available years in metadata: ['2016']
+Unzipping Paraguay_MICS5_Datasets.zip to PRY2016MC5...
+Extracted and saved files for Paraguay_MICS5_Datasets.zip to ../Individual_country_data/PRY_Paraguay/03_Survey_data/PRY2016MC5.
+Processing file: Côte d'Ivoire_MICS5Datasets.zip
+Normalized country name: cote d ivoire
+Standardized country name: Côte d'Ivoire
+Metadata row for Côte d'Ivoire: Cote d'Ivoire
+Extracted country: Côte d'Ivoire
+Found metadata rows: 1
+Available years in metadata: ['2016']
+Unzipping Côte d'Ivoire_MICS5Datasets.zip to CIV2016MC5...
+Extracted and saved files for Côte d'Ivoire_MICS5Datasets.zip to ../Individual_country_data/CIV_Cote_d'Ivoire/03_Survey_data/CIV2016MC5.
+Processing file: Nigeria MICS5 Datasets.zip
+Normalized country name: nigeria
+Standardized country name: Nigeria
+Metadata row for Nigeria: Nigeria
+Extracted country: Nigeria
+Found metadata rows: 1
+Available years in metadata: ['2016-2017']
+Unzipping Nigeria MICS5 Datasets.zip to NGA2017MC5...
+Extracted and saved files for Nigeria MICS5 Datasets.zip to ../Individual_country_data/NGA_Nigeria/03_Survey_data/NGA2017MC5.
+Processing file: State of Palestine 2014 MICS_Datasets.zip
+Normalized country name: state of palestine
+Standardized country name: error
+Matched Palestine directly in save_name: Palestine
+Extracted country: error
+Found metadata rows: 1
+Available years in metadata: ['2014']
+Unzipping State of Palestine 2014 MICS_Datasets.zip to PSE2014MC5...
+Extracted and saved files for State of Palestine 2014 MICS_Datasets.zip to ../Individual_country_data/PSE_Palestine/03_Survey_data/PSE2014MC5.
+Processing file: Kenya (Turkana County) 2013-14 MICS_Datasets.zip
+territory: Turkana County

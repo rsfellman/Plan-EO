@@ -1,0 +1,413 @@
+Unzipping outer container: MICS/MICS_zip/MICS_Datasets (4).zip
+Processing file: Qatar_MICS4_Datasets.zip
+Normalized country name: qatar
+Standardized country name: Qatar
+Metadata row for Qatar: Qatar
+Extracted country: Qatar
+Found metadata rows: 1
+Available years in metadata: ['2012']
+Unzipping Qatar_MICS4_Datasets.zip to QAT2012MC4...
+Extracted and saved files for Qatar_MICS4_Datasets.zip to ../Individual_country_data/QAT_Qatar/03_Survey_data/QAT2012MC4.
+Processing file: Ukraine 2012 MICS_Datasets.zip
+Normalized country name: ukraine
+Standardized country name: Ukraine
+Metadata row for Ukraine: Ukraine
+Extracted country: Ukraine
+Found metadata rows: 1
+Available years in metadata: ['2012']
+Unzipping Ukraine 2012 MICS_Datasets.zip to UKR2012MC4...
+Extracted and saved files for Ukraine 2012 MICS_Datasets.zip to ../Individual_country_data/UKR_Ukraine/03_Survey_data/UKR2012MC4.
+Processing file: Argentina 2012 MICS_Datasets.zip
+Normalized country name: argentina
+Standardized country name: Argentina
+Metadata row for Argentina: Argentina
+Extracted country: Argentina
+Found metadata rows: 1
+Available years in metadata: ['2011-2012']
+Unzipping Argentina 2012 MICS_Datasets.zip to ARG2012MC4...
+Extracted and saved files for Argentina 2012 MICS_Datasets.zip to ../Individual_country_data/ARG_Argentina/03_Survey_data/ARG2012MC4.
+Processing file: State of Palestine 2010 MICS_Datasets.zip
+Normalized country name: state of palestine
+Standardized country name: error
+Matched Palestine directly in save_name: Palestine
+Extracted country: error
+Found metadata rows: 1
+Available years in metadata: ['2010']
+Unzipping State of Palestine 2010 MICS_Datasets.zip to PSE2010MC4...
+Extracted and saved files for State of Palestine 2010 MICS_Datasets.zip to ../Individual_country_data/PSE_Palestine/03_Survey_data/PSE2010MC4.
+Processing file: Somalia (Somaliland) 2011 MICS_Datasets.zip
+territory: Somaliland
+Processing file: Suriname 2010 MICS_Datasets.zip
+Normalized country name: suriname
+Standardized country name: Suriname
+Metadata row for Suriname: Suriname
+Extracted country: Suriname
+Found metadata rows: 1
+Available years in metadata: ['2010']
+Unzipping Suriname 2010 MICS_Datasets.zip to SUR2010MC4...
+Extracted and saved files for Suriname 2010 MICS_Datasets.zip to ../Individual_country_data/SUR_Suriname/03_Survey_data/SUR2010MC4.
+Processing file: Congo DR 2010 MICS_Datasets.zip
+Normalized country name: congo dr
+Standardized country name: error
+Matched Democratic Republic of Congo directly in save_name: Democratic Republic of Congo
+Extracted country: error
+Found metadata rows: 1
+Available years in metadata: ['2010']
+Unzipping Congo DR 2010 MICS_Datasets.zip to COD2010MC4...
+Extracted and saved files for Congo DR 2010 MICS_Datasets.zip to ../Individual_country_data/COD_Democratic_Republic_of_Congo/03_Survey_data/COD2010MC4.
+Processing file: Mongolia (Khuvsgul Aimag) 2012 MICS_Datasets.zip
+territory: Khuvsgul Aimag
+Processing file: Lebanon (Palestinians) 2011 MICS_Datasets.zip
+territory: Palestinians
+Processing file: Lao 2012 MICS_Datasets.zip
+Normalized country name: lao
+Standardized country name: Lao People's Democratic Republic
+Metadata row for Lao People's Democratic Republic: Laos
+Extracted country: Lao People's Democratic Republic
+Found metadata rows: 1
+Available years in metadata: ['2011-2012']
+Unzipping Lao 2012 MICS_Datasets.zip to LAO2012MC4...
+Extracted and saved files for Lao 2012 MICS_Datasets.zip to ../Individual_country_data/LAO_Laos/03_Survey_data/LAO2012MC4.
+Processing file: The Gambia_MICS4_Datasets.zip
+Normalized country name: the gambia
+Standardized country name: Gambia
+Metadata row for Gambia: Gambia
+Extracted country: Gambia
+Found metadata rows: 1
+Available years in metadata: ['2010']
+Unzipping The Gambia_MICS4_Datasets.zip to GMB2010MC4...
+Extracted and saved files for The Gambia_MICS4_Datasets.zip to ../Individual_country_data/GMB_Gambia/03_Survey_data/GMB2010MC4.
+Processing file: Bosnia and Herzegovina 2012 MICS _Datasets.zip
+Normalized country name: bosnia and herzegovina
+Standardized country name: Bosnia and Herzegovina
+Metadata row for Bosnia and Herzegovina: Bosnia and Herzegovina
+Extracted country: Bosnia and Herzegovina
+Found metadata rows: 2
+Available years in metadata: ['2011-2012']
+Unzipping Bosnia and Herzegovina 2012 MICS _Datasets.zip to BIH2012MC4...
+Extracted and saved files for Bosnia and Herzegovina 2012 MICS _Datasets.zip to ../Individual_country_data/BIH_Bosnia_and_Herzegovina/03_Survey_data/BIH2012MC4.
+Processing file: Iraq 2011 MICS_Datasets.zip
+Normalized country name: iraq
+Standardized country name: Iraq
+Metadata row for Iraq: Iraq
+Extracted country: Iraq
+Found metadata rows: 1
+Available years in metadata: ['2011']
+Unzipping Iraq 2011 MICS_Datasets.zip to IRQ2011MC4...
+Extracted and saved files for Iraq 2011 MICS_Datasets.zip to ../Individual_country_data/IRQ_Iraq/03_Survey_data/IRQ2011MC4.
+Processing file: Jamaica 2011 MICS_Datasets.zip
+Normalized country name: jamaica
+Standardized country name: Jamaica
+Metadata row for Jamaica: Jamaica
+Extracted country: Jamaica
+Found metadata rows: 1
+Available years in metadata: ['2011']
+Unzipping Jamaica 2011 MICS_Datasets.zip to JAM2011MC4...
+Extracted and saved files for Jamaica 2011 MICS_Datasets.zip to ../Individual_country_data/JAM_Jamaica/03_Survey_data/JAM2011MC4.
+Processing file: Kenya (Nyanza Province)_MICS4_Datasets.zip
+territory: Nyanza Province
+Processing file: Ghana (Accra) 2010-11 MICS_Datasets.zip
+territory: Accra
+Processing file: Kazakhstan 2010-11 MICS_Datasets.zip
+Normalized country name: kazakhstan
+Standardized country name: Kazakhstan
+Metadata row for Kazakhstan: Kazakhstan
+Extracted country: Kazakhstan
+Found metadata rows: 1
+Available years in metadata: ['2010-2011']
+Unzipping Kazakhstan 2010-11 MICS_Datasets.zip to KAZ2010MC4...
+Extracted and saved files for Kazakhstan 2010-11 MICS_Datasets.zip to ../Individual_country_data/KAZ_Kazakhstan/03_Survey_data/KAZ2010MC4.
+Processing file: Moldova 2012 MICS_Datasets.zip
+Normalized country name: moldova
+Standardized country name: Moldova, Republic of
+Metadata row for Moldova, Republic of: Moldova
+Extracted country: Moldova, Republic of
+Found metadata rows: 1
+Available years in metadata: ['2012']
+Unzipping Moldova 2012 MICS_Datasets.zip to MDA2012MC4...
+Extracted and saved files for Moldova 2012 MICS_Datasets.zip to ../Individual_country_data/MDA_Moldova/03_Survey_data/MDA2012MC4.
+Processing file: Ghana 2011 MICS_Datasets.zip
+Normalized country name: ghana
+Standardized country name: Ghana
+Metadata row for Ghana: Ghana
+Extracted country: Ghana
+Found metadata rows: 2
+Available years in metadata: ['2011' '2010-2011']
+Unzipping Ghana 2011 MICS_Datasets.zip to GHA2011MC4...
+Extracted and saved files for Ghana 2011 MICS_Datasets.zip to ../Individual_country_data/GHA_Ghana/03_Survey_data/GHA2011MC4.
+Processing file: Somalia (Northeast Zone) 2011 MICS_Datasets.zip
+territory: Northeast Zone
+Processing file: Trinidad and Tobago_MICS4_Datasets.zip
+Normalized country name: trinidad and tobago
+Standardized country name: Trinidad and Tobago
+Metadata row for Trinidad and Tobago: Trinidad and Tobago
+Extracted country: Trinidad and Tobago
+Found metadata rows: 1
+Available years in metadata: ['2011']
+Unzipping Trinidad and Tobago_MICS4_Datasets.zip to TTO2011MC4...
+Extracted and saved files for Trinidad and Tobago_MICS4_Datasets.zip to ../Individual_country_data/TTO_Trinidad_and_Tobago/03_Survey_data/TTO2011MC4.
+Processing file: Bosnia and Herzegovina (Roma Settlements) 2012 MICS_Datasets.zip
+territory: Roma Settlements
+Processing file: Algeria_MICS4_Datasets.zip
+Normalized country name: algeria
+Standardized country name: Algeria
+Metadata row for Algeria: Algeria
+Extracted country: Algeria
+Found metadata rows: 1
+Available years in metadata: ['2012-2013']
+Unzipping Algeria_MICS4_Datasets.zip to DZA2013MC4...
+Extracted and saved files for Algeria_MICS4_Datasets.zip to ../Individual_country_data/DZA_Algeria/03_Survey_data/DZA2013MC4.
+Processing file: Cuba 2011 MICS_Datasets.zip
+Normalized country name: cuba
+Standardized country name: Cuba
+Metadata row for Cuba: Cuba
+Extracted country: Cuba
+Found metadata rows: 1
+Available years in metadata: ['2010-2011']
+Unzipping Cuba 2011 MICS_Datasets.zip to CUB2011MC4...
+Extracted and saved files for Cuba 2011 MICS_Datasets.zip to ../Individual_country_data/CUB_Cuba/03_Survey_data/CUB2011MC4.
+Processing file: Mongolia 2010 MICS_Datasets.zip
+Normalized country name: mongolia
+Standardized country name: Mongolia
+Metadata row for Mongolia: Mongolia
+Extracted country: Mongolia
+Found metadata rows: 3
+Available years in metadata: ['2012' '2010']
+Unzipping Mongolia 2010 MICS_Datasets.zip to MNG2010MC4...
+Extracted and saved files for Mongolia 2010 MICS_Datasets.zip to ../Individual_country_data/MNG_Mongolia/03_Survey_data/MNG2010MC4.
+Processing file: Macedonia 2011 MICS_Datasets.zip
+Normalized country name: macedonia
+Standardized country name: error
+Matched macedonia directly in save_name: North Macedonia
+Extracted country: error
+Found metadata rows: 2
+Available years in metadata: ['2011']
+Unzipping Macedonia 2011 MICS_Datasets.zip to MKD2011MC4...
+Extracted and saved files for Macedonia 2011 MICS_Datasets.zip to ../Individual_country_data/MKD_North_Macedonia/03_Survey_data/MKD2011MC4.
+Processing file: Guinea Bissau_MICS4_Datasets.zip
+Normalized country name: guinea bissau
+Standardized country name: Guinea-Bissau
+Metadata row for Guinea-Bissau: Guinea-Bissau
+Extracted country: Guinea-Bissau
+Found metadata rows: 1
+Available years in metadata: ['2010']
+Unzipping Guinea Bissau_MICS4_Datasets.zip to GNB2010MC4...
+Extracted and saved files for Guinea Bissau_MICS4_Datasets.zip to ../Individual_country_data/GNB_Guinea-Bissau/03_Survey_data/GNB2010MC4.
+Processing file: Tunisia 2012 MICS_Datasets.zip
+Normalized country name: tunisia
+Standardized country name: Tunisia
+Metadata row for Tunisia: Tunisia
+Extracted country: Tunisia
+Found metadata rows: 1
+Available years in metadata: ['2011-2012']
+Unzipping Tunisia 2012 MICS_Datasets.zip to TUN2012MC4...
+Extracted and saved files for Tunisia 2012 MICS_Datasets.zip to ../Individual_country_data/TUN_Tunisia/03_Survey_data/TUN2012MC4.
+Processing file: Uruguay 2012-13_Datasets.zip
+Normalized country name: uruguay
+Standardized country name: Uruguay
+Metadata row for Uruguay: Uruguay
+Extracted country: Uruguay
+Found metadata rows: 1
+Available years in metadata: ['2012-2013']
+Unzipping Uruguay 2012-13_Datasets.zip to URY2012MC4...
+Extracted and saved files for Uruguay 2012-13_Datasets.zip to ../Individual_country_data/URY_Uruguay/03_Survey_data/URY2012MC4.
+Processing file: Pakistan (Balochistan) 2010 MICS_Datasets.zip
+territory: Balochistan
+Processing file: Mali 2009-10 MICS4 Datasets.zip
+Normalized country name: mali
+Standardized country name: Mali
+Metadata row for Mali: Mali
+Extracted country: Mali
+Found metadata rows: 1
+Available years in metadata: ['2009-2010']
+Unzipping Mali 2009-10 MICS4 Datasets.zip to MLI2009MC4...
+Extracted and saved files for Mali 2009-10 MICS4 Datasets.zip to ../Individual_country_data/MLI_Mali/03_Survey_data/MLI2009MC4.
+Processing file: Viet Nam 2011 MICS_Datasets.zip
+Normalized country name: viet nam
+Standardized country name: Viet Nam
+Metadata row for Viet Nam: Vietnam
+Extracted country: Viet Nam
+Found metadata rows: 1
+Available years in metadata: ['2010-2011']
+Unzipping Viet Nam 2011 MICS_Datasets.zip to VNM2011MC4...
+Extracted and saved files for Viet Nam 2011 MICS_Datasets.zip to ../Individual_country_data/VNM_Vietnam/03_Survey_data/VNM2011MC4.
+Processing file: Bhutan 2010 MICS_Datasets.zip
+Normalized country name: bhutan
+Standardized country name: Bhutan
+Metadata row for Bhutan: Bhutan
+Extracted country: Bhutan
+Found metadata rows: 1
+Available years in metadata: ['2010']
+Unzipping Bhutan 2010 MICS_Datasets.zip to BTN2010MC4...
+Extracted and saved files for Bhutan 2010 MICS_Datasets.zip to ../Individual_country_data/BTN_Bhutan/03_Survey_data/BTN2010MC4.
+Processing file: Belize 2011 MICS_Datasets.zip
+Normalized country name: belize
+Standardized country name: Belize
+Metadata row for Belize: Belize
+Extracted country: Belize
+Found metadata rows: 1
+Available years in metadata: ['2011']
+Unzipping Belize 2011 MICS_Datasets.zip to BLZ2011MC4...
+Extracted and saved files for Belize 2011 MICS_Datasets.zip to ../Individual_country_data/BLZ_Belize/03_Survey_data/BLZ2011MC4.
+Processing file: Kenya (Mombasa Informal Settlements) 2009 MICS_Datasets.zip
+territory: Mombasa Informal Settlements
+Processing file: Costa Rica 2011 MICS_Datasets.zip
+Normalized country name: costa rica
+Standardized country name: Costa Rica
+Metadata row for Costa Rica: Costa Rica
+Extracted country: Costa Rica
+Found metadata rows: 1
+Available years in metadata: ['2011']
+Unzipping Costa Rica 2011 MICS_Datasets.zip to CRI2011MC4...
+Extracted and saved files for Costa Rica 2011 MICS_Datasets.zip to ../Individual_country_data/CRI_Costa_Rica/03_Survey_data/CRI2011MC4.
+Processing file: Nepal (Mid and Far Western Regions) 2010 MICS_Datasets.zip
+territory: Mid and Far Western Regions
+Processing file: Serbia 2010 MICS_Datasets.zip
+Normalized country name: serbia
+Standardized country name: Serbia
+Metadata row for Serbia: Serbia
+Extracted country: Serbia
+Found metadata rows: 2
+Available years in metadata: ['2010']
+Unzipping Serbia 2010 MICS_Datasets.zip to SRB2010MC4...
+Extracted and saved files for Serbia 2010 MICS_Datasets.zip to ../Individual_country_data/SRB_Serbia/03_Survey_data/SRB2010MC4.
+Processing file: Pakistan (Punjab) 2011 MICS_Datasets.zip
+territory: Punjab
+Processing file: Indonesia (Selected Districts of West Papua) 2011 MICS_Datasets.zip
+territory: Selected Districts of West Papua
+Processing file: Mauritania_MICS4_Datasets.zip
+Normalized country name: mauritania
+Standardized country name: Mauritania
+Metadata row for Mauritania: Mauritania
+Extracted country: Mauritania
+Found metadata rows: 1
+Available years in metadata: ['2011']
+Unzipping Mauritania_MICS4_Datasets.zip to MRT2011MC4...
+Extracted and saved files for Mauritania_MICS4_Datasets.zip to ../Individual_country_data/MRT_Mauritania/03_Survey_data/MRT2011MC4.
+Processing file: Afghanistan 2011 MICS_Datasets.zip
+Normalized country name: afghanistan
+Standardized country name: Afghanistan
+Metadata row for Afghanistan: Afghanistan
+Extracted country: Afghanistan
+Found metadata rows: 1
+Available years in metadata: ['2010-2011']
+Unzipping Afghanistan 2011 MICS_Datasets.zip to AFG2011MC4...
+Extracted and saved files for Afghanistan 2011 MICS_Datasets.zip to ../Individual_country_data/AFG_Afghanistan/03_Survey_data/AFG2011MC4.
+Processing file: Belarus 2012 MICS_Datasets.zip
+Normalized country name: belarus
+Standardized country name: Belarus
+Metadata row for Belarus: Belarus
+Extracted country: Belarus
+Found metadata rows: 1
+Available years in metadata: ['2012']
+Unzipping Belarus 2012 MICS_Datasets.zip to BLR2012MC4...
+Extracted and saved files for Belarus 2012 MICS_Datasets.zip to ../Individual_country_data/BLR_Belarus/03_Survey_data/BLR2012MC4.
+Processing file: Togo 2010 MICS_Datasets.zip
+Normalized country name: togo
+Standardized country name: Togo
+Metadata row for Togo: Togo
+Extracted country: Togo
+Found metadata rows: 1
+Available years in metadata: ['2010']
+Unzipping Togo 2010 MICS_Datasets.zip to TGO2010MC4...
+Extracted and saved files for Togo 2010 MICS_Datasets.zip to ../Individual_country_data/TGO_Togo/03_Survey_data/TGO2010MC4.
+Processing file: Saint Lucia 2012 MICS_Datasets.zip
+Normalized country name: saint lucia
+Standardized country name: Saint Lucia
+Metadata row for Saint Lucia: Saint Lucia
+Extracted country: Saint Lucia
+Found metadata rows: 1
+Available years in metadata: ['2012']
+Unzipping Saint Lucia 2012 MICS_Datasets.zip to LCA2012MC4...
+Extracted and saved files for Saint Lucia 2012 MICS_Datasets.zip to ../Individual_country_data/LCA_Saint_Lucia/03_Survey_data/LCA2012MC4.
+Processing file: Central African Republic 2010 MICS_Datasets.zip
+Normalized country name: central african republic
+Standardized country name: Central African Republic
+Metadata row for Central African Republic: Central African Republic
+Extracted country: Central African Republic
+Found metadata rows: 1
+Available years in metadata: ['2010']
+Unzipping Central African Republic 2010 MICS_Datasets.zip to CAF2010MC4...
+Extracted and saved files for Central African Republic 2010 MICS_Datasets.zip to ../Individual_country_data/CAF_Central_African_Republic/03_Survey_data/CAF2010MC4.
+Processing file: Sudan_2010_MICS4_Datasets.zip
+Normalized country name: sudan
+Standardized country name: Sudan
+Metadata row for Sudan: Sudan
+Extracted country: Sudan
+Found metadata rows: 1
+Available years in metadata: ['2010']
+Unzipping Sudan_2010_MICS4_Datasets.zip to SDN2010MC4...
+Extracted and saved files for Sudan_2010_MICS4_Datasets.zip to ../Individual_country_data/SDN_Sudan/03_Survey_data/SDN2010MC4.
+Processing file: Nigeria 2011 MICS_Datasets.zip
+Normalized country name: nigeria
+Standardized country name: Nigeria
+Metadata row for Nigeria: Nigeria
+Extracted country: Nigeria
+Found metadata rows: 1
+Available years in metadata: ['2011']
+Unzipping Nigeria 2011 MICS_Datasets.zip to NGA2011MC4...
+Extracted and saved files for Nigeria 2011 MICS_Datasets.zip to ../Individual_country_data/NGA_Nigeria/03_Survey_data/NGA2011MC4.
+Processing file: Indonesia (Selected Districts of Papua) 2011 MICS_Datasets.zip
+territory: Selected Districts of Papua
+Processing file: Thailand_MICS4_Datasets.zip
+Normalized country name: thailand
+Standardized country name: Thailand
+Metadata row for Thailand: Thailand
+Extracted country: Thailand
+Found metadata rows: 1
+Available years in metadata: ['2012-2013']
+Unzipping Thailand_MICS4_Datasets.zip to THA2013MC4...
+Extracted and saved files for Thailand_MICS4_Datasets.zip to ../Individual_country_data/THA_Thailand/03_Survey_data/THA2013MC4.
+Processing file: Barbados 2012 MICS_Datasets.zip
+Normalized country name: barbados
+Standardized country name: Barbados
+Metadata row for Barbados: Barbados
+Extracted country: Barbados
+Found metadata rows: 1
+Available years in metadata: ['2012']
+Unzipping Barbados 2012 MICS_Datasets.zip to BRB2012MC4...
+Extracted and saved files for Barbados 2012 MICS_Datasets.zip to ../Individual_country_data/BRB_Barbados/03_Survey_data/BRB2012MC4.
+Processing file: Serbia (Roma Settlements) 2010 MICS_Datasets.zip
+territory: Roma Settlements
+Processing file: Sierra Leone 2010 MICS_Datasets.zip
+Normalized country name: sierra leone
+Standardized country name: Sierra Leone
+Metadata row for Sierra Leone: Sierra Leone
+Extracted country: Sierra Leone
+Found metadata rows: 1
+Available years in metadata: ['2010']
+Unzipping Sierra Leone 2010 MICS_Datasets.zip to SLE2010MC4...
+Extracted and saved files for Sierra Leone 2010 MICS_Datasets.zip to ../Individual_country_data/SLE_Sierra_Leone/03_Survey_data/SLE2010MC4.
+Processing file: Swaziland 2010 MICS_Datasets.zip
+Normalized country name: swaziland
+Standardized country name: Eswatini
+Metadata row for Eswatini: Eswatini
+Extracted country: Eswatini
+Found metadata rows: 1
+Available years in metadata: ['2010']
+Unzipping Swaziland 2010 MICS_Datasets.zip to SWZ2010MC4...
+Extracted and saved files for Swaziland 2010 MICS_Datasets.zip to ../Individual_country_data/SWZ_Eswatini/03_Survey_data/SWZ2010MC4.
+Processing file: Mongolia (Nalaikh District)_MICS4_Datasets.zip
+territory: Nalaikh District
+Processing file: Macedonia (Roma Settlements) 2011 MICS_Datasets.zip
+territory: Roma Settlements
+Processing file: Madagascar (South) 2012 MICS_Datasets.zip
+territory: South
+Processing file: South Sudan 2010 MICS_Datasets.zip
+Normalized country name: south sudan
+Standardized country name: South Sudan
+Metadata row for South Sudan: South Sudan
+Extracted country: South Sudan
+Found metadata rows: 1
+Available years in metadata: ['2010']
+Unzipping South Sudan 2010 MICS_Datasets.zip to SSD2010MC4...
+Extracted and saved files for South Sudan 2010 MICS_Datasets.zip to ../Individual_country_data/SSD_South_Sudan/03_Survey_data/SSD2010MC4.
+Processing file: Chad 2010 MICS_Datasets.zip
+Normalized country name: chad
+Standardized country name: Chad
+Metadata row for Chad: Chad
+Extracted country: Chad
+Found metadata rows: 1
+Available years in metadata: ['2010']
+Unzipping Chad 2010 MICS_Datasets.zip to TCD2010MC4...
+Extracted and saved files for Chad 2010 MICS_Datasets.zip to ../Individual_country_data/TCD_Chad/03_Survey_data/TCD2010MC4.

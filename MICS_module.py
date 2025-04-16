@@ -336,7 +336,7 @@ def extract_and_save_zipped_files(file_extraction_log, zip_file_path, mics_metad
     logger =logging.getLogger()
 
     #define output directory
-    output_dir = '../individual_country_data'
+    output_dir = '../Individual_country_data'
 
     #ensure output directory exists
     os.makedirs(output_dir, exist_ok=True)

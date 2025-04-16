@@ -1,0 +1,388 @@
+Unzipping outer container: MICS/MICS_zip/MICS_Datasets (2).zip
+Processing file: Iraq 2000 MICS_Datasets.zip
+Normalized country name: iraq
+Standardized country name: Iraq
+Metadata row for Iraq: Iraq
+Extracted country: Iraq
+Found metadata rows: 1
+Available years in metadata: ['2000']
+Unzipping Iraq 2000 MICS_Datasets.zip to IRQ2000MC2...
+Extracted and saved files for Iraq 2000 MICS_Datasets.zip to ../Individual_country_data/IRQ_Iraq/03_Survey_data/IRQ2000MC2.
+Processing file: Uzbekistan 2000 MICS_Datasets.zip
+Normalized country name: uzbekistan
+Standardized country name: Uzbekistan
+Metadata row for Uzbekistan: Uzbekistan
+Extracted country: Uzbekistan
+Found metadata rows: 1
+Available years in metadata: ['2000']
+Unzipping Uzbekistan 2000 MICS_Datasets.zip to UZB2000MC2...
+Extracted and saved files for Uzbekistan 2000 MICS_Datasets.zip to ../Individual_country_data/UZB_Uzbekistan/03_Survey_data/UZB2000MC2.
+Processing file: Niger 2000 MICS_Datasets.zip
+Normalized country name: niger
+Standardized country name: Niger
+Metadata row for Niger: Niger
+Extracted country: Niger
+Found metadata rows: 1
+Available years in metadata: ['2000']
+Unzipping Niger 2000 MICS_Datasets.zip to NER2000MC2...
+Extracted and saved files for Niger 2000 MICS_Datasets.zip to ../Individual_country_data/NER_Niger/03_Survey_data/NER2000MC2.
+Processing file: Sierra Leone 2000 MICS_Datasets.zip
+Normalized country name: sierra leone
+Standardized country name: Sierra Leone
+Metadata row for Sierra Leone: Sierra Leone
+Extracted country: Sierra Leone
+Found metadata rows: 1
+Available years in metadata: ['2000']
+Unzipping Sierra Leone 2000 MICS_Datasets.zip to SLE2000MC2...
+Extracted and saved files for Sierra Leone 2000 MICS_Datasets.zip to ../Individual_country_data/SLE_Sierra_Leone/03_Survey_data/SLE2000MC2.
+Processing file: Trinidad and Tobago 2000 MICS_Datasets.zip
+Normalized country name: trinidad and tobago
+Standardized country name: Trinidad and Tobago
+Metadata row for Trinidad and Tobago: Trinidad and Tobago
+Extracted country: Trinidad and Tobago
+Found metadata rows: 1
+Available years in metadata: ['2000']
+Unzipping Trinidad and Tobago 2000 MICS_Datasets.zip to TTO2000MC2...
+Extracted and saved files for Trinidad and Tobago 2000 MICS_Datasets.zip to ../Individual_country_data/TTO_Trinidad_and_Tobago/03_Survey_data/TTO2000MC2.
+Processing file: Venezuela 2000 MICS_Datasets.zip
+Normalized country name: venezuela
+Standardized country name: Venezuela, Bolivarian Republic of
+Metadata row for Venezuela, Bolivarian Republic of: Venezuela
+Extracted country: Venezuela, Bolivarian Republic of
+Found metadata rows: 1
+Available years in metadata: ['2000']
+Unzipping Venezuela 2000 MICS_Datasets.zip to VEN2000MC2...
+Extracted and saved files for Venezuela 2000 MICS_Datasets.zip to ../Individual_country_data/VEN_Venezuela/03_Survey_data/VEN2000MC2.
+Processing file: Burundi 2000 MICS_Datasets.zip
+Normalized country name: burundi
+Standardized country name: Burundi
+Metadata row for Burundi: Burundi
+Extracted country: Burundi
+Found metadata rows: 1
+Available years in metadata: ['2000']
+Unzipping Burundi 2000 MICS_Datasets.zip to BDI2000MC2...
+Extracted and saved files for Burundi 2000 MICS_Datasets.zip to ../Individual_country_data/BDI_Burundi/03_Survey_data/BDI2000MC2.
+Processing file: Sudan 2000 MICS_Datasets.zip
+Normalized country name: sudan
+Standardized country name: Sudan
+Metadata row for Sudan: Sudan
+Extracted country: Sudan
+Found metadata rows: 1
+Available years in metadata: ['2000']
+Unzipping Sudan 2000 MICS_Datasets.zip to SDN2000MC2...
+Extracted and saved files for Sudan 2000 MICS_Datasets.zip to ../Individual_country_data/SDN_Sudan/03_Survey_data/SDN2000MC2.
+Processing file: Moldova 2000 MICS_Datasets.zip
+Normalized country name: moldova
+Standardized country name: Moldova, Republic of
+Metadata row for Moldova, Republic of: Moldova
+Extracted country: Moldova, Republic of
+Found metadata rows: 1
+Available years in metadata: ['2000']
+Unzipping Moldova 2000 MICS_Datasets.zip to MDA2000MC2...
+Extracted and saved files for Moldova 2000 MICS_Datasets.zip to ../Individual_country_data/MDA_Moldova/03_Survey_data/MDA2000MC2.
+Processing file: Guinea Bissau 2000 MICS_Datasets.zip
+Normalized country name: guinea bissau
+Standardized country name: Guinea-Bissau
+Metadata row for Guinea-Bissau: Guinea-Bissau
+Extracted country: Guinea-Bissau
+Found metadata rows: 1
+Available years in metadata: ['2000']
+Unzipping Guinea Bissau 2000 MICS_Datasets.zip to GNB2000MC2...
+Extracted and saved files for Guinea Bissau 2000 MICS_Datasets.zip to ../Individual_country_data/GNB_Guinea-Bissau/03_Survey_data/GNB2000MC2.
+Processing file: Comoros 2000 MICS_Datasets.zip
+Normalized country name: comoros
+Standardized country name: Comoros
+Metadata row for Comoros: Comoros
+Extracted country: Comoros
+Found metadata rows: 1
+Available years in metadata: ['2000']
+Unzipping Comoros 2000 MICS_Datasets.zip to COM2000MC2...
+Extracted and saved files for Comoros 2000 MICS_Datasets.zip to ../Individual_country_data/COM_Comoros/03_Survey_data/COM2000MC2.
+Processing file: Suriname 2000 MICS_Datasets.zip
+Normalized country name: suriname
+Standardized country name: Suriname
+Metadata row for Suriname: Suriname
+Extracted country: Suriname
+Found metadata rows: 1
+Available years in metadata: ['1999-2000']
+Unzipping Suriname 2000 MICS_Datasets.zip to SUR2000MC2...
+Extracted and saved files for Suriname 2000 MICS_Datasets.zip to ../Individual_country_data/SUR_Suriname/03_Survey_data/SUR2000MC2.
+Processing file: Guyana 2000 MICS_Datasets.zip
+Normalized country name: guyana
+Standardized country name: Guyana
+Metadata row for Guyana: Guyana
+Extracted country: Guyana
+Found metadata rows: 1
+Available years in metadata: ['2000']
+Unzipping Guyana 2000 MICS_Datasets.zip to GUY2000MC2...
+Extracted and saved files for Guyana 2000 MICS_Datasets.zip to ../Individual_country_data/GUY_Guyana/03_Survey_data/GUY2000MC2.
+Processing file: Lesotho 2000 MICS_Datasets.zip
+Normalized country name: lesotho
+Standardized country name: Lesotho
+Metadata row for Lesotho: Lesotho
+Extracted country: Lesotho
+Found metadata rows: 1
+Available years in metadata: ['2000']
+Unzipping Lesotho 2000 MICS_Datasets.zip to LSO2000MC2...
+Extracted and saved files for Lesotho 2000 MICS_Datasets.zip to ../Individual_country_data/LSO_Lesotho/03_Survey_data/LSO2000MC2.
+Processing file: Togo 2000 MICS_Datasets.zip
+Normalized country name: togo
+Standardized country name: Togo
+Metadata row for Togo: Togo
+Extracted country: Togo
+Found metadata rows: 1
+Available years in metadata: ['2000']
+Unzipping Togo 2000 MICS_Datasets.zip to TGO2000MC2...
+Extracted and saved files for Togo 2000 MICS_Datasets.zip to ../Individual_country_data/TGO_Togo/03_Survey_data/TGO2000MC2.
+Processing file: Indonesia MICS2 2000_Datasets.zip
+Normalized country name: indonesia
+Standardized country name: Indonesia
+Metadata row for Indonesia: Indonesia
+Extracted country: Indonesia
+Found metadata rows: 1
+Available years in metadata: ['2000']
+Unzipping Indonesia MICS2 2000_Datasets.zip to IDN2000MC2...
+Extracted and saved files for Indonesia MICS2 2000_Datasets.zip to ../Individual_country_data/IDN_Indonesia/03_Survey_data/IDN2000MC2.
+Processing file: Mongolia 2000 MICS_Datasets.zip
+Normalized country name: mongolia
+Standardized country name: Mongolia
+Metadata row for Mongolia: Mongolia
+Extracted country: Mongolia
+Found metadata rows: 1
+Available years in metadata: ['2000']
+Unzipping Mongolia 2000 MICS_Datasets.zip to MNG2000MC2...
+Extracted and saved files for Mongolia 2000 MICS_Datasets.zip to ../Individual_country_data/MNG_Mongolia/03_Survey_data/MNG2000MC2.
+Processing file: Senegal 2000 MICS_Datasets.zip
+Normalized country name: senegal
+Standardized country name: Senegal
+Metadata row for Senegal: Senegal
+Extracted country: Senegal
+Found metadata rows: 1
+Available years in metadata: ['2000']
+Unzipping Senegal 2000 MICS_Datasets.zip to SEN2000MC2...
+Extracted and saved files for Senegal 2000 MICS_Datasets.zip to ../Individual_country_data/SEN_Senegal/03_Survey_data/SEN2000MC2.
+Processing file: Bolivia 2000 MICS_Datasets.zip
+Normalized country name: bolivia
+Standardized country name: Bolivia, Plurinational State of
+Metadata row for Bolivia, Plurinational State of: Bolivia
+Extracted country: Bolivia, Plurinational State of
+Found metadata rows: 1
+Available years in metadata: ['2000']
+Unzipping Bolivia 2000 MICS_Datasets.zip to BOL2000MC2...
+Extracted and saved files for Bolivia 2000 MICS_Datasets.zip to ../Individual_country_data/BOL_Bolivia/03_Survey_data/BOL2000MC2.
+Processing file: Rwanda 2000 MICS_Datasets.zip
+Normalized country name: rwanda
+Standardized country name: Rwanda
+Metadata row for Rwanda: Rwanda
+Extracted country: Rwanda
+Found metadata rows: 1
+Available years in metadata: ['2000']
+Unzipping Rwanda 2000 MICS_Datasets.zip to RWA2000MC2...
+Extracted and saved files for Rwanda 2000 MICS_Datasets.zip to ../Individual_country_data/RWA_Rwanda/03_Survey_data/RWA2000MC2.
+Processing file: Tajikistan 2000 MICS_Datasets.zip
+Normalized country name: tajikistan
+Standardized country name: Tajikistan
+Metadata row for Tajikistan: Tajikistan
+Extracted country: Tajikistan
+Found metadata rows: 1
+Available years in metadata: ['2000']
+Unzipping Tajikistan 2000 MICS_Datasets.zip to TJK2000MC2...
+Extracted and saved files for Tajikistan 2000 MICS_Datasets.zip to ../Individual_country_data/TJK_Tajikistan/03_Survey_data/TJK2000MC2.
+Processing file: Congo, Democratic Republic of 2001 MICS_Datasets.zip
+Normalized country name: congo democratic republic of
+Standardized country name: error
+Matched Democratic Republic of Congo directly in save_name: Democratic Republic of Congo
+Extracted country: error
+Found metadata rows: 1
+Available years in metadata: ['2001']
+Unzipping Congo, Democratic Republic of 2001 MICS_Datasets.zip to COD2001MC2...
+Extracted and saved files for Congo, Democratic Republic of 2001 MICS_Datasets.zip to ../Individual_country_data/COD_Democratic_Republic_of_Congo/03_Survey_data/COD2001MC2.
+Processing file: Albania 2000 MICS_Datasets.zip
+Normalized country name: albania
+Standardized country name: Albania
+Metadata row for Albania: Albania
+Extracted country: Albania
+Found metadata rows: 1
+Available years in metadata: ['2000']
+Unzipping Albania 2000 MICS_Datasets.zip to ALB2000MC2...
+Extracted and saved files for Albania 2000 MICS_Datasets.zip to ../Individual_country_data/ALB_Albania/03_Survey_data/ALB2000MC2.
+Processing file: Dominican Republic 2000 MICS_Datasets.zip
+Normalized country name: dominican republic
+Standardized country name: Dominican Republic
+Metadata row for Dominican Republic: Dominican Republic
+Extracted country: Dominican Republic
+Found metadata rows: 1
+Available years in metadata: ['2000']
+Unzipping Dominican Republic 2000 MICS_Datasets.zip to DOM2000MC2...
+Extracted and saved files for Dominican Republic 2000 MICS_Datasets.zip to ../Individual_country_data/DOM_Dominican_Republic/03_Survey_data/DOM2000MC2.
+Processing file: Philippines 1999 MICS_Datasets.zip
+Normalized country name: philippines
+Standardized country name: Philippines
+Metadata row for Philippines: Philippines
+Extracted country: Philippines
+Found metadata rows: 1
+Available years in metadata: ['1999']
+Unzipping Philippines 1999 MICS_Datasets.zip to PHL1999MC2...
+Extracted and saved files for Philippines 1999 MICS_Datasets.zip to ../Individual_country_data/PHL_Philippines/03_Survey_data/PHL1999MC2.
+Processing file: Kenya 2000 MICS_Datasets.zip
+Normalized country name: kenya
+Standardized country name: Kenya
+Metadata row for Kenya: Kenya
+Extracted country: Kenya
+Found metadata rows: 1
+Available years in metadata: ['2000']
+Unzipping Kenya 2000 MICS_Datasets.zip to KEN2000MC2...
+Extracted and saved files for Kenya 2000 MICS_Datasets.zip to ../Individual_country_data/KEN_Kenya/03_Survey_data/KEN2000MC2.
+Processing file: Gambia 2000 MICS_Datasets.zip
+Normalized country name: gambia
+Standardized country name: Gambia
+Metadata row for Gambia: Gambia
+Extracted country: Gambia
+Found metadata rows: 1
+Available years in metadata: ['2000']
+Unzipping Gambia 2000 MICS_Datasets.zip to GMB2000MC2...
+Extracted and saved files for Gambia 2000 MICS_Datasets.zip to ../Individual_country_data/GMB_Gambia/03_Survey_data/GMB2000MC2.
+Processing file: Azerbaijan 2000 MICS_Datasets.zip
+Normalized country name: azerbaijan
+Standardized country name: Azerbaijan
+Metadata row for Azerbaijan: Azerbaijan
+Extracted country: Azerbaijan
+Found metadata rows: 1
+Available years in metadata: ['2000']
+Unzipping Azerbaijan 2000 MICS_Datasets.zip to AZE2000MC2...
+Extracted and saved files for Azerbaijan 2000 MICS_Datasets.zip to ../Individual_country_data/AZE_Azerbaijan/03_Survey_data/AZE2000MC2.
+Processing file: Lao PDR 2000 MICS_Datasets.zip
+Normalized country name: lao pdr
+Standardized country name: Lao People's Democratic Republic
+Metadata row for Lao People's Democratic Republic: Laos
+Extracted country: Lao People's Democratic Republic
+Found metadata rows: 1
+Available years in metadata: ['2000']
+Unzipping Lao PDR 2000 MICS_Datasets.zip to LAO2000MC2...
+Extracted and saved files for Lao PDR 2000 MICS_Datasets.zip to ../Individual_country_data/LAO_Laos/03_Survey_data/LAO2000MC2.
+Processing file: Bosnia and Herzegovina 2000 MICS_Datasets.zip
+Normalized country name: bosnia and herzegovina
+Standardized country name: Bosnia and Herzegovina
+Metadata row for Bosnia and Herzegovina: Bosnia and Herzegovina
+Extracted country: Bosnia and Herzegovina
+Found metadata rows: 1
+Available years in metadata: ['2000']
+Unzipping Bosnia and Herzegovina 2000 MICS_Datasets.zip to BIH2000MC2...
+Extracted and saved files for Bosnia and Herzegovina 2000 MICS_Datasets.zip to ../Individual_country_data/BIH_Bosnia_and_Herzegovina/03_Survey_data/BIH2000MC2.
+Processing file: Equatorial Guinea 2000 MICS_Datasets.zip
+Normalized country name: equatorial guinea
+Standardized country name: Equatorial Guinea
+Metadata row for Equatorial Guinea: Equatorial Guinea
+Extracted country: Equatorial Guinea
+Found metadata rows: 1
+Available years in metadata: ['2000']
+Unzipping Equatorial Guinea 2000 MICS_Datasets.zip to GNQ2000MC2...
+Extracted and saved files for Equatorial Guinea 2000 MICS_Datasets.zip to ../Individual_country_data/GNQ_Equatorial_Guinea/03_Survey_data/GNQ2000MC2.
+Processing file: Chad 2000 MICS_Datasets.zip
+Normalized country name: chad
+Standardized country name: Chad
+Metadata row for Chad: Chad
+Extracted country: Chad
+Found metadata rows: 1
+Available years in metadata: ['2000']
+Unzipping Chad 2000 MICS_Datasets.zip to TCD2000MC2...
+Extracted and saved files for Chad 2000 MICS_Datasets.zip to ../Individual_country_data/TCD_Chad/03_Survey_data/TCD2000MC2.
+Processing file: Angola 2001 MICS_Datasets.zip
+Normalized country name: angola
+Standardized country name: Angola
+Metadata row for Angola: Angola
+Extracted country: Angola
+Found metadata rows: 1
+Available years in metadata: ['2001']
+Unzipping Angola 2001 MICS_Datasets.zip to AGO2001MC2...
+Extracted and saved files for Angola 2001 MICS_Datasets.zip to ../Individual_country_data/AGO_Angola/03_Survey_data/AGO2001MC2.
+Processing file: Madagascar 2000 MICS_Datasets.zip
+Normalized country name: madagascar
+Standardized country name: Madagascar
+Metadata row for Madagascar: Madagascar
+Extracted country: Madagascar
+Found metadata rows: 1
+Available years in metadata: ['2000']
+Unzipping Madagascar 2000 MICS_Datasets.zip to MDG2000MC2...
+Extracted and saved files for Madagascar 2000 MICS_Datasets.zip to ../Individual_country_data/MDG_Madagascar/03_Survey_data/MDG2000MC2.
+Processing file: Swaziland 2000 MICS_Datasets.zip
+Normalized country name: swaziland
+Standardized country name: Eswatini
+Metadata row for Eswatini: Eswatini
+Extracted country: Eswatini
+Found metadata rows: 1
+Available years in metadata: ['2000']
+Unzipping Swaziland 2000 MICS_Datasets.zip to SWZ2000MC2...
+Extracted and saved files for Swaziland 2000 MICS_Datasets.zip to ../Individual_country_data/SWZ_Eswatini/03_Survey_data/SWZ2000MC2.
+Processing file: Botswana 2000 MICS_Datasets.zip
+Normalized country name: botswana
+Standardized country name: Botswana
+Metadata row for Botswana: Botswana
+Extracted country: Botswana
+Found metadata rows: 1
+Available years in metadata: ['2000']
+Unzipping Botswana 2000 MICS_Datasets.zip to BWA2000MC2...
+Extracted and saved files for Botswana 2000 MICS_Datasets.zip to ../Individual_country_data/BWA_Botswana/03_Survey_data/BWA2000MC2.
+Processing file: Myanmar 2000 MICS_Datasets.zip
+Normalized country name: myanmar
+Standardized country name: Myanmar
+Metadata row for Myanmar: Myanmar
+Extracted country: Myanmar
+Found metadata rows: 1
+Available years in metadata: ['2000']
+Unzipping Myanmar 2000 MICS_Datasets.zip to MMR2000MC2...
+Extracted and saved files for Myanmar 2000 MICS_Datasets.zip to ../Individual_country_data/MMR_Myanmar/03_Survey_data/MMR2000MC2.
+Processing file: Central African Republic 2000 MICS_Datasets.zip
+Normalized country name: central african republic
+Standardized country name: Central African Republic
+Metadata row for Central African Republic: Central African Republic
+Extracted country: Central African Republic
+Found metadata rows: 1
+Available years in metadata: ['2000']
+Unzipping Central African Republic 2000 MICS_Datasets.zip to CAF2000MC2...
+Extracted and saved files for Central African Republic 2000 MICS_Datasets.zip to ../Individual_country_data/CAF_Central_African_Republic/03_Survey_data/CAF2000MC2.
+Processing file: Viet Nam 2000 MICS_Datasets.zip
+Normalized country name: viet nam
+Standardized country name: Viet Nam
+Metadata row for Viet Nam: Vietnam
+Extracted country: Viet Nam
+Found metadata rows: 1
+Available years in metadata: ['2000']
+Unzipping Viet Nam 2000 MICS_Datasets.zip to VNM2000MC2...
+Extracted and saved files for Viet Nam 2000 MICS_Datasets.zip to ../Individual_country_data/VNM_Vietnam/03_Survey_data/VNM2000MC2.
+Processing file: Cote d'Ivoire 2000 MICS_Datasets.zip
+Normalized country name: cote d ivoire
+Standardized country name: Côte d'Ivoire
+Metadata row for Côte d'Ivoire: Cote d'Ivoire
+Extracted country: Côte d'Ivoire
+Found metadata rows: 1
+Available years in metadata: ['2000']
+Unzipping Cote d'Ivoire 2000 MICS_Datasets.zip to CIV2000MC2...
+Extracted and saved files for Cote d'Ivoire 2000 MICS_Datasets.zip to ../Individual_country_data/CIV_Cote_d'Ivoire/03_Survey_data/CIV2000MC2.
+Processing file: Cameroon 2000 MICS_Datasets.zip
+Normalized country name: cameroon
+Standardized country name: Cameroon
+Metadata row for Cameroon: Cameroon
+Extracted country: Cameroon
+Found metadata rows: 1
+Available years in metadata: ['2000']
+Unzipping Cameroon 2000 MICS_Datasets.zip to CMR2000MC2...
+Extracted and saved files for Cameroon 2000 MICS_Datasets.zip to ../Individual_country_data/CMR_Cameroon/03_Survey_data/CMR2000MC2.
+Processing file: Sao Tome and Principle 2000 MICS_Datasets.zip
+Normalized country name: sao tome and principle
+Standardized country name: error
+Fuzzy matched sao tome and principle to Sao Tome and Principe (score: 100.0)
+Extracted country: error
+Found metadata rows: 1
+Available years in metadata: ['2000']
+Unzipping Sao Tome and Principle 2000 MICS_Datasets.zip to STP2000MC2...
+Extracted and saved files for Sao Tome and Principle 2000 MICS_Datasets.zip to ../Individual_country_data/STP_Sao_Tome_and_Principe/03_Survey_data/STP2000MC2.
+Processing file: Zambia 1999 MICS_Datasets.zip
+Normalized country name: zambia
+Standardized country name: Zambia
+Metadata row for Zambia: Zambia
+Extracted country: Zambia
+Found metadata rows: 1
+Available years in metadata: ['1999']
+Unzipping Zambia 1999 MICS_Datasets.zip to ZMB1999MC2...
+Extracted and saved files for Zambia 1999 MICS_Datasets.zip to ../Individual_country_data/ZMB_Zambia/03_Survey_data/ZMB1999MC2.
