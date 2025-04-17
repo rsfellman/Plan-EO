@@ -544,7 +544,7 @@ def extract_and_save_zipped_files(file_extraction_log, zip_file_path, mics_metad
                                 alt_survey_folder_name = f"{iso3_code}{alt_year}MC{survey_round}"
                                 alt_survey_folder_path = os.path.join(country_folder_path, "03_Survey_data", alt_survey_folder_name)
 
-                # Make sure we're not overwriting that one either
+                                # Make sure we're not overwriting that one either
                                 if os.path.exists(alt_survey_folder_path):
                                     logger.warning(f"Alternative path {alt_survey_folder_path} already exists too. Skipping.")
                                     continue
@@ -593,7 +593,7 @@ def extract_and_save_zipped_files(file_extraction_log, zip_file_path, mics_metad
                 inner_zip_path = os.path.join(temp_dir, zip_file)
                 logger.info(f"Unzipping {zip_file} to {survey_folder_name}...")
                 try:
-                    ### changed here
+                    
                     extract_nested_zip(inner_zip_path, survey_folder_path)
                     
 
@@ -613,6 +613,301 @@ def extract_and_save_zipped_files(file_extraction_log, zip_file_path, mics_metad
     if 'temp_dir' in locals() and os.path.exists(temp_dir):
         shutil.rmtree(temp_dir)
 
+
+#function to parse individual survey
+def extract_single_zipped_survey(zip_file_path, mics_metadata, survey_round):
+    """
+    Handles a single zip file (not a container of other zips). Unzips it, determines the inner folder or file name,
+    and processes using full existing logic. All edge cases, standardization, and flattening are preserved.
+
+    Parameters:
+        file_extraction_log (str): Path to write log file.
+        zip_file_path (str): Path to the zip file to process.
+        mics_metadata (pd.DataFrame): Processed metadata.
+        survey_round (int): The MICS round number.
+
+    Returns:
+        None
+    """
+
+
+
+    # Define temp directory
+    temp_dir = os.path.join(os.getcwd(), 'temp_single_survey')
+    if os.path.exists(temp_dir):
+        shutil.rmtree(temp_dir)
+    os.makedirs(temp_dir, exist_ok=True)
+
+    try:
+        
+        # Step 1: unzip the provided zip file
+        with zipfile.ZipFile(zip_file_path, 'r') as zip_ref:
+            zip_ref.extractall(temp_dir)
+            print(f"Unzipped single survey file: {zip_file_path}")
+
+        # Step 2: identify the unzipped name to parse
+        contents = os.listdir(temp_dir)
+        if not contents:
+            print("Unzipped directory is empty.")
+            return
+        
+        # Look for the first directory or zip file (skip readmes, etc.)
+        inner_item = None
+        extra_files = []
+    
+        for item in contents:
+            item_path = os.path.join(temp_dir, item)
+            if os.path.isdir(item_path) or zipfile.is_zipfile(item_path):
+                #take only first folder or zipfile
+                if inner_item is None:
+                    inner_item = item
+            else:
+                extra_files.append(item_path) 
+
+        if not inner_item:
+            print("No valid zip or folder found inside the extracted file.")
+            return
+
+        name_to_parse = os.path.splitext(inner_item)[0]
+
+        # Step 3: parse name
+        name, year, country_part, year_from_filename = parse_file_name(name_to_parse)
+
+        # Step 4: edge cases
+        extra_info_match = re.search(r"\((.*?)\)", name)
+        extra_info = extra_info_match.group(1).strip() if extra_info_match else None
+        country_part, edge_info = parse_edge_cases(country_part, name)
+        if edge_info:
+            extra_info = edge_info
+        if extra_info:
+            print(f"territory: {extra_info}")
+            return
+
+        #remoce extra info in prentheses
+        country_part = re.sub(r"\s*\(.*?\)", "", country_part).strip()
+
+        #normalize country name
+        country_norm = normalize(country_part)
+        country_norm = re.sub(r"\s*datasets\s*", "", country_norm, flags=re.IGNORECASE).strip()
+        print(f"Normalized country name: {country_norm}")
+
+        # Manual remap
+        country_lookup = {
+            "cote d ivoire": "Côte d'Ivoire",
+            "lao pdr": "Laos",
+            "guinea bissau": "Guinea-Bissau",
+            "lebanon palestinians": "Lebanon",
+            "swaziland": "Eswatini",
+            "congo democratic republic of": "Democratic Republic of Congo",
+            'congo dr': "Democratic Republic of Congo",
+            "drcongo": "Democratic Republic of Congo",
+            "state of palestine": "Palestine",
+            "the gambia": "Gambia",
+            "kosovo under unsc res 1244": "Kosovo",
+            "thailand bangkok": "Thailand"
+        }
+        #deal with known edge cases
+        if country_norm in country_lookup:
+            country_norm = country_lookup[country_norm]
+
+        #standardize country name
+        country = standardize_country_name(country_norm)
+        metadata = mics_metadata[mics_metadata['round_num'] == survey_round]
+        possible_country = mics_metadata[mics_metadata['round_num'] == survey_round]['save_name']
+
+
+        # Step 5: match metadata
+        if country == "error":
+            # Step 1: Try exact match on save_name column
+            metadata_row = metadata[metadata['save_name'].str.contains(
+                rf'\b{re.escape(country_norm)}\b', case=False, na=False)]
+
+            if not metadata_row.empty:
+                print(f"Matched {country_norm} directly in save_name: {metadata_row['save_name'].values[0]}")
+            else:
+                # Step 2: Try fuzzy matching if exact match failed
+                result = rapidfuzz.process.extractOne(
+                    country_norm, possible_country, scorer=rapidfuzz.fuzz.partial_token_ratio)
+
+                if result:
+                    match, score, *_ = result
+                    if score >= 95:
+                        print(f"Fuzzy matched {country_norm} to {match} (score: {score})")
+                        metadata_row = metadata[metadata['save_name'].str.contains(
+                            rf'\b{re.escape(match)}\b', case=False, na=False)]
+                    else:
+                        print(f"Fuzzy match score too low for {country_norm}. Skipping.")
+                        return
+                else:
+                    print(f"No fuzzy match found for {country_norm}. Skipping.")
+                    return
+        else:
+            # Normal metadata match when country standardization succeeded
+            metadata_row = metadata[metadata['standardized'] == country]
+            if metadata_row.empty:
+                print(f"Standardized name '{country}' not found in metadata. Skipping.")
+                return
+            else:
+                print(f"Metadata row for {country}: {metadata_row['save_name'].values[0]}")
+
+        # Step 6: year fallback
+        if year == "XXXX" or not re.fullmatch(r'\d{4}', year):
+                unique_years = metadata_row['year'].dropna().unique()
+
+                if len(unique_years) == 1:
+                    year_candidate = str(unique_years[0])
+                    if '-' in year_candidate:
+                        parts = year_candidate.split('-')
+                        year = parts[1] if re.fullmatch(r'\d{4}', parts[1]) else parts[0]
+                    else:
+                        year = year_candidate
+
+                elif len(unique_years) > 1:
+                    # Choose the most recent year across all available parts
+                    try:
+                        year_candidate = str(max(
+                        int(part)
+                        for y in unique_years
+                        for part in str(y).split('-')
+                        if part.isdigit()
+                        ))
+                        year = year_candidate
+                    except ValueError:
+                        print(f"Could not determine the most recent year for {country_part}. Skipping.")
+                        return
+                else:
+                    print(f"No year found for {country_part}. Skipping.")
+                    return
+
+        if '-' in year:
+            parts = year.split('-')
+            if re.fullmatch(r'\d{4}', parts[1]):
+                year = parts[1]
+            else:
+                year = parts[0]
+
+        print(f"Extracted country: {country}")
+        print(f"Found metadata rows: {len(metadata_row)}")
+        print(f"Available years in metadata: {metadata_row['year'].unique()}")
+
+        #get iso3 code
+        iso3_code = metadata_row['country_code'].values[0]
+
+        #get full country name
+        full_country_name = metadata_row['save_name'].values[0].replace(' ', '_')
+
+        #create country folder name (eg. AFG2004MC5)
+        output_dir = '../Individual_country_data'
+        country_folder_path = os.path.join(output_dir, f"{iso3_code}_{full_country_name}")
+        os.makedirs(country_folder_path, exist_ok=True)
+
+        #create survey folder name
+        survey_folder_name = f"{iso3_code}{year}MC{survey_round}"
+        survey_folder_path = os.path.join(country_folder_path, "03_Survey_data", survey_folder_name)
+
+        # Handle folder conflict
+        if os.path.exists(survey_folder_path):
+            if year_from_filename:
+                print(f"Survey folder {survey_folder_path} already exists but year came from filename. Attempting to rename existing folder and keep filename year.")
+                
+                #try to rename the existing folder to avoid overwriting
+                available_years = metadata_row['year'].unique()
+                if len(available_years) > 0:
+                    try:
+                        #extract both start and end years from ranges and find earliest year
+                        other_year = min(
+                            int(part)
+                            for y in available_years
+                            for part in str(y).split('-')
+                            if part.isdigit()
+                        )
+                        alt_year = str(other_year)
+                        if '-' in alt_year:
+                            alt_year = alt_year.split('-')[0]
+
+                        #build alternative folder name
+                        alt_survey_folder_path = os.path.join(country_folder_path, "03_Survey_data", f"{iso3_code}{alt_year}MC{survey_round}")
+
+                        #make sure we're not overwriting that one either
+                        if os.path.exists(alt_survey_folder_path):
+                            print(f"Alternative path {alt_survey_folder_path} already exists too. Skipping.")
+                            return
+                        
+                        #rename the original existing folder
+                        os.rename(survey_folder_path, alt_survey_folder_path)
+                        print(f"Renamed existing folder to {alt_survey_folder_path}")
+
+                        #continue as planned using original survey_folder_path
+                        os.makedirs(survey_folder_path, exist_ok=True)
+
+                    except Exception as e:
+                        print(f"Could not rename existing folder {survey_folder_path}. Reason: {e}")
+                        return
+                else:
+                    print(f"No available years to rename existing folder for {country_part}. Skipping.")
+                    return
+        else:
+            # Only resolve conflict using metadata if year was not from filename
+            available_years = metadata_row['year'].unique()
+            if len(available_years) > 1:
+                try:
+                    alt_year = get_available_unclaimed_year(available_years, iso3_code, country_folder_path, survey_round)
+                    if not alt_year:
+                        print(f"Alternative paths for {available_years} all exist. Skipping.")
+                        return
+                                
+                    if '-' in alt_year:
+                        alt_year = alt_year.split('-')[0]
+
+                    survey_folder_name = f"{iso3_code}{alt_year}MC{survey_round}"
+                    survey_folder_path = os.path.join(country_folder_path, "03_Survey_data", survey_folder_name)
+
+                except ValueError:
+                    print(f"Warning: Could not determine the most recent year for {country_part}. No unique year Skipping.")
+                    return
+            else:
+                # If there's only one available year, use it directly
+                alt_year = str(available_years[0])
+                if '-' in alt_year:
+                    parts = alt_year.split('-')
+                    alt_year = parts[1] if re.fullmatch(r'\d{4}', parts[1]) else parts[0]
+
+                survey_folder_name = f"{iso3_code}{alt_year}MC{survey_round}"
+                survey_folder_path = os.path.join(country_folder_path, "03_Survey_data", survey_folder_name)
+                #print(f"Warning: no year found for {country_part}. Skipping.")
+                #return
+
+        # Step 7: flatten and extract contents
+        inner_path = os.path.join(temp_dir, inner_item)
+        if zipfile.is_zipfile(inner_path):
+            extract_nested_zip(inner_path, survey_folder_path)
+            print(f"Extracted zip contents to {survey_folder_path}")
+        elif os.path.isdir(inner_path):
+            # Ensure the target directory exists before moving
+            os.makedirs(survey_folder_path, exist_ok=True)
+
+            # Manually move and flatten all files from the directory
+            for root, _, files in os.walk(inner_path):
+                for file in files:
+                    full_path = os.path.join(root, file)
+                    shutil.move(full_path, survey_folder_path)
+            print(f"Moved directory contents to {survey_folder_path}")
+        
+        # Move any extra top-level files from the original zip (e.g., README, .rtf, .pdf, etc.)
+        for extra_path in extra_files:
+            try:
+                shutil.move(extra_path, survey_folder_path)
+                print(f"Moved extra file {os.path.basename(extra_path)} to {survey_folder_path}")
+            except Exception as e:
+                print(f"Failed to move extra file {extra_path}: {e}")
+
+    except Exception as e:
+        print(f"Unexpected error while processing {zip_file_path}: {e}")
+    finally:
+        #clrsn up temporary directory
+        if os.path.exists(temp_dir):
+            shutil.rmtree(temp_dir)
+        
 
 
 #function to parse error logs
