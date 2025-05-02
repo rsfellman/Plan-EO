@@ -12,14 +12,3 @@ To address these challenges, our capstone team developed a robust and semi-autom
 - **Demographic and Health Surveys**: Interntional health surveys and boundaries  
 - **Multiple Indicator Cluster Surveys**: Internationally comparable health surveys  
 
-## References
-
-“About,” OpenStreetMap. https://www.openstreetmap.org/about
-
-J. M. Colston \textit{et al.}, “The Planetary Child Health \&amp; Enterics Observatory (Plan-EO): a protocol for an interdisciplinary research initiative and web-based dashboard for mapping enteric infectious diseases and their risk factors and interventions in LMICs,” \textit{Research Square (Research Square)}, Jan. 2024, doi: 10.21203/rs.3.rs-2640564/v3.
-
-“Open Spatial Demographic Data and Research - WorldPop,” WorldPop, Sep. 16, 2024. https://www.worldpop.org/
-
-UNICEF, “Multiple Indicator Cluster Surveys (MICS),” MICS | UNICEF. https://mics.unicef.org/.
-
-USAID, “The DHS Program: Quality information to plan, monitor and improve population, health, and nutrition programs.” https://dhsprogram.com/.
