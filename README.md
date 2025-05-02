@@ -12,3 +12,13 @@ To address these challenges, our capstone team developed a robust and semi-autom
 - **Demographic and Health Surveys**: Interntional health surveys and boundaries  
 - **Multiple Indicator Cluster Surveys**: Internationally comparable health surveys  
 
+## Files
+The files that will assist with future data updates are as follows:  
+- 02_Settlements_OSM_initialize.ipynb
+- 02_Settlements_OSM_update.ipynb
+- 04_worldpop_boundaries.ipynb
+- MICS_module.py
+- MICS.ipynb (Has instructions and examples)
+
+
+Other files were used for testing and/or initializing the data sources.
