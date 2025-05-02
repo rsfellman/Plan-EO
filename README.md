@@ -22,3 +22,7 @@ The files that will assist with future data updates are as follows:
 
 
 Other files were used for testing and/or initializing the data sources.
+
+## Paper
+Find an overview of our process and methods here:  
+[Read the paper](./The_Plan-EO_Pipeline.pdf)
